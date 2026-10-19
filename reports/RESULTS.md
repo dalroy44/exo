@@ -7,8 +7,8 @@ Written 2026-10-19 from [`QUICKLOOK.md`](QUICKLOOK.md) (28 spectra). Numbers go 
 ```
  Is there evidence of life on K2-18 b in this data?        NO
  Is there a solid detection of any single gas here?         NOT YET
- Is DMS (the "life gas") detected?                          NO  (best case ~2.5 sigma, in 1 of 3 pipelines' worth of agreement)
- Is CH4 (methane) there?                                    PROBABLY, but pipeline-dependent
+ Is DMS (the "life gas") detected?                          NO  (best case 2.5 sigma, and it varies by pipeline)
+ Is CH4 (methane) there?                                    POSSIBLE; the hint depends on the pipeline
 ```
 
 This is a first-pass screen, not a retrieval. It can only say "worth a closer look" or "nothing here".
@@ -27,7 +27,7 @@ Each line in the report is `band   excess +/- error   N sigma`. It asks: *is the
 
 A **negative** sigma means the window sits *below* the baseline. Absorption by a gas raises the apparent planet size, so a dip is noise or a baseline problem, not a gas.
 
-## Scoreboard (range across all reductions, 10 spectra families)
+## Scoreboard (range across all spectra)
 
 | gas | band | spectra | range (sigma) | verdict |
 |---|---|---:|---|---|
