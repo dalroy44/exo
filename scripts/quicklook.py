@@ -56,11 +56,11 @@ def scoreboard(paths):
         if not v:
             continue
         lo, hi = min(v), max(v)
-        word = "noise" if hi < 1 else "weak" if hi < 2 else "hint" if hi < 3 else "interesting" if hi < 5 else "strong"
+        word = "dip (not a signal)" if hi < 1 and lo < -1.5 else "noise" if hi < 1 else "weak" if hi < 2 else "hint" if hi < 3 else "interesting" if hi < 5 else "strong"
         k = min(10, max(0, round(hi)))
         gas, um = n.split("_")
         rows.append(f"| {gas} | {um} um | {len(v)} | {lo:.1f} to {hi:.1f} | {sum(x >= 2 for x in v)} | "
-                    f"`{'#' * k}{'.' * (10 - k)}` {word}{' (pipelines disagree)' if hi - lo > 2 else ''} |")
+                    f"`{'#' * k}{'.' * (10 - k)}` {word}{' (pipelines disagree)' if hi - lo > 2 and hi >= 1 else ''} |")
     return "\n".join(rows)
 
 

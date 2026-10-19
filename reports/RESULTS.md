@@ -46,6 +46,8 @@ _Generated 2026-10-19 from 28 spectra by `scripts/quicklook.py`._
 | NH3 | 10.5 um | 5 | 0.7 to 3.1 | 2 | `###.......` interesting (pipelines disagree) |
 <!-- scoreboard:end -->
 
+Verdicts use the single best spectrum for each band, so read them together with the notes below. Several spectra are the same data reduced differently.
+
 ## What stands out
 
 1. **Methane is the only gas with a repeated hint, at 3.3 um.** Five of nine spectra reach 2 sigma or more, but the exoTEDRF reduction of the same data gives about zero. When the answer depends on who reduced the data, the detection is not secure yet.
