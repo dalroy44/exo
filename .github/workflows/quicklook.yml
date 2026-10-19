@@ -18,7 +18,7 @@ jobs:
             for f in data/external/*/*.csv data/external/*/*.dat data/external/*/K2-18b_*.txt data/published/*.csv; do
               [ -e "$f" ] || continue
               echo; echo "## $(basename "$f" .csv)"; echo '```'
-              python scripts/quicklook.py "$f" | grep -v 'no coverage'; echo '```'
+              python scripts/quicklook.py "$f" 2>&1 | grep -v 'no coverage' || true; echo '```'
             done; } > reports/QUICKLOOK.md
       - run: |
           git config user.name github-actions
