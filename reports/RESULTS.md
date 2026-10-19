@@ -30,6 +30,20 @@ A **negative** sigma means the window sits *below* the baseline. Absorption by a
 ## Scoreboard (auto-generated)
 
 <!-- scoreboard:start -->
+_Generated 2026-10-19 from 28 spectra by `scripts/quicklook.py`._
+
+| gas | band | spectra | range (sigma) | spectra >= 2 sigma | verdict |
+|---|---|---:|---|---:|---|
+| H2O | 1.4 um | 3 | 1.1 to 1.5 | 0 | `#.........` weak |
+| H2O | 1.9 um | 3 | 1.2 to 1.5 | 0 | `##........` weak |
+| CH4 | 2.3 um | 3 | 0.2 to 0.3 | 0 | `..........` noise |
+| CH4 | 3.3 um | 9 | -0.1 to 3.0 | 5 | `###.......` hint (pipelines disagree) |
+| DMS | 3.4 um | 9 | -0.0 to 1.5 | 0 | `#.........` weak |
+| CO2 | 4.3 um | 9 | 0.8 to 1.8 | 0 | `##........` weak |
+| H2O | 6.3 um | 5 | -2.0 to 0.1 | 0 | `..........` noise (pipelines disagree) |
+| DMS | 6.9 um | 5 | 0.8 to 2.5 | 3 | `##........` hint |
+| CH4 | 7.7 um | 5 | -0.4 to 0.7 | 0 | `#.........` noise |
+| NH3 | 10.5 um | 5 | 0.7 to 3.1 | 2 | `###.......` interesting (pipelines disagree) |
 <!-- scoreboard:end -->
 
 ## What stands out
