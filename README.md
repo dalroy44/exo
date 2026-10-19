@@ -11,6 +11,8 @@ Public JWST data, open tools, reproducible constraints on CH4, CO2, H2O, NH3, CO
                                                      # add --inflate 1.5 for error inflation
 
 ## Weekly check
+Plain-language reading of the quick-look: [reports/RESULTS.md](reports/RESULTS.md). Live status: [reports/DASHBOARD.md](reports/DASHBOARD.md).
+
 `scripts/weekly_check.py` (MAST, NASA Exoplanet Archive, arXiv) runs Mondays 03:30 UTC via
 `.github/workflows/weekly.yml`, writes `reports/YYYY-MM-DD.md` and `reports/state.json`, commits both.
 Public repos: scheduled runs pause after 60 days of no activity (the weekly commit counts as activity).
