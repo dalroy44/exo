@@ -1,5 +1,6 @@
 """First-pass band significance for a transmission spectrum, or list JWST obs of K2-18."""
 import argparse
+import datetime as dt
 import numpy as np
 
 # band centres/widths in micron; CH4 and DMS overlap near 3.3-3.4 so 3.4 alone can't establish DMS
@@ -42,6 +43,33 @@ def load(path):
     return wl, d, e
 
 
+def scoreboard(paths):
+    """Markdown table: per band, the range of sigma across all spectra."""
+    res = {b: [] for b in BANDS}
+    for p in paths:
+        for n, dd, ee, _ in band_table(*load(p)):
+            if dd is not None:
+                res[n].append(dd / ee)
+    rows = [f"_Generated {dt.date.today()} from {len(paths)} spectra by `scripts/quicklook.py`._", "",
+            "| gas | band | spectra | range (sigma) | spectra >= 2 sigma | verdict |", "|---|---|---:|---|---:|---|"]
+    for n, v in res.items():
+        if not v:
+            continue
+        lo, hi = min(v), max(v)
+        word = "noise" if hi < 1 else "weak" if hi < 2 else "hint" if hi < 3 else "interesting" if hi < 5 else "strong"
+        k = min(10, max(0, round(hi)))
+        gas, um = n.split("_")
+        rows.append(f"| {gas} | {um} um | {len(v)} | {lo:.1f} to {hi:.1f} | {sum(x >= 2 for x in v)} | "
+                    f"`{'#' * k}{'.' * (10 - k)}` {word}{' (pipelines disagree)' if hi - lo > 2 else ''} |")
+    return "\n".join(rows)
+
+
+def splice(path, md):
+    a, b = "<!-- scoreboard:start -->", "<!-- scoreboard:end -->"
+    t = open(path).read()
+    open(path, "w").write(t.split(a)[0] + a + "\n" + md + "\n" + b + t.split(b)[1])
+
+
 def list_mast():
     from astroquery.mast import Observations
     t = Observations.query_criteria(objectname="K2-18", radius="0.01 deg", obs_collection="JWST")
@@ -50,14 +78,19 @@ def list_mast():
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
-    p.add_argument("csv", nargs="?")
+    p.add_argument("files", nargs="*")
+    p.add_argument("--scoreboard", action="store_true")
+    p.add_argument("--into", help="splice the scoreboard into this markdown file")
     p.add_argument("--inflate", type=float, default=1.0)
     p.add_argument("--list-mast", action="store_true")
     a = p.parse_args()
     if a.list_mast:
         list_mast()
-    elif a.csv:
-        wl, d, e = load(a.csv)
+    elif a.scoreboard:
+        md = scoreboard(a.files)
+        splice(a.into, md) if a.into else print(md)
+    elif a.files:
+        wl, d, e = load(a.files[0])
         for n, dd, ee, s in band_table(wl, d, e, a.inflate):
             print(f"{n:10s} {'' if dd is None else f'{dd:8.1f} +/- {ee:.1f} ppm':22s} {s}")
     else:

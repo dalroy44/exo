@@ -1,6 +1,6 @@
 # What the quick-look results mean
 
-Written 2026-10-19 from [`QUICKLOOK.md`](QUICKLOOK.md) (28 spectra). Numbers go stale if data are added; rerun the reading, don't trust the date.
+Commentary written 2026-10-19. The scoreboard table below is regenerated on every quick-look run; the text around it is not, so recheck it after new data arrive.
 
 ## The one-minute version
 
@@ -27,19 +27,10 @@ Each line in the report is `band   excess +/- error   N sigma`. It asks: *is the
 
 A **negative** sigma means the window sits *below* the baseline. Absorption by a gas raises the apparent planet size, so a dip is noise or a baseline problem, not a gas.
 
-## Scoreboard (range across all spectra)
+## Scoreboard (auto-generated)
 
-| gas | band | spectra | range (sigma) | verdict |
-|---|---|---:|---|---|
-| CH4 | 3.3 um | 9 | -0.1 to 3.0 | `###.......` hint; flips with the pipeline |
-| CH4 | 2.3 um | 3 | 0.2 to 0.3 | `#.........` nothing |
-| CH4 | 7.7 um | 5 | -0.4 to 0.7 | `#.........` nothing |
-| CO2 | 4.3 um | 9 | 0.8 to 1.8 | `##........` weak, consistently positive |
-| H2O | 1.4 / 1.9 um | 3 | 1.1 to 1.5 | `##........` weak |
-| H2O | 6.3 um | 5 | -2.0 to 0.1 | `#.........` dip, not a signal |
-| DMS | 3.4 um | 9 | 0.0 to 1.5 | `#.........` nothing |
-| DMS | 6.9 um | 5 | 0.8 to 2.5 | `###.......` hint; 3 of 5 spectra above 2 |
-| NH3 | 10.5 um | 5 | 0.7 to 3.1 | `###.......` hint; see caveat below |
+<!-- scoreboard:start -->
+<!-- scoreboard:end -->
 
 ## What stands out
 

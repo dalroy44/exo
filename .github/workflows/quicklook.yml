@@ -14,12 +14,15 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install numpy
       - run: |
+          files=()
           { echo "# Quick-look band significances"; echo; echo "Generated $(date -u +%F) by \`scripts/quicklook.py\`. Crude local-baseline test, not a retrieval."
             for f in data/external/*/*.csv data/external/*/*.dat data/external/*/K2-18b_*.txt data/published/*.csv; do
               [ -e "$f" ] || continue
+              files+=("$f")
               echo; echo "## $(basename "$f" .csv)"; echo '```'
               python scripts/quicklook.py "$f" 2>&1 | grep -v 'no coverage' || true; echo '```'
             done; } > reports/QUICKLOOK.md
+          python scripts/quicklook.py --scoreboard --into reports/RESULTS.md "${files[@]}"
       - run: |
           git config user.name github-actions
           git config user.email github-actions@users.noreply.github.com
