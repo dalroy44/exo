@@ -23,6 +23,18 @@ def band_table(wl, d, e, inflate=1.0):
     return rows
 
 
+def load(path):
+    """Accept wavelength_um,depth_ppm,err_ppm or Zenodo-style wavelength,dppm,dppm_err[_neg,_pos]."""
+    t = np.genfromtxt(path, delimiter=",", names=True)
+    n = t.dtype.names
+    wl = t["wavelength_um" if "wavelength_um" in n else "wavelength"]
+    d = t["depth_ppm" if "depth_ppm" in n else "dppm"]
+    if "err_ppm" in n: e = t["err_ppm"]
+    elif "dppm_err" in n: e = t["dppm_err"]
+    else: e = (t["dppm_err_neg"] + t["dppm_err_pos"]) / 2  # asymmetric errors averaged
+    return wl, d, e
+
+
 def list_mast():
     from astroquery.mast import Observations
     t = Observations.query_criteria(objectname="K2-18", radius="0.01 deg", obs_collection="JWST")
@@ -38,7 +50,7 @@ if __name__ == "__main__":
     if a.list_mast:
         list_mast()
     elif a.csv:
-        wl, d, e = np.loadtxt(a.csv, delimiter=",", skiprows=1, unpack=True)
+        wl, d, e = load(a.csv)
         for n, dd, ee, s in band_table(wl, d, e, a.inflate):
             print(f"{n:10s} {'' if dd is None else f'{dd:8.1f} +/- {ee:.1f} ppm':22s} {s}")
     else:
