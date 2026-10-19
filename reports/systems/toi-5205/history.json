@@ -1,0 +1,40 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 18,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [
+    "jw07683012001_xx101_00001_miri",
+    "jw03171-o017_t007_nirspec_clear-prism-s1600a1-sub512",
+    "jw07683001001_xx103_00001_miri",
+    "jw03171016001_04101_00001-seg002_nrs2",
+    "jw03171-o018_t007_nirspec_clear-prism-s1600a1-sub512",
+    "jw07683001001_xx102_00001_miri",
+    "jw07683002001_xx103_00001_miri",
+    "jw03171018001_04101_00001-seg002_nrs2",
+    "jw03171017001_04101_00001-seg002_nrs2",
+    "jw03171016001_04101_00001-seg001_nrs2",
+    "jw03171016001_04101_00001-seg003_nrs2",
+    "jw03171018001_04101_00001-seg003_nrs2",
+    "jw03171018001_04101_00001-seg001_nrs2",
+    "jw03171-o016_t007_nirspec_clear-prism-s1600a1-sub512",
+    "jw03171017001_04101_00001-seg001_nrs2",
+    "jw07683011001_xx101_00001_miri",
+    "jw03171017001_04101_00001-seg003_nrs2",
+    "jw07683002001_xx102_00001_miri"
+   ],
+   "archive": [
+    "TOI-5205 b.pl_rade: None -> 11.6",
+    "TOI-5205 b.pl_bmasse: None -> 343.0",
+    "TOI-5205 b.pl_eqt: None -> 737.0",
+    "TOI-5205 b.st_teff: None -> 3430.0",
+    "TOI-5205 b.st_rad: None -> 0.394",
+    "TOI-5205 b.pl_rade_reflink: None -> <a refstr=KANODIA_ET_AL__2023 href=https://ui.adsabs.harvard.edu/abs/2023AJ....165..120K/abstract target=ref>Kanodia et al. 2023</a>"
+   ],
+   "arxiv": [
+    "2209.11160"
+   ]
+  }
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 5,
+  "arxiv_n": 3,
+  "new": {
+   "mast": [
+    "jw01033-o006_t005_miri_p750l",
+    "jw02512-o013_t008_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o011_t008_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o012_t008_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01033-o005_t004_miri_p750l-slitlessprism"
+   ],
+   "archive": [
+    "L 168-9 b.pl_rade: None -> 1.63",
+    "L 168-9 b.pl_bmasse: None -> 4.07",
+    "L 168-9 b.pl_eqt: None -> 998.0",
+    "L 168-9 b.st_teff: None -> 3842.0",
+    "L 168-9 b.st_rad: None -> 0.604",
+    "L 168-9 b.pl_rade_reflink: None -> <a refstr=HOBSON_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...688A.216H/abstract target=ref>Hobson et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2411.03154",
+    "2211.16123",
+    "2001.09175"
+   ]
+  }
+ }
+]

@@ -1,0 +1,48 @@
+{
+ "archive": {
+  "HD 149026 b.pl_bmasse": 120.7754,
+  "HD 149026 b.pl_eqt": 1626.0,
+  "HD 149026 b.pl_rade": 8.29466,
+  "HD 149026 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "HD 149026 b.st_rad": 1.41,
+  "HD 149026 b.st_teff": 6179.0
+ },
+ "arxiv": {
+  "1805.04067": "Reassessing Exoplanet Light Curves with a Thermal Model",
+  "2208.01650": "Planetary parameters, XUV environments and mass-loss rates for nearby gaseous planets with X-ray detected host-stars",
+  "2308.13622": "Detection of atmospheric species and dynamics in the bloated hot Jupiter WASP-172~b with ESPRESSO",
+  "2407.01266": "Evidence of Water Vapor in the Atmosphere of a Metal-Rich Hot Saturn with High-Resolution Transmission Spectroscopy",
+  "2509.25785": "Revisiting the Atmosphere of HD 149026b: The Role of Stellar Abundances and Choice of Opacities in Exoplanet Atmosphere Modeling"
+ },
+ "mast": {
+  "jw01274-o004_t003_nircam_f322w2-grismr-subgrism64": "1274 NIRCAM/GRISM release 60013.69280081",
+  "jw01274-o005_t003_nircam_f444w-grismr-subgrism64": "1274 NIRCAM/GRISM release 60013.69689807",
+  "jw01274004001_04103_00001-seg001_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg002_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg003_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg004_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg005_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg006_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg007_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg008_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg009_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg010_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274004001_04103_00001-seg011_nrca3": "1274 NIRCAM/IMAGE release 60013.69280081",
+  "jw01274005001_04103_00001-seg001_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg001_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg002_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg002_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg003_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg003_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg004_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg004_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg005_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg005_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg006_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg006_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg007_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg007_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg008_nrca1": "1274 NIRCAM/IMAGE release 60013.69689807",
+  "jw01274005001_04103_00001-seg008_nrca3": "1274 NIRCAM/IMAGE release 60013.69689807"
+ }
+}

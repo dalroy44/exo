@@ -1,0 +1,29 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 1,
+  "arxiv_n": 7,
+  "new": {
+   "mast": [
+    "jw03838-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TrES-4 b.pl_rade: None -> 18.04649",
+    "TrES-4 b.pl_bmasse: None -> 247.9074",
+    "TrES-4 b.pl_eqt: None -> 1778.0",
+    "TrES-4 b.st_teff: None -> 6200.0",
+    "TrES-4 b.st_rad: None -> 1.66",
+    "TrES-4 b.pl_rade_reflink: None -> <a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>"
+   ],
+   "arxiv": [
+    "1010.4585",
+    "0910.4394",
+    "0902.3995",
+    "0902.3998",
+    "0810.0021",
+    "0805.1733",
+    "0803.1839"
+   ]
+  }
+ }
+]

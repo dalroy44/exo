@@ -1,0 +1,31 @@
+{
+ "archive": {
+  "WASP-43 b.pl_bmasse": 565.714,
+  "WASP-43 b.pl_eqt": 1426.7,
+  "WASP-43 b.pl_rade": 10.424,
+  "WASP-43 b.pl_rade_reflink": "<a refstr=HELLIER_ET_AL__2011 href=https://ui.adsabs.harvard.edu/abs/2011arXiv1104.2823H/abstract target=ref> Hellier et al. 2011 </a>",
+  "WASP-43 b.st_rad": 0.6,
+  "WASP-43 b.st_teff": 4400.0
+ },
+ "arxiv": {
+  "1401.3007": "Broad-band transmission spectrum and K-band thermal emission of WASP-43b as observed from the ground",
+  "1502.00576": "High-energy irradiation and mass loss rates of hot Jupiters in the solar neighborhood",
+  "1805.04067": "Reassessing Exoplanet Light Curves with a Thermal Model",
+  "2010.07303": "Coupled Day-Night Models of Exoplanetary Atmospheres",
+  "2103.14566": "An exploration of model degeneracies with a unified phase curve retrieval analysis: The light and dark sides of WASP-43 b",
+  "2103.16676": "The Dark World: A Tale of WASP-43b in Reflected Light with HST WFC3/UVIS",
+  "2105.09668": "Multi-band transit follow up observations of five hot-Jupiters with critical noise treatments: Improved physical properties",
+  "2110.02247": "Retrieving Exoplanet Atmospheres using Planetary Infrared Excess: Prospects for the Nightside of WASP-43 b and other Hot Jupiters",
+  "2110.04761": "Is the orbit of the exoplanet WASP-43b really decaying? TESS and MuSCAT2 observations confirm no detection",
+  "2204.03327": "Constraints on TESS albedos for five hot Jupiters",
+  "2301.06350": "A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b",
+  "2401.14083": "The radiative and dynamical impact of clouds in the atmosphere of the hot Jupiter WASP-43 b",
+  "2409.00249": "The dark days are overcast: Iron-bearing clouds on HD 209458 b and WASP-43 b can explain low dayside albedos",
+  "2604.05907": "The Transit Timing and Transmission Spectrum of Hot Jupiter WASP-43 b from a decade of Multi-band Transit Follow-up Observations",
+  "2607.08486": "Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models"
+ },
+ "mast": {
+  "jw01224-o002_t002_nirspec_f290lp-g395h-s1600a1-sub2048": "1224 NIRSPEC/SLIT release 60445.82682861",
+  "jw01366-o011_t002_miri_p750l-slitlessprism": "1366 MIRI/SLITLESS release 59917.64631941"
+ }
+}

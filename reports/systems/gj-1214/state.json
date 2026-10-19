@@ -1,0 +1,43 @@
+{
+ "archive": {
+  "GJ 1214 b.pl_bmasse": 8.41,
+  "GJ 1214 b.pl_eqt": 567.0,
+  "GJ 1214 b.pl_rade": 2.733,
+  "GJ 1214 b.pl_rade_reflink": "<a refstr=MAHAJAN_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..37M/abstract target=ref>Mahajan et al. 2024</a>",
+  "GJ 1214 b.st_rad": 0.2162,
+  "GJ 1214 b.st_teff": 3101.0
+ },
+ "arxiv": {
+  "2004.04160": "Molecular Cross Sections for High Resolution Spectroscopy of Super Earths, Warm Neptunes and Hot Jupiters",
+  "2110.00403": "Cross-sections for heavy atmospheres: H$_2$O continuum",
+  "2201.11120": "A tentative detection of He I in the atmosphere of GJ 1214b",
+  "2207.14121": "GJ 3090 b: one of the most favourable mini-Neptune for atmospheric characterisation",
+  "2302.09576": "The Effect of Metallicity on the Non-Equilibrium Abundance of Hydrogen Dominated Exoplanet Atmosphere",
+  "2304.03839": "Characterisation of the upper atmospheres of HAT-P-32 b, WASP-69 b, GJ 1214 b, and WASP-76 b through their He I triplet absorption",
+  "2304.07792": "Observing atmospheric escape in sub-Jovian worlds with JWST",
+  "2305.05697": "The Hazy and Metal-Rich Atmosphere of GJ 1214 b Constrained by Near and Mid-Infrared Transmission Spectroscopy",
+  "2306.09002": "ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks",
+  "2310.08561": "An extensively validated C/H/O/N chemical network for hot exoplanet disequilibrium chemistry",
+  "2402.04329": "Modeling Atmospheric Lines By the Exoplanet Community (MALBEC) version 1.0: A CUISINES radiative transfer intercomparison project",
+  "2406.09225": "Probing atmospheric escape through metastable He I triplet lines in 15 exoplanets observed with SPIRou",
+  "2407.12079": "New insights into the internal structure of GJ 1214 b informed by JWST",
+  "2410.10183": "Possible Carbon Dioxide Above the Thick Aerosols of GJ 1214 b",
+  "2410.10186": "A Possible Metal-Dominated Atmosphere Below the Thick Aerosols of GJ 1214 b Suggested by its JWST Panchromatic Transmission Spectrum",
+  "2503.22608": "Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere",
+  "2505.12152": "Inclusion of sulfur chemistry in a validated C/H/O/N chemical network: identification of key C/S coupling pathways",
+  "2508.15117": "Carbon-rich Sub-Neptune Interiors Are Compatible with JWST Observations",
+  "2509.06708": "Fractal Aggregate Aerosols in the Virga Cloud Code I: Model Description and Application to a Benchmark Cloudy Exoplanet",
+  "2601.00059": "Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain",
+  "2602.14343": "Atmospheric constraints on GJ 1214 b from CRIRES+ and prospects for characterisation with ANDES",
+  "2604.15292": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy",
+  "2605.27353": "Impact of Clouds on the Atmosphere-Mantle Interface of Sub-Neptunes",
+  "2608.19100": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes",
+  "2609.35721": "Correcting stellar contamination in transmission spectroscopy with contemporaneous monitoring: Application to GJ 1214 b"
+ },
+ "mast": {
+  "jw01185-o018_t009_nirspec_f290lp-g395h-s1600a1-sub2048": "1185 NIRSPEC/SLIT release 60510.60126152",
+  "jw01185-o019_t009_nirspec_f290lp-g395h-s1600a1-sub2048": "1185 NIRSPEC/SLIT release 60511.70240727",
+  "jw01803-o001_t001_miri_p750l-slitlessprism": "1803 MIRI/SLITLESS release 60147.50685185",
+  "jw02741014001_02101_00001_mirimage": "2741 MIRI/IMAGE release 59782.40460641"
+ }
+}

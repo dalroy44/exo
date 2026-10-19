@@ -1,0 +1,48 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 15,
+  "arxiv_n": 12,
+  "new": {
+   "mast": [
+    "jw01386-c1020_t001_nircam_f444w-maskrnd-sub320a335r",
+    "jw01386-c1020_t001_nircam_f410m-maskrnd-sub320a335r",
+    "jw08063-o003_t003_nirspec_g140h-f100lp",
+    "jw01386-o011_t001_niriss_clearp-f380m-sub80",
+    "jw01386-c1020_t001_nircam_f356w-maskrnd-sub320a335r",
+    "jw01386-c1020_t001_nircam_f250m-maskrnd-sub320a335r",
+    "jw01386-c1021_t001_miri_f1140c-mask1140",
+    "jw01386-c1024_t001_niriss_f380m-nrm-sub80",
+    "jw01386-c1023_t001_niriss_f380m-nrm-sub80",
+    "jw08063-o006_t003_nirspec_g395h-f290lp",
+    "jw08063-o004_t003_nirspec_g140h-f100lp",
+    "jw01386-c1022_t001_miri_f1550c-mask1550",
+    "jw01386-c1020_t001_nircam_f300m-maskrnd-sub320a335r",
+    "jw01386-c1023_t001_niriss_clearp-f380m-sub80",
+    "jw08063-o005_t003_nirspec_g395h-f290lp"
+   ],
+   "archive": [
+    "HIP 65426 b.pl_rade: None -> 16.8135",
+    "HIP 65426 b.pl_bmasse: None -> 2860.47",
+    "HIP 65426 b.pl_eqt: None -> 1500.0",
+    "HIP 65426 b.st_teff: None -> 8840.0",
+    "HIP 65426 b.st_rad: None -> 1.77",
+    "HIP 65426 b.pl_rade_reflink: None -> <a refstr=CHAUVIN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...605L...9C/abstract target=ref>Chauvin et al. 2017</a>"
+   ],
+   "arxiv": [
+    "2409.03485",
+    "2312.05310",
+    "2310.11508",
+    "2310.11499",
+    "2310.00148",
+    "2310.00089",
+    "2310.00088",
+    "2208.14990",
+    "2012.02798",
+    "2009.01841",
+    "1912.13316",
+    "1812.07198"
+   ]
+  }
+ }
+]

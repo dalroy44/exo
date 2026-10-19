@@ -1,0 +1,23 @@
+{
+ "archive": {
+  "WASP-96 b.pl_bmasse": 152.55,
+  "WASP-96 b.pl_eqt": 1285.0,
+  "WASP-96 b.pl_rade": 13.45,
+  "WASP-96 b.pl_rade_reflink": "<a refstr=HELLIER_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.440.1982H/abstract target=ref> Hellier et al. 2014 </a>",
+  "WASP-96 b.st_rad": 1.05,
+  "WASP-96 b.st_teff": 5540.0
+ },
+ "arxiv": {
+  "2009.10438": "On The Compatibility of Ground-based and Space-based Data: WASP-96 b, An Example",
+  "2305.16887": "Awesome SOSS: Atmospheric Characterisation of WASP-96 b using the JWST Early Release Observations",
+  "2306.04676": "Exoplanet Spectroscopy with JWST NIRISS: Diagnostics and Case Studies",
+  "2503.21702": "Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes",
+  "2505.18715": "Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters",
+  "2511.16771": "A Comprehensive Analysis of the Panchromatic Transmission Spectrum of the Hot-Saturn WASP-96 b: Nondetection of Haze, Possible Sodium Limb Asymmetry, Stellar Characterization, and Formation History"
+ },
+ "mast": {
+  "jw02734-o002_t002_niriss_clear-gr700xd-substrip256": "2734 NIRISS/SOSS release 59773.625",
+  "jw02734002001_04102_00001-seg001_nis": "2734 NIRISS/SOSS release 59773.625",
+  "jw04082-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "4082 NIRSPEC/SLIT release 60897.78369209"
+ }
+}

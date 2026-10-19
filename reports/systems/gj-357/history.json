@@ -1,0 +1,42 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 4,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [
+    "jw03730027001_03101_00001-seg002_mirimage",
+    "jw03730027001_03101_00001-seg001_mirimage",
+    "jw01201-o201_t018_niriss_clear-gr700xd-substrip96",
+    "jw02512-o007_t006_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "GJ 357 b.pl_rade: None -> 1.2",
+    "GJ 357 b.pl_bmasse: None -> 1.83",
+    "GJ 357 b.pl_eqt: None -> 518.0",
+    "GJ 357 b.st_teff: None -> 3505.0",
+    "GJ 357 b.st_rad: None -> 0.337",
+    "GJ 357 b.pl_rade_reflink: None -> <a refstr=ODDO_ET_AL__2023 href=https://ui.adsabs.harvard.edu/abs/2023AJ....165..134O/abstract target=ref>Oddo et al. 2023</a>",
+    "GJ 357 c.pl_rade: None -> 1.66",
+    "GJ 357 c.pl_bmasse: None -> 3.4",
+    "GJ 357 c.pl_eqt: None -> 401.2",
+    "GJ 357 c.st_teff: None -> 3505.0",
+    "GJ 357 c.st_rad: None -> 0.337",
+    "GJ 357 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+    "GJ 357 d.pl_rade: None -> 2.34",
+    "GJ 357 d.pl_bmasse: None -> 6.1",
+    "GJ 357 d.pl_eqt: None -> 219.6",
+    "GJ 357 d.st_teff: None -> 3505.0",
+    "GJ 357 d.st_rad: None -> 0.337",
+    "GJ 357 d.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2609.30552",
+    "2507.07165",
+    "2505.24462",
+    "2007.10262",
+    "1904.12818"
+   ]
+  }
+ }
+]

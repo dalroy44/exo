@@ -1,0 +1,31 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 2,
+  "arxiv_n": 2,
+  "new": {
+   "mast": [
+    "jw03337-c1002_t001_nircam_f200w-maskrnd-sub320a335r",
+    "jw03337-c1002_t001_nircam_f444w-maskrnd-sub320a335r"
+   ],
+   "archive": [
+    "14 Her b.pl_rade: None -> 12.5",
+    "14 Her b.pl_bmasse: None -> 2828.6728223",
+    "14 Her b.pl_eqt: None -> 147.32",
+    "14 Her b.st_teff: None -> 5338.0",
+    "14 Her b.st_rad: None -> 0.93",
+    "14 Her b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+    "HD 145675 c.pl_rade: None -> 12.6",
+    "HD 145675 c.pl_bmasse: None -> 2510.8444153",
+    "HD 145675 c.pl_eqt: None -> 55.51",
+    "HD 145675 c.st_teff: None -> 5338.0",
+    "HD 145675 c.st_rad: None -> 0.93",
+    "HD 145675 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2506.13580",
+    "2506.09201"
+   ]
+  }
+ }
+]

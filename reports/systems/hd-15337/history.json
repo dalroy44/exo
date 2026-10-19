@@ -1,0 +1,33 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 3,
+  "arxiv_n": 3,
+  "new": {
+   "mast": [
+    "jw02512-o019_t016_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o017_t016_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o018_t016_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "HD 15337 b.pl_rade: None -> 1.77",
+    "HD 15337 b.pl_bmasse: None -> 6.519",
+    "HD 15337 b.pl_eqt: None -> 1001.0",
+    "HD 15337 b.st_teff: None -> 5131.0",
+    "HD 15337 b.st_rad: None -> 0.855",
+    "HD 15337 b.pl_rade_reflink: None -> <a refstr=ROS_AMP_AACUTE_RIO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.282R/abstract target=ref>Ros&aacute;rio et al. 2024</a>",
+    "HD 15337 c.pl_rade: None -> 2.526",
+    "HD 15337 c.pl_bmasse: None -> 6.792",
+    "HD 15337 c.pl_eqt: None -> 656.1",
+    "HD 15337 c.st_teff: None -> 5131.0",
+    "HD 15337 c.st_rad: None -> 0.855",
+    "HD 15337 c.pl_rade_reflink: None -> <a refstr=ROS_AMP_AACUTE_RIO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.282R/abstract target=ref>Ros&aacute;rio et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2602.22327",
+    "2403.16621",
+    "1903.05623"
+   ]
+  }
+ }
+]

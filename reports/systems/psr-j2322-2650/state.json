@@ -1,0 +1,26 @@
+{
+ "archive": {
+  "PSR J2322-2650 b.pl_bmasse": 252.643067,
+  "PSR J2322-2650 b.pl_eqt": null,
+  "PSR J2322-2650 b.pl_rade": 13.9,
+  "PSR J2322-2650 b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "PSR J2322-2650 b.st_rad": null,
+  "PSR J2322-2650 b.st_teff": null
+ },
+ "arxiv": {},
+ "mast": {
+  "jw05263-o001_t001-s000000001_nirspec_clear-prism-s200a1-subs200a1": "5263 NIRSPEC/SLIT release 60987.67506934",
+  "jw05263-o002_t001-s000000001_nirspec_f170lp-g235h-s200a1-subs200a1": "5263 NIRSPEC/SLIT release 60989.60692119",
+  "jw05263001001_05101_00001_nrs2": "5263 NIRSPEC/SLIT release 60987.66699067",
+  "jw05263001001_06101_00001_nrs2": "5263 NIRSPEC/SLIT release 60987.64158562",
+  "jw05263001001_07101_00001_nrs2": "5263 NIRSPEC/SLIT release 60987.66015044",
+  "jw05263001001_08101_00001_nrs2": "5263 NIRSPEC/SLIT release 60987.67892348",
+  "jw11694001001_xx102_00001_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694001001_xx103_00002_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694001001_xx104_00003_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694001001_xx105_00004_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694001001_xx106_00005_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694002001_xx102_00001_nirspec": "11694 NIRSPEC/SLIT release nan",
+  "jw11694003001_xx102_00001_nirspec": "11694 NIRSPEC/SLIT release nan"
+ }
+}

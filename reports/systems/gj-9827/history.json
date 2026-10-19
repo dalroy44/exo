@@ -1,0 +1,59 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 10,
+  "arxiv_n": 16,
+  "new": {
+   "mast": [
+    "jw04818002001_02101_00001-seg001_mirimage",
+    "jw04098-o008_t005_niriss_clear-gr700xd-substrip256",
+    "jw12157013001_xx103_00001_miri",
+    "jw04098-o091_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw12157013001_xx102_00001_miri",
+    "jw12157011001_xx102_00001_miri",
+    "jw04098-o010_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw12157011001_xx103_00001_miri",
+    "jw04098-o007_t005_niriss_clear-gr700xd-substrip256",
+    "jw04818-o001_t001_miri_p750l-slitlessprism"
+   ],
+   "archive": [
+    "GJ 9827 b.pl_rade: None -> 1.44",
+    "GJ 9827 b.pl_bmasse: None -> 4.28",
+    "GJ 9827 b.pl_eqt: None -> 1035.01",
+    "GJ 9827 b.st_teff: None -> 4236.0",
+    "GJ 9827 b.st_rad: None -> 0.58",
+    "GJ 9827 b.pl_rade_reflink: None -> <a refstr=PASSEGGER_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..22P/abstract target=ref>Passegger et al. 2024</a>",
+    "GJ 9827 c.pl_rade: None -> 1.13",
+    "GJ 9827 c.pl_bmasse: None -> 1.86",
+    "GJ 9827 c.pl_eqt: None -> 715.94",
+    "GJ 9827 c.st_teff: None -> 4236.0",
+    "GJ 9827 c.st_rad: None -> 0.58",
+    "GJ 9827 c.pl_rade_reflink: None -> <a refstr=PASSEGGER_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..22P/abstract target=ref>Passegger et al. 2024</a>",
+    "GJ 9827 d.pl_rade: None -> 1.98",
+    "GJ 9827 d.pl_bmasse: None -> 3.02",
+    "GJ 9827 d.pl_eqt: None -> 675.0",
+    "GJ 9827 d.st_teff: None -> 4236.0",
+    "GJ 9827 d.st_rad: None -> 0.58",
+    "GJ 9827 d.pl_rade_reflink: None -> <a refstr=PIAULET_GHORAYEB_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...974L..10P/abstract target=ref>Piaulet-Ghorayeb et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2609.24970",
+    "2606.02083",
+    "2602.12201",
+    "2512.04420",
+    "2508.12865",
+    "2410.03527",
+    "2302.01479",
+    "2208.01650",
+    "2105.01102",
+    "2103.08785",
+    "2101.06277",
+    "2009.03398",
+    "1812.07302",
+    "1802.09557",
+    "1709.01957",
+    "1709.01527"
+   ]
+  }
+ }
+]

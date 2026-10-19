@@ -1,0 +1,51 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 10,
+  "arxiv_n": 14,
+  "new": {
+   "mast": [
+    "jw01981023001_04102_00001-seg002_nrs2",
+    "jw01981-o022_t002_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01274-o012_t008_miri_p750l-slitlessprism",
+    "jw01981023001_04102_00001-seg001_nrs2",
+    "jw01981024001_04102_00001-seg002_nrs2",
+    "jw01274-o013_t008_miri_p750l-slitlessprism",
+    "jw01981024001_04102_00001-seg001_nrs2",
+    "jw01981-o023_t002_nirspec_f290lp-g395m-s1600a1-sub2048",
+    "jw01981-o024_t002_nirspec_f290lp-g395m-s1600a1-sub2048",
+    "jw01981-o021_t002_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "GJ 1132 b.pl_rade: None -> 1.19151465",
+    "GJ 1132 b.pl_bmasse: None -> 1.83704819",
+    "GJ 1132 b.pl_eqt: None -> 583.8",
+    "GJ 1132 b.st_teff: None -> 3229.0",
+    "GJ 1132 b.st_rad: None -> 0.2211",
+    "GJ 1132 b.pl_rade_reflink: None -> <a refstr=XUE_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...973L...8X/abstract target=ref>Xue et al. 2024</a>",
+    "GJ 1132 c.pl_rade: None -> 1.52",
+    "GJ 1132 c.pl_bmasse: None -> 2.91",
+    "GJ 1132 c.pl_eqt: None -> 300.0",
+    "GJ 1132 c.st_teff: None -> 3090.0",
+    "GJ 1132 c.st_rad: None -> 0.226",
+    "GJ 1132 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2608.24803",
+    "2606.20249",
+    "2605.03939",
+    "2508.10579",
+    "2502.19932",
+    "2310.10711",
+    "2112.05059",
+    "2107.13097",
+    "2105.10487",
+    "2104.01873",
+    "2103.05657",
+    "1906.04274",
+    "1905.02560",
+    "1607.03906"
+   ]
+  }
+ }
+]

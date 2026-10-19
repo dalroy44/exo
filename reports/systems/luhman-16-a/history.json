@@ -1,0 +1,21 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 0,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [],
+   "archive": [
+    "Luhman 16 b.pl_rade: None -> 11.9",
+    "Luhman 16 b.pl_bmasse: None -> 9344.1551658",
+    "Luhman 16 b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2503.21266",
+    "2403.02260",
+    "2110.05739",
+    "2107.10995"
+   ]
+  }
+ }
+]

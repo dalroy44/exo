@@ -1,0 +1,41 @@
+{
+ "archive": {
+  "AF Lep b.pl_bmasse": 1147.36054927,
+  "AF Lep b.pl_eqt": 1400.0,
+  "AF Lep b.pl_rade": 13.0,
+  "AF Lep b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "AF Lep b.st_rad": 1.25,
+  "AF Lep b.st_teff": 6140.0
+ },
+ "arxiv": {
+  "2302.06332": "Direct imaging discovery of a super-Jovian around the young Sun-like star AF Leporis",
+  "2309.02488": "ELemental abundances of Planets and brown dwarfs Imaged around Stars (ELPIS): I. Potential Metal Enrichment of the Exoplanet AF Lep b and a Novel Retrieval Approach for Cloudy Self-luminous Atmospheres",
+  "2310.00088": "Early Accretion of Large Amounts of Solids for Directly-Imaged Exoplanets",
+  "2401.05491": "Atmospheric properties of AF Lep b with forward modeling",
+  "2406.01809": "Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011",
+  "2406.09528": "JWST/NIRCam 4-5 $\u03bc$m Imaging of the Giant Planet AF Lep b",
+  "2409.03485": "ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations",
+  "2411.05917": "VLTI/GRAVITY Observations of AF Lep b: Preference for Circular Orbits, Cloudy Atmospheres, and a Moderately Enhanced Metallicity",
+  "2502.19558": "Characterization of AF Lep b at high spectral resolution with VLT/HiRISE",
+  "2502.19961": "High-contrast spectroscopy with the new VLT/ERIS instrument: Molecular maps and radial velocity of the gas giant AF Lep b",
+  "2605.01012": "Chemistry and Isotope Ratios of Substellar Atmospheres in the $\u03b2$ Pictoris Young Moving Group and Vicinity",
+  "2608.10068": "A Sulfur-Rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion",
+  "2608.15912": "A High-Resolution Spectroscopic Survey of Directly Imaged Companion Hosts: III. Characterization of the Cold Imaged Planet Hosts AF Lep A and $\u03b5$ Indi A"
+ },
+ "mast": {
+  "jw04558-c1006_t001_nircam_f200w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60229.86408555",
+  "jw04558-c1006_t001_nircam_f356w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60229.86408555",
+  "jw04558-c1006_t001_nircam_f444w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60229.86408555",
+  "jw04558-c1007_t001_nircam_f200w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60250.63960644",
+  "jw04558-c1007_t001_nircam_f356w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60250.63960644",
+  "jw04558-c1007_t001_nircam_f444w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60250.63960644",
+  "jw04558-c1008_t001_nircam_f200w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60324.07803242",
+  "jw04558-c1008_t001_nircam_f356w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60324.07803242",
+  "jw04558-c1008_t001_nircam_f444w-maskrnd-sub320a335r": "4558 NIRCAM/CORON release 60324.07803242",
+  "jw05342-o001_t001_nirspec_g395h-f290lp": "5342 NIRSPEC/IFU release 61057.95898144",
+  "jw06905-c1008_t001_nircam_f210m-maskbar-sub400x256alwb": "6905 NIRCAM/IMAGE release 61331.47400461",
+  "jw06905-c1008_t001_nircam_f410m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61331.47400461",
+  "jw06905-c1008_t001_nircam_f430m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61331.47400461",
+  "jw06905-c1008_t001_nircam_f460m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61331.47400461"
+ }
+}

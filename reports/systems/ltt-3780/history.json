@@ -1,0 +1,46 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 14,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [
+    "jw03730014001_03101_00001-seg001_mirimage",
+    "jw03730015001_03101_00001-seg004_mirimage",
+    "jw03557-o006_t003_miri_p750l-slitlessprism",
+    "jw03730014001_03101_00001-seg003_mirimage",
+    "jw03730015001_03101_00001-seg005_mirimage",
+    "jw03557-o004_t003_niriss_clear-gr700xd-substrip256",
+    "jw03730014001_03101_00001-seg002_mirimage",
+    "jw03730014001_03101_00001-seg005_mirimage",
+    "jw03730015001_03101_00001-seg001_mirimage",
+    "jw03730015001_03101_00001-seg002_mirimage",
+    "jw03557-o005_t003_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw03730015001_03101_00001-seg003_mirimage",
+    "jw03557004001_04102_00001-seg001_nis",
+    "jw03730014001_03101_00001-seg004_mirimage"
+   ],
+   "archive": [
+    "LTT 3780 b.pl_rade: None -> 1.325",
+    "LTT 3780 b.pl_bmasse: None -> 2.46",
+    "LTT 3780 b.pl_eqt: None -> 903.0",
+    "LTT 3780 b.st_teff: None -> 3358.0",
+    "LTT 3780 b.st_rad: None -> 0.38",
+    "LTT 3780 b.pl_rade_reflink: None -> <a refstr=BONFANTI_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...682A..66B/abstract target=ref>Bonfanti et al. 2024</a>",
+    "LTT 3780 c.pl_rade: None -> 2.39",
+    "LTT 3780 c.pl_bmasse: None -> 8.04",
+    "LTT 3780 c.pl_eqt: None -> 359.0",
+    "LTT 3780 c.st_teff: None -> 3358.0",
+    "LTT 3780 c.st_rad: None -> 0.38",
+    "LTT 3780 c.pl_rade_reflink: None -> <a refstr=BONFANTI_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...682A..66B/abstract target=ref>Bonfanti et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2607.07182",
+    "2508.14210",
+    "2507.04440",
+    "2003.01140",
+    "2003.01136"
+   ]
+  }
+ }
+]

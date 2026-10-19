@@ -1,0 +1,41 @@
+{
+ "archive": {
+  "HIP 65426 b.pl_bmasse": 2860.47,
+  "HIP 65426 b.pl_eqt": 1500.0,
+  "HIP 65426 b.pl_rade": 16.8135,
+  "HIP 65426 b.pl_rade_reflink": "<a refstr=CHAUVIN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...605L...9C/abstract target=ref>Chauvin et al. 2017</a>",
+  "HIP 65426 b.st_rad": 1.77,
+  "HIP 65426 b.st_teff": 8840.0
+ },
+ "arxiv": {
+  "1812.07198": "Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b",
+  "1912.13316": "MIRACLES: atmospheric characterization of directly imaged planets and substellar companions at 4-5 $\u03bc$m. I. Photometric analysis of $\u03b2$ Pic b, HIP 65426 b, PZ Tel B and HD 206893 B",
+  "2009.01841": "Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES+",
+  "2012.02798": "A medium-resolution spectrum of the exoplanet HIP 65426 b",
+  "2208.14990": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $\u03bc$m",
+  "2310.00088": "Early Accretion of Large Amounts of Solids for Directly-Imaged Exoplanets",
+  "2310.00089": "Spectral Retrieval with JWST Photometric data: a Case Study for HIP 65426 b",
+  "2310.00148": "First VLTI/GRAVITY Observations of HIP 65426 b: Evidence for a Low or Moderate Orbital Eccentricity",
+  "2310.11499": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems IV: NIRISS Aperture Masking Interferometry Performance and Lessons Learned",
+  "2310.11508": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems III: Aperture Masking Interferometric Observations of the star HIP 65426 at 3.8 um",
+  "2312.05310": "HIP 65426 is a High-Frequency Delta Scuti Pulsator in Plausible Spin-Orbit Alignment with its Directly Imaged Exoplanet",
+  "2409.03485": "ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations"
+ },
+ "mast": {
+  "jw01386-c1020_t001_nircam_f250m-maskrnd-sub320a335r": "1386 NIRCAM/CORON release 59790.38629628",
+  "jw01386-c1020_t001_nircam_f300m-maskrnd-sub320a335r": "1386 NIRCAM/CORON release 59790.38629628",
+  "jw01386-c1020_t001_nircam_f356w-maskrnd-sub320a335r": "1386 NIRCAM/CORON release 59790.38629628",
+  "jw01386-c1020_t001_nircam_f410m-maskrnd-sub320a335r": "1386 NIRCAM/CORON release 59790.38629628",
+  "jw01386-c1020_t001_nircam_f444w-maskrnd-sub320a335r": "1386 NIRCAM/CORON release 59790.38629628",
+  "jw01386-c1021_t001_miri_f1140c-mask1140": "1386 MIRI/CORON release 59778.51144674",
+  "jw01386-c1022_t001_miri_f1550c-mask1550": "1386 MIRI/CORON release 59778.81348365",
+  "jw01386-c1023_t001_niriss_clearp-f380m-sub80": "1386 NIRISS/IMAGE release 60478.23971071",
+  "jw01386-c1023_t001_niriss_f380m-nrm-sub80": "1386 NIRISS/AMI release 60478.23971071",
+  "jw01386-c1024_t001_niriss_f380m-nrm-sub80": "1386 NIRISS/AMI release 60478.23971071",
+  "jw01386-o011_t001_niriss_clearp-f380m-sub80": "1386 NIRISS/IMAGE release 59790.95004619",
+  "jw08063-o003_t003_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61589.04587959",
+  "jw08063-o004_t003_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61616.96221059",
+  "jw08063-o005_t003_nirspec_g395h-f290lp": "8063 NIRSPEC/IFU release 61245.45292826",
+  "jw08063-o006_t003_nirspec_g395h-f290lp": "8063 NIRSPEC/IFU release 61245.50430548"
+ }
+}

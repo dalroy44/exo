@@ -1,0 +1,24 @@
+{
+ "archive": {
+  "HAT-P-26 b.pl_bmasse": 22.2481,
+  "HAT-P-26 b.pl_eqt": 1080.0,
+  "HAT-P-26 b.pl_rade": 7.06167,
+  "HAT-P-26 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "HAT-P-26 b.st_rad": 0.87,
+  "HAT-P-26 b.st_teff": 5079.0
+ },
+ "arxiv": {
+  "2205.10549": "The GAPS Programme at TNG: XXXVI. Measurement of the Rossiter-McLaughlin effect and revising the physical and orbital parameters of the HAT-P-15, HAT-P-17, HAT-P-21, HAT-P-26, HAT-P-29 eccentric planetary systems",
+  "2303.03610": "Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b",
+  "2406.10032": "GASTLI: An open-source coupled interior-atmosphere model to unveil gas giant composition",
+  "2509.16082": "JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy"
+ },
+ "mast": {
+  "jw01177-o006_t004_miri_p750l-slitlessprism": "1177 MIRI/SLITLESS release 60472.57427072",
+  "jw01312-o001_t001_niriss_clear-gr700xd-substrip256": "1312 NIRISS/SOSS release 60494.09685187",
+  "jw01312-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "1312 NIRSPEC/SLIT release 60476.7558217",
+  "jw01312-o006_t001_miri_p750l-slitlessprism": "1312 MIRI/SLITLESS release 60479.1533101",
+  "jw01312-o104_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "1312 NIRSPEC/SLIT release 60517.20181714",
+  "jw01312001001_04102_00001-seg001_nis": "1312 NIRISS/SOSS release 60493.65777768"
+ }
+}

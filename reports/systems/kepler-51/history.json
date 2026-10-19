@@ -1,0 +1,55 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 12,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [
+    "jw02571001001_04102_00001-seg001_nrs2",
+    "jw02454001001_04101_00001-seg003_nrs2",
+    "jw02571001001_04101_00001-seg003_nrs2",
+    "jw02454-o001_t001_nirspec_clear-prism-s1600a1-sub512",
+    "jw02454001001_04101_00001-seg002_nrs2",
+    "jw02571001001_04101_00001-seg001_nrs2",
+    "jw02571001001_04102_00001-seg003_nrs2",
+    "jw02454001001_04101_00001-seg004_nrs2",
+    "jw02454001001_04101_00001-seg001_nrs2",
+    "jw02571-o001_t001_nirspec_clear-prism-s1600a1-sub512",
+    "jw02571001001_04101_00001-seg002_nrs2",
+    "jw02571001001_04102_00001-seg002_nrs2"
+   ],
+   "archive": [
+    "Kepler-51 e.pl_rade: None -> 2.18",
+    "Kepler-51 e.pl_bmasse: None -> 5.4",
+    "Kepler-51 e.st_teff: None -> 5674.0",
+    "Kepler-51 e.st_rad: None -> 0.87",
+    "Kepler-51 e.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+    "Kepler-51 d.pl_rade: None -> 9.7",
+    "Kepler-51 d.pl_bmasse: None -> 7.6",
+    "Kepler-51 d.pl_eqt: None -> 381.0",
+    "Kepler-51 d.st_teff: None -> 6018.0",
+    "Kepler-51 d.st_rad: None -> 0.94",
+    "Kepler-51 d.pl_rade_reflink: None -> <a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>",
+    "Kepler-51 c.pl_rade: None -> 9.0",
+    "Kepler-51 c.pl_bmasse: None -> 4.0",
+    "Kepler-51 c.pl_eqt: None -> 439.0",
+    "Kepler-51 c.st_teff: None -> 6018.0",
+    "Kepler-51 c.st_rad: None -> 0.94",
+    "Kepler-51 c.pl_rade_reflink: None -> <a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>",
+    "Kepler-51 b.pl_rade: None -> 7.1",
+    "Kepler-51 b.pl_bmasse: None -> 2.1",
+    "Kepler-51 b.pl_eqt: None -> 543.0",
+    "Kepler-51 b.st_teff: None -> 6018.0",
+    "Kepler-51 b.st_rad: None -> 0.94",
+    "Kepler-51 b.pl_rade_reflink: None -> <a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>"
+   ],
+   "arxiv": [
+    "2609.25234",
+    "2505.21358",
+    "2410.01625",
+    "2103.03259",
+    "1910.12988"
+   ]
+  }
+ }
+]

@@ -1,0 +1,31 @@
+{
+ "archive": {
+  "GJ 486 b.pl_bmasse": 2.77,
+  "GJ 486 b.pl_eqt": 696.3,
+  "GJ 486 b.pl_rade": 1.289,
+  "GJ 486 b.pl_rade_reflink": "<a refstr=WEINER_MANSFIELD_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...975L..22W/abstract target=ref>Weiner Mansfield et al. 2024</a>",
+  "GJ 486 b.st_rad": 0.3243,
+  "GJ 486 b.st_teff": 3317.0
+ },
+ "arxiv": {
+  "2306.09002": "ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks",
+  "2310.02452": "Extended habitability of exoplanets due to subglacial water",
+  "2406.09225": "Probing atmospheric escape through metastable He I triplet lines in 15 exoplanets observed with SPIRou",
+  "2407.00165": "High-energy spectra of LTT 1445A and GJ 486 reveal flares and activity"
+ },
+ "mast": {
+  "jw01743-o001_t001_miri_p750l-slitlessprism": "1743 MIRI/SLITLESS release 60459.55869199",
+  "jw01743-o002_t001_miri_p750l-slitlessprism": "1743 MIRI/SLITLESS release 60463.3263194",
+  "jw01981-o011_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 59938.84627311",
+  "jw01981-o012_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 59943.46275462",
+  "jw05866-o001_t001_niriss_clear-gr700xd-substrip96": "5866 NIRISS/SOSS release 61194.67746514",
+  "jw05866-o002_t001_niriss_clear-gr700xd-substrip96": "5866 NIRISS/SOSS release 61189.2832638",
+  "jw05866-o003_t001_niriss_clear-gr700xd-substrip96": "5866 NIRISS/SOSS release 61195.12927076",
+  "jw05866001001_04101_00001-seg001_nis": "5866 NIRISS/SOSS release 61194.09638895",
+  "jw05866001001_04103_00001-seg001_nis": "5866 NIRISS/SOSS release 61194.06018516",
+  "jw05866002001_04101_00001-seg001_nis": "5866 NIRISS/SOSS release 61188.89924767",
+  "jw05866002001_04103_00001-seg001_nis": "5866 NIRISS/SOSS release 61188.87226839",
+  "jw05866003001_04101_00001-seg001_nis": "5866 NIRISS/SOSS release 61194.4193287",
+  "jw05866003001_04103_00001-seg001_nis": "5866 NIRISS/SOSS release 61194.38432862"
+ }
+}

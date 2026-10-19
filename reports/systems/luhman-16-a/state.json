@@ -1,0 +1,17 @@
+{
+ "archive": {
+  "Luhman 16 b.pl_bmasse": 9344.1551658,
+  "Luhman 16 b.pl_eqt": null,
+  "Luhman 16 b.pl_rade": 11.9,
+  "Luhman 16 b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "Luhman 16 b.st_rad": null,
+  "Luhman 16 b.st_teff": null
+ },
+ "arxiv": {
+  "2107.10995": "Weather on Other Worlds. VI. Optical Spectrophotometry of Luhman 16B Reveals Large-amplitude Variations in the Alkali Lines",
+  "2110.05739": "Modeling Polarization Signals from Cloudy Brown Dwarfs: Luhman 16 A and B in Three Dimensions",
+  "2403.02260": "Latitude-dependent Atmospheric Waves and Long-period Modulations in Luhman 16 B from the Longest Lightcurve of an Extrasolar World",
+  "2503.21266": "The ESO SupJup Survey VII: Clouds and line asymmetries in CRIRES$^+$ J-band spectra of the Luhman 16 binary"
+ },
+ "mast": {}
+}

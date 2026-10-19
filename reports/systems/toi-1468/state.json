@@ -1,0 +1,44 @@
+{
+ "archive": {
+  "TOI-1468 b.pl_bmasse": 3.04,
+  "TOI-1468 b.pl_eqt": 683.5,
+  "TOI-1468 b.pl_rade": 1.401,
+  "TOI-1468 b.pl_rade_reflink": "<a refstr=MEIER_VALDES_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...698A..68M/abstract target=ref>Meier Vald&eacute;s et al. 2025</a>",
+  "TOI-1468 b.st_rad": 0.3714,
+  "TOI-1468 b.st_teff": 3376.0,
+  "TOI-1468 c.pl_bmasse": 4.1,
+  "TOI-1468 c.pl_eqt": 338.1,
+  "TOI-1468 c.pl_rade": 2.126,
+  "TOI-1468 c.pl_rade_reflink": "<a refstr=MEIER_VALDES_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...698A..68M/abstract target=ref>Meier Vald&eacute;s et al. 2025</a>",
+  "TOI-1468 c.st_rad": 0.3714,
+  "TOI-1468 c.st_teff": 3376.0
+ },
+ "arxiv": {
+  "2412.08476": "Potential Interior Structures and Habitability of Super-Earth Exoplanets LHS 1140 b, K2-18 b, TOI-1452 b and TOI-1468 c",
+  "2503.19772": "Hot Rocks Survey II: The thermal emission of TOI-1468 b reveals a hot bare rock",
+  "2507.02052": "Uniform Reanalysis of JWST MIRI 15\u03bcm Exoplanet Eclipse Observations using Frame-Normalized Principal Component Analysis",
+  "2609.17505": "Stellar Ages of M Dwarf Hosts of Temperate Sub-Neptunes"
+ },
+ "mast": {
+  "jw03557-o007_t005_niriss_clear-gr700xd-substrip256": "3557 NIRISS/SOSS release 61011.08885422",
+  "jw03557-o008_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "3557 NIRSPEC/SLIT release 60872.05915511",
+  "jw03557-o009_t005_miri_p750l-slitlessprism": "3557 MIRI/SLITLESS release 60923.07851849",
+  "jw03557-o016_t005_miri_p750l-slitlessprism": "3557 MIRI/SLITLESS release 60917.93405084",
+  "jw03557007001_04102_00001-seg001_nis": "3557 NIRISS/SOSS release 61010.94436332",
+  "jw03730016001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60281.98075225",
+  "jw03730016001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60281.9707638",
+  "jw03730016001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60281.96938647",
+  "jw03730016001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60281.96940962",
+  "jw03730016001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60281.98072911",
+  "jw03730017001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60281.91684021",
+  "jw03730017001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60281.92148134",
+  "jw03730017001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60281.91685178",
+  "jw03730017001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60281.92148134",
+  "jw03730017001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60281.92142347",
+  "jw03730018001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60327.0679861",
+  "jw03730018001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60327.06792822",
+  "jw03730018001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60327.06806707",
+  "jw03730018001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60327.06806707",
+  "jw03730018001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60327.0680555"
+ }
+}

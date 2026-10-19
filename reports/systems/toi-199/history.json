@@ -1,0 +1,38 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 10,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [
+    "jw07188-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw07188-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw05177001001_04102_00001-seg001_nrs2",
+    "jw05177001001_04102_00001-seg004_nrs2",
+    "jw05177001001_04102_00001-seg006_nrs2",
+    "jw05177001001_04102_00001-seg002_nrs2",
+    "jw05177001001_04102_00001-seg007_nrs2",
+    "jw05177001001_04102_00001-seg003_nrs2",
+    "jw05177001001_04102_00001-seg005_nrs2",
+    "jw05177-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TOI-199 b.pl_rade: None -> 9.07927437",
+    "TOI-199 b.pl_bmasse: None -> 54.03082919",
+    "TOI-199 b.pl_eqt: None -> 325.0",
+    "TOI-199 b.st_teff: None -> 5255.0",
+    "TOI-199 b.st_rad: None -> 0.82",
+    "TOI-199 b.pl_rade_reflink: None -> <a refstr=HOBSON_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023AJ....166..201H/abstract target=ref>Hobson et al. 2023</a>",
+    "TOI-199 c.pl_rade: None -> 11.4",
+    "TOI-199 c.pl_bmasse: None -> 88.99195396",
+    "TOI-199 c.pl_eqt: None -> 255.43",
+    "TOI-199 c.st_teff: None -> 5255.0",
+    "TOI-199 c.st_rad: None -> 0.82",
+    "TOI-199 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2511.15835"
+   ]
+  }
+ }
+]

@@ -1,0 +1,25 @@
+{
+ "archive": {
+  "TOI-836 b.pl_bmasse": 4.53,
+  "TOI-836 b.pl_eqt": 871.0,
+  "TOI-836 b.pl_rade": 1.704,
+  "TOI-836 b.pl_rade_reflink": "<a refstr=HAWTHORN_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3649H/abstract target=ref>Hawthorn et al. 2023</a>",
+  "TOI-836 b.st_rad": 0.665,
+  "TOI-836 b.st_teff": 4552.0,
+  "TOI-836.01.pl_bmasse": 9.6,
+  "TOI-836.01.pl_eqt": 665.0,
+  "TOI-836.01.pl_rade": 2.587,
+  "TOI-836.01.pl_rade_reflink": "<a refstr=HAWTHORN_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3649H/abstract target=ref>Hawthorn et al. 2023</a>",
+  "TOI-836.01.st_rad": 0.665,
+  "TOI-836.01.st_teff": 4552.0
+ },
+ "arxiv": {
+  "2404.01264": "JWST COMPASS: A NIRSpec/G395H Transmission Spectrum of the Sub-Neptune TOI-836c",
+  "2409.08318": "Constraining atmospheric composition from the outflow: helium observations reveal the fundamental properties of two planets straddling the radius gap"
+ },
+ "mast": {
+  "jw02512-o008_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 59992.16417815",
+  "jw02512-o009_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60008.09929397",
+  "jw02512-o010_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60012.09354171"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "archive": {
+  "LHS 475 b.pl_bmasse": 0.941,
+  "LHS 475 b.pl_eqt": 586.0,
+  "LHS 475 b.pl_rade": 0.991,
+  "LHS 475 b.pl_rade_reflink": "<a refstr=LUSTIG_YAEGER_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1317L/abstract target=ref>Lustig-Yaeger et al. 2023</a>",
+  "LHS 475 b.st_rad": 0.2789,
+  "LHS 475 b.st_teff": 3300.0
+ },
+ "arxiv": {},
+ "mast": {
+  "jw01981-o041_t004_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 59823.73034711",
+  "jw01981-o043_t004_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 59859.68618044",
+  "jw01981045001_02101_00001-seg001_nrs1": "1981 NIRSPEC/SLIT release 60117.79906238",
+  "jw01981045001_02101_00002-seg001_nrs1": "1981 NIRSPEC/SLIT release 60117.79909711",
+  "jw02742077001_02101_00001_nrs1": "2742 NIRSPEC/SLIT release 59823.04325225",
+  "jw02742077001_02101_00001_nrs2": "2742 NIRSPEC/SLIT release 59823.04341429",
+  "jw02742081001_02101_00001_nrs1": "2742 NIRSPEC/SLIT release 59826.9794328",
+  "jw02742081001_02101_00001_nrs2": "2742 NIRSPEC/SLIT release 59826.97945595"
+ }
+}

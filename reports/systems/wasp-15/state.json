@@ -1,0 +1,14 @@
+{
+ "archive": {
+  "WASP-15 b.pl_bmasse": 171.6282,
+  "WASP-15 b.pl_eqt": 1676.0,
+  "WASP-15 b.pl_rade": 15.80469,
+  "WASP-15 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "WASP-15 b.st_rad": 1.48,
+  "WASP-15 b.st_teff": 6300.0
+ },
+ "arxiv": {},
+ "mast": {
+  "jw03838-o004_t004_nirspec_f290lp-g395h-s1600a1-sub2048": "3838 NIRSPEC/SLIT release 60702.46358801"
+ }
+}

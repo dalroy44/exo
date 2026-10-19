@@ -1,0 +1,22 @@
+{
+ "archive": {
+  "TrES-4 b.pl_bmasse": 247.9074,
+  "TrES-4 b.pl_eqt": 1778.0,
+  "TrES-4 b.pl_rade": 18.04649,
+  "TrES-4 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "TrES-4 b.st_rad": 1.66,
+  "TrES-4 b.st_teff": 6200.0
+ },
+ "arxiv": {
+  "0803.1839": "Radiative Thrusters on Close-in Extrasolar Planets",
+  "0805.1733": "Theoretical Radii of Extrasolar Giant Planets: the Cases of TrES-4, XO-3b, and HAT-P-1b",
+  "0810.0021": "Detection of a Temperature Inversion in the Broadband Infrared Emission Spectrum of TrES-4",
+  "0902.3995": "Can TiO Explain Thermal Inversions in the Upper Atmospheres of Irradiated Giant Planets?",
+  "0902.3998": "Coupled Evolution with Tides of the Radius and Orbit of Transiting Giant Planets: General Results",
+  "0910.4394": "Tidal Heating Models for the Radii of the Inflated Transiting Giant Planets WASP-4b, WASP-6b, WASP-12b, and TrES-4",
+  "1010.4585": "On the Inference of Thermal Inversions in Hot Jupiter Atmospheres"
+ },
+ "mast": {
+  "jw03838-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "3838 NIRSPEC/SLIT release 60843.55715263"
+ }
+}

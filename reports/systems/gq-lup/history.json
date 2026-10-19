@@ -1,0 +1,60 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 30,
+  "arxiv_n": 9,
+  "new": {
+   "mast": [
+    "jw07792-o001_t001_miri_ch2-medium",
+    "jw01640-o009_t008_miri_f770w",
+    "jw01640-o009_t008_miri_ch1-medium",
+    "jw01640-o009_t008_miri_ch2-long",
+    "jw07792-o001_t001_miri_ch4-long",
+    "jw07792-o001_t001_miri_ch3-short",
+    "jw01640-o009_t008_miri_ch4-short",
+    "jw01640-o009_t008_miri_ch4-medium",
+    "jw01640-o009_t008_miri_ch4-long",
+    "jw01640-o009_t008_miri_ch3-long",
+    "jw01640-o009_t008_miri_ch1-short",
+    "jw01640-o009_t008_miri_ch1-long",
+    "jw07792-o001_t001_miri_ch2-long",
+    "jw07792-o001_t001_miri_ch4-short",
+    "jw07792-o001_t001_miri_ch1-short",
+    "jw07792-o001_t001_miri_ch3-medium",
+    "jw07792-o001_t001_miri_ch1-medium",
+    "jw07792-o001_t001_miri_ch4-medium",
+    "jw07792-o001_t001_miri_ch1-long",
+    "jw06739-o003_t001_miri_f1280w-sub64",
+    "jw06739-o003_t001_miri_f2100w-sub64",
+    "jw06739-o003_t001_miri_f1800w-sub64",
+    "jw06739-o001_t001_nirspec_g395h-f290lp",
+    "jw01640-o009_t008_miri_ch3-short",
+    "jw01640-o009_t008_miri_ch2-short",
+    "jw01640-o009_t008_miri_ch2-medium",
+    "jw01640-o009_t008_miri_ch3-medium",
+    "jw07792-o001_t001_miri_ch2-short",
+    "jw07792-o001_t001_miri_ch3-long",
+    "jw06739-o003_t001_miri_f1500w-sub64"
+   ],
+   "archive": [
+    "GQ Lup b.pl_rade: None -> 33.6",
+    "GQ Lup b.pl_bmasse: None -> 6356.0",
+    "GQ Lup b.pl_eqt: None -> 2650.0",
+    "GQ Lup b.st_teff: None -> 4360.0",
+    "GQ Lup b.st_rad: None -> 1.94153",
+    "GQ Lup b.pl_rade_reflink: None -> <a refstr=NEUHAEUSER_ET_AL__2008 href=https://ui.adsabs.harvard.edu/abs/2008A%26A...484..281N/abstract target=ref> Neuh&auml;user et al. 2008 </a>"
+   ],
+   "arxiv": [
+    "2501.01789",
+    "2405.13128",
+    "2404.07086",
+    "2110.04307",
+    "2101.04033",
+    "0903.2381",
+    "0612250",
+    "0610058",
+    "0506011"
+   ]
+  }
+ }
+]

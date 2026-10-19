@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 8,
+  "arxiv_n": 0,
+  "new": {
+   "mast": [
+    "jw01981045001_02101_00002-seg001_nrs1",
+    "jw01981-o043_t004_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02742081001_02101_00001_nrs1",
+    "jw02742077001_02101_00001_nrs2",
+    "jw01981045001_02101_00001-seg001_nrs1",
+    "jw02742077001_02101_00001_nrs1",
+    "jw02742081001_02101_00001_nrs2",
+    "jw01981-o041_t004_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "LHS 475 b.pl_rade: None -> 0.991",
+    "LHS 475 b.pl_bmasse: None -> 0.941",
+    "LHS 475 b.pl_eqt: None -> 586.0",
+    "LHS 475 b.st_teff: None -> 3300.0",
+    "LHS 475 b.st_rad: None -> 0.2789",
+    "LHS 475 b.pl_rade_reflink: None -> <a refstr=LUSTIG_YAEGER_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1317L/abstract target=ref>Lustig-Yaeger et al. 2023</a>"
+   ],
+   "arxiv": []
+  }
+ }
+]

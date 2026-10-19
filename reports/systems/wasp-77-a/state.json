@@ -1,0 +1,21 @@
+{
+ "archive": {
+  "WASP-77 A b.pl_bmasse": 529.31142902,
+  "WASP-77 A b.pl_eqt": 1674.0,
+  "WASP-77 A b.pl_rade": 13.56,
+  "WASP-77 A b.pl_rade_reflink": "<a refstr=MAXTED_ET_AL__2013 href=https://ui.adsabs.harvard.edu/abs/2013PASP..125...48M/abstract target=ref> Maxted et al. 2013 </a>",
+  "WASP-77 A b.st_rad": 0.91,
+  "WASP-77 A b.st_teff": 5617.0
+ },
+ "arxiv": {
+  "1502.00576": "High-energy irradiation and mass loss rates of hot Jupiters in the solar neighborhood",
+  "2201.08508": "Evidence that the Hot Jupiter WASP-77 A b Formed Beyond Its Parent Protoplanetary Disk's H2O Ice Line",
+  "2405.19615": "Enhancing Exoplanet Ephemerides by Leveraging Professional and Citizen Science Data: A Test Case with WASP-77A b",
+  "2406.12240": "A Comparative Simulation Study of Hot and Ultra-hot Jupiter Atmospheres using Different Ground-based High-resolution Spectrographs with Cross-correlation Spectroscopy"
+ },
+ "mast": {
+  "jw01274-o010_t004_nirspec_f290lp-g395h-s1600a1-sub2048": "1274 NIRSPEC/SLIT release 60181.33231477",
+  "jw02742067001_02101_00001_nrs1": "2742 NIRSPEC/SLIT release 59816.23428242",
+  "jw02742067001_02101_00001_nrs2": "2742 NIRSPEC/SLIT release 59816.23523145"
+ }
+}

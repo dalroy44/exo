@@ -1,0 +1,27 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 5,
+  "arxiv_n": 2,
+  "new": {
+   "mast": [
+    "jw01276-o002_t002_nircam_clear-f356w",
+    "jw01276-o002_t002_nircam_clear-f150w2",
+    "jw01276001001_03101_00001_nrs1",
+    "jw01276-o002_t002_nircam_clear-f444w",
+    "jw01276-o002_t002_nircam_clear-f200w"
+   ],
+   "archive": [
+    "WD 0806-661 b.pl_rade: None -> 12.10569916",
+    "WD 0806-661 b.pl_bmasse: None -> 2224.798849",
+    "WD 0806-661 b.pl_eqt: None -> 357.0",
+    "WD 0806-661 b.st_teff: None -> 10393.0",
+    "WD 0806-661 b.pl_rade_reflink: None -> <a refstr=LEGGETT_TREMBLIN_2026 href=https://ui.adsabs.harvard.edu/abs/2026ApJ..1005..189L/abstract target=ref>Leggett &amp; Tremblin 2026</a>"
+   ],
+   "arxiv": [
+    "2606.04294",
+    "2503.04531"
+   ]
+  }
+ }
+]

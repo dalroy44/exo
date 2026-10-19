@@ -1,0 +1,44 @@
+{
+ "archive": {
+  "GJ 1132 b.pl_bmasse": 1.83704819,
+  "GJ 1132 b.pl_eqt": 583.8,
+  "GJ 1132 b.pl_rade": 1.19151465,
+  "GJ 1132 b.pl_rade_reflink": "<a refstr=XUE_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...973L...8X/abstract target=ref>Xue et al. 2024</a>",
+  "GJ 1132 b.st_rad": 0.2211,
+  "GJ 1132 b.st_teff": 3229.0,
+  "GJ 1132 c.pl_bmasse": 2.91,
+  "GJ 1132 c.pl_eqt": 300.0,
+  "GJ 1132 c.pl_rade": 1.52,
+  "GJ 1132 c.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 1132 c.st_rad": 0.226,
+  "GJ 1132 c.st_teff": 3090.0
+ },
+ "arxiv": {
+  "1607.03906": "Predictions of the atmospheric composition of GJ 1132b",
+  "1905.02560": "Detectability of atmospheric features of Earth-like planets in the habitable zone around M dwarfs",
+  "1906.04274": "Lyman-alpha in the GJ 1132 System: Stellar Emission and Planetary Atmospheric Evolution",
+  "2103.05657": "Detection of an Atmosphere on a Rocky Exoplanet",
+  "2104.01873": "ARES V: No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b",
+  "2105.10487": "The Featureless HST/WFC3 Transmission Spectrum of the Rocky Exoplanet GJ 1132b: No Evidence For A Cloud-Free Primordial Atmosphere and Constraints on Starspot Contamination",
+  "2107.13097": "Detectable Abundance of Cyanoacetylene (HC$_3$N) Predicted on Reduced Nitrogen-Rich Super-Earth Atmospheres",
+  "2112.05059": "HyDRo: Atmospheric Retrieval of Rocky Exoplanets in Thermal Emission",
+  "2310.10711": "Double Trouble: Two Transits of the Super-Earth GJ 1132 b Observed with JWST NIRSpec G395H",
+  "2502.19932": "Exploring the atmosphere of GJ 1132 b with CRIRES+",
+  "2508.10579": "Additional JWST/NIRSpec Transits of the Rocky M Dwarf Exoplanet GJ 1132 b Reveal a Featureless Spectrum",
+  "2605.03939": "The Range of Cumulative XUV Flux on GJ 1132 b",
+  "2606.20249": "Geophysical and atmospheric implications of $f$O$_{2}$-dependent melting on rocky exoplanets",
+  "2608.24803": "Atmospheric Retrieval of Combined JWST, HST, and Ground-Based Observations Reveals a Featureless Transmission Spectrum for GJ 1132 b"
+ },
+ "mast": {
+  "jw01274-o012_t008_miri_p750l-slitlessprism": "1274 MIRI/SLITLESS release 60493.12690963",
+  "jw01274-o013_t008_miri_p750l-slitlessprism": "1274 MIRI/SLITLESS release 60493.13762731",
+  "jw01981-o021_t002_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 60008.74876146",
+  "jw01981-o022_t002_nirspec_f290lp-g395h-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 60001.00927075",
+  "jw01981-o023_t002_nirspec_f290lp-g395m-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 60349.23398154",
+  "jw01981-o024_t002_nirspec_f290lp-g395m-s1600a1-sub2048": "1981 NIRSPEC/SLIT release 60466.54413184",
+  "jw01981023001_04102_00001-seg001_nrs2": "1981 NIRSPEC/SLIT release 60349.19980318",
+  "jw01981023001_04102_00001-seg002_nrs2": "1981 NIRSPEC/SLIT release 60349.1325231",
+  "jw01981024001_04102_00001-seg001_nrs2": "1981 NIRSPEC/SLIT release 60466.5324768",
+  "jw01981024001_04102_00001-seg002_nrs2": "1981 NIRSPEC/SLIT release 60466.46505793"
+ }
+}

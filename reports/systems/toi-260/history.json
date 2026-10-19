@@ -1,0 +1,24 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 2,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [
+    "jw02512-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TOI-260 b.pl_rade: None -> 1.71",
+    "TOI-260 b.pl_bmasse: None -> 4.23",
+    "TOI-260 b.pl_eqt: None -> 493.0",
+    "TOI-260 b.st_teff: None -> 4026.0",
+    "TOI-260 b.st_rad: None -> 0.607",
+    "TOI-260 b.pl_rade_reflink: None -> <a refstr=HOBSON_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...688A.216H/abstract target=ref>Hobson et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2602.22329"
+   ]
+  }
+ }
+]

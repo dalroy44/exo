@@ -1,0 +1,36 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 11,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [
+    "jw06905-c1011_t004_nircam_f460m-maskbar-sub400x256alwb",
+    "jw06905-c1011_t004_nircam_f210m-maskbar-sub400x256alwb",
+    "jw01241-c1024_t007_miri_f1065c-mask1065",
+    "jw08063-o013_t007_nirspec_g140h-f100lp",
+    "jw08063-o013_t007_nirspec_g395h-f290lp",
+    "jw01241-c1025_t007_miri_f1140c-mask1140",
+    "jw06905-c1011_t004_nircam_f430m-maskbar-sub400x256alwb",
+    "jw08063-o014_t007_nirspec_g395h-f290lp",
+    "jw06905-c1011_t004_nircam_f410m-maskbar-sub400x256alwb",
+    "jw01241-c1026_t007_miri_f1550c-mask1550",
+    "jw08063-o014_t007_nirspec_g140h-f100lp"
+   ],
+   "archive": [
+    "HR 2562 b.pl_rade: None -> 12.44199",
+    "HR 2562 b.pl_bmasse: None -> 6992.224954",
+    "HR 2562 b.pl_eqt: None -> 1255.0",
+    "HR 2562 b.st_teff: None -> 6597.0",
+    "HR 2562 b.st_rad: None -> 1.334",
+    "HR 2562 b.pl_rade_reflink: None -> <a refstr=KONOPACKY_ET_AL__2016 href=https://ui.adsabs.harvard.edu/abs/2016ApJ...829L...4K/abstract target=ref>Konopacky et al. 2016</a>"
+   ],
+   "arxiv": [
+    "2510.17774",
+    "2409.04524",
+    "2106.14890",
+    "1712.05828"
+   ]
+  }
+ }
+]

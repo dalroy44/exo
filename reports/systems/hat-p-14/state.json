@@ -1,0 +1,39 @@
+{
+ "archive": {
+  "HAT-P-14 b.pl_bmasse": 1093.3352,
+  "HAT-P-14 b.pl_eqt": 1624.0,
+  "HAT-P-14 b.pl_rade": 15.91678,
+  "HAT-P-14 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "HAT-P-14 b.st_rad": 1.82,
+  "HAT-P-14 b.st_teff": 6600.0
+ },
+ "arxiv": {
+  "1510.03997": "Demonstrating High-precision, Multiband Transit Photometry with MuSCAT: A Case for HAT-P-14b",
+  "2109.11366": "Critical Analysis of TESS Transit Photometric Data: Improved Physical Properties for Five Exoplanets",
+  "2211.01459": "Spectroscopic Time-series Performance of JWST/NIRSpec from Commissioning Observations",
+  "2211.16727": "JWST NIRCam Defocused Imaging: Photometric Stability Performance and How it Can Sense Mirror Tilts",
+  "2504.08903": "Unveiling the atmosphere of the super-Jupiter HAT-P-14 b with JWST NIRISS and NIRSpec"
+ },
+ "mast": {
+  "jw01118-o005_t013_nirspec_f290lp-g395h-s1600a1-sub2048": "1118 NIRSPEC/SLIT release 59774.8541666",
+  "jw01442-o001_t001_nircam_f322w2-grismr-subgrism128": "1442 NIRCAM/GRISM release 59774.8541666",
+  "jw01442-o003_t001_nircam_clear-f212n-subgrism256": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442-o003_t001_nircam_clear-f335m-subgrism256": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442-o003_t001_nircam_f210m-wlp8-subgrism256": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442-o003_t001_nircam_f322w2-grismr-subgrism256": "1442 NIRCAM/GRISM release 59774.8541666",
+  "jw01442-o003_t001_nircam_f405n-f444w-subgrism256": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442-o003_t001_nircam_f444w-grismr-subgrism256": "1442 NIRCAM/GRISM release 59774.8541666",
+  "jw01442001001_04103_00001-seg001_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442001001_04103_00001-seg002_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442001001_04103_00001-seg003_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442001001_04103_00001-seg004_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442001001_04103_00001-seg005_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442001001_04103_00001-seg006_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442003001_02103_00001_nrca1": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442003001_02103_00001_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442003001_02104_00001_nrca1": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01442003001_02104_00001_nrca3": "1442 NIRCAM/IMAGE release 59774.8541666",
+  "jw01541-o001_t002_niriss_clear-gr700xd-substrip256": "1541 NIRISS/SOSS release 59774.8541666",
+  "jw01541001001_04102_00001-seg001_nis": "1541 NIRISS/SOSS release 59774.8541666"
+ }
+}

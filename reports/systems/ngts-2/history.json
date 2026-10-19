@@ -1,0 +1,24 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 4,
+  "arxiv_n": 0,
+  "new": {
+   "mast": [
+    "jw05924-o005_t005_niriss_clear-gr700xd-substrip256",
+    "jw05924005001_04103_00001-seg001_nis",
+    "jw05924005001_04101_00001-seg001_nis",
+    "jw03838-o003_t003_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "NGTS-2 b.pl_rade: None -> 17.878355",
+    "NGTS-2 b.pl_bmasse: None -> 235.1942",
+    "NGTS-2 b.pl_eqt: None -> 1468.0",
+    "NGTS-2 b.st_teff: None -> 6478.0",
+    "NGTS-2 b.st_rad: None -> 1.702",
+    "NGTS-2 b.pl_rade_reflink: None -> <a refstr=RAYNARD_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.4960R/abstract target=ref>Raynard et al. 2018</a>"
+   ],
+   "arxiv": []
+  }
+ }
+]

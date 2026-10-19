@@ -1,0 +1,28 @@
+{
+ "archive": {
+  "GJ 367 b.pl_bmasse": 0.503,
+  "GJ 367 b.pl_eqt": 1329.0,
+  "GJ 367 b.pl_rade": 0.736,
+  "GJ 367 b.pl_rade_reflink": "<a refstr=LEE_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026arXiv260618355L/abstract target=ref>Lee et al. 2026</a>",
+  "GJ 367 b.st_rad": 0.457,
+  "GJ 367 b.st_teff": 3535.0,
+  "GJ 367 c.pl_bmasse": 4.13,
+  "GJ 367 c.pl_eqt": null,
+  "GJ 367 c.pl_rade": 1.86,
+  "GJ 367 c.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 367 c.st_rad": 0.458,
+  "GJ 367 c.st_teff": 3522.0,
+  "GJ 367 d.pl_bmasse": 6.03,
+  "GJ 367 d.pl_eqt": null,
+  "GJ 367 d.pl_rade": 2.33,
+  "GJ 367 d.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 367 d.st_rad": 0.458,
+  "GJ 367 d.st_teff": 3522.0
+ },
+ "arxiv": {
+  "2401.17302": "The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere"
+ },
+ "mast": {
+  "jw02508-o001_t001_miri_p750l-slitlessprism": "2508 MIRI/SLITLESS release 60363.2491898"
+ }
+}

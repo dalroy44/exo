@@ -1,0 +1,41 @@
+{
+ "archive": {
+  "GJ 3473 b.pl_bmasse": 1.86,
+  "GJ 3473 b.pl_eqt": 773.0,
+  "GJ 3473 b.pl_rade": 1.264,
+  "GJ 3473 b.pl_rade_reflink": "<a refstr=KEMMER_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K/abstract target=ref>Kemmer et al. 2020</a>",
+  "GJ 3473 b.st_rad": 0.364,
+  "GJ 3473 b.st_teff": 3347.0,
+  "GJ 3473 c.pl_bmasse": 7.41,
+  "GJ 3473 c.pl_eqt": 329.1,
+  "GJ 3473 c.pl_rade": 2.63,
+  "GJ 3473 c.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 3473 c.st_rad": 0.364,
+  "GJ 3473 c.st_teff": 3347.0
+ },
+ "arxiv": {
+  "2604.02332": "Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI"
+ },
+ "mast": {
+  "jw03730001001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60382.66642358",
+  "jw03730001001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60382.66118054",
+  "jw03730001001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60382.66496524",
+  "jw03730001001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60382.66505783",
+  "jw03730001001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60382.63954852",
+  "jw03730002001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60382.99349531",
+  "jw03730002001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60382.99341429",
+  "jw03730002001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60382.99347216",
+  "jw03730002001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60382.99313651",
+  "jw03730002001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60382.95778926",
+  "jw03730004001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60399.6456712",
+  "jw03730004001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60399.65332168",
+  "jw03730004001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60399.64670131",
+  "jw03730004001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60399.6530439",
+  "jw03730004001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60399.61478005",
+  "jw03730029001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60603.32026621",
+  "jw03730029001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60603.31828698",
+  "jw03730029001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60603.31821753",
+  "jw03730029001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60603.31842587",
+  "jw03730029001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60603.31820596"
+ }
+}

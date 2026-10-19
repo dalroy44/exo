@@ -1,0 +1,47 @@
+{
+ "archive": {
+  "TYC 8998-760-1 b.pl_bmasse": 6928.6592726,
+  "TYC 8998-760-1 b.pl_eqt": 2638.0,
+  "TYC 8998-760-1 b.pl_rade": 21.18497352,
+  "TYC 8998-760-1 b.pl_rade_reflink": "<a refstr=DARCIS_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026arXiv260526805D/abstract target=ref>Darcis et al. 2026</a>",
+  "TYC 8998-760-1 b.st_rad": 1.02,
+  "TYC 8998-760-1 b.st_teff": 4573.0,
+  "TYC 8998-760-1 c.pl_bmasse": 1906.98,
+  "TYC 8998-760-1 c.pl_eqt": 1240.0,
+  "TYC 8998-760-1 c.pl_rade": 12.3299,
+  "TYC 8998-760-1 c.pl_rade_reflink": "<a refstr=BOHN_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020ApJ...898L..16B/abstract target=ref>Bohn et al. 2020</a>",
+  "TYC 8998-760-1 c.st_rad": 1.02,
+  "TYC 8998-760-1 c.st_teff": 4573.0
+ },
+ "arxiv": {
+  "2107.06297": "The 13O-rich atmosphere of a young accreting super-Jupiter",
+  "2409.16660": "The ESO SupJup Survey III: Confirmation of 13CO in YSES 1 b and Atmospheric Detection of YSES 1 c with CRIRES+"
+ },
+ "mast": {
+  "jw02044-o001_t004_nirspec_g395h-f290lp": "2044 NIRSPEC/IFU release 60480.46756943",
+  "jw02044-o001_t004_nirspec_prism-clear": "2044 NIRSPEC/IFU release 60480.46756943",
+  "jw02044-o005_t002_miri_p750l": "2044 MIRI/SLIT release 60425.44538195",
+  "jw02044-o006_t003_miri_p750l": "2044 MIRI/SLIT release 60426.33358802",
+  "jw02044001001_02103_00001_nrs2": "2044 NIRSPEC/IFU release 60480.45376155",
+  "jw02044001001_02103_00002_nrs2": "2044 NIRSPEC/IFU release 60480.45267357",
+  "jw02044001001_02103_00003_nrs2": "2044 NIRSPEC/IFU release 60480.45281252",
+  "jw02044001001_02103_00004_nrs2": "2044 NIRSPEC/IFU release 60480.45418984",
+  "jw07538-o005_t008_miri_ch1-long": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch1-medium": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch1-short": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch2-long": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch2-medium": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch2-short": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch3-long": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch3-medium": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch3-short": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch4-long": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch4-medium": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_ch4-short": "7538 MIRI/IFU release 61561.28929389",
+  "jw07538-o005_t008_miri_f1000w": "7538 MIRI/IMAGE release 61561.28929389",
+  "jw07538-o005_t008_miri_f560w": "7538 MIRI/IMAGE release 61561.28929389",
+  "jw07538-o005_t008_miri_f770w": "7538 MIRI/IMAGE release 61561.28929389",
+  "jw08063-o009_t005_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61568.59534713",
+  "jw08063-o010_t005_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61568.61156238"
+ }
+}

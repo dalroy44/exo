@@ -1,0 +1,37 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 6,
+  "arxiv_n": 10,
+  "new": {
+   "mast": [
+    "jw05844001001_04101_00001-seg001_nrs2",
+    "jw02734001001_04102_00001-seg001_nis",
+    "jw05844-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048",
+    "jw05844001001_04101_00001-seg002_nrs2",
+    "jw02734-o001_t001_niriss_clear-gr700xd-substrip256",
+    "jw05844-o002_t001_miri_p750l-slitlessprism"
+   ],
+   "archive": [
+    "HAT-P-18 b.pl_rade: None -> 10.70457657",
+    "HAT-P-18 b.pl_bmasse: None -> 55.5246227",
+    "HAT-P-18 b.pl_eqt: None -> 841.0",
+    "HAT-P-18 b.st_teff: None -> 4870.0",
+    "HAT-P-18 b.st_rad: None -> 0.717",
+    "HAT-P-18 b.pl_rade_reflink: None -> <a refstr=YEE__VISSAPRAGADA_2026 href=https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..54Y/abstract target=ref>Yee &amp; Vissapragada 2026</a>"
+   ],
+   "arxiv": [
+    "2610.19328",
+    "2603.04488",
+    "2511.07746",
+    "2505.18715",
+    "2502.00553",
+    "2406.00187",
+    "2310.14950",
+    "2209.03677",
+    "2112.07667",
+    "2111.10350"
+   ]
+  }
+ }
+]

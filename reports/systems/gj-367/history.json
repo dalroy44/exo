@@ -1,0 +1,33 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 1,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [
+    "jw02508-o001_t001_miri_p750l-slitlessprism"
+   ],
+   "archive": [
+    "GJ 367 b.pl_rade: None -> 0.736",
+    "GJ 367 b.pl_bmasse: None -> 0.503",
+    "GJ 367 b.pl_eqt: None -> 1329.0",
+    "GJ 367 b.st_teff: None -> 3535.0",
+    "GJ 367 b.st_rad: None -> 0.457",
+    "GJ 367 b.pl_rade_reflink: None -> <a refstr=LEE_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026arXiv260618355L/abstract target=ref>Lee et al. 2026</a>",
+    "GJ 367 c.pl_rade: None -> 1.86",
+    "GJ 367 c.pl_bmasse: None -> 4.13",
+    "GJ 367 c.st_teff: None -> 3522.0",
+    "GJ 367 c.st_rad: None -> 0.458",
+    "GJ 367 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+    "GJ 367 d.pl_rade: None -> 2.33",
+    "GJ 367 d.pl_bmasse: None -> 6.03",
+    "GJ 367 d.st_teff: None -> 3522.0",
+    "GJ 367 d.st_rad: None -> 0.458",
+    "GJ 367 d.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2401.17302"
+   ]
+  }
+ }
+]

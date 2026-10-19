@@ -1,0 +1,43 @@
+{
+ "archive": {
+  "WASP-121 b.pl_bmasse": 371.85923619,
+  "WASP-121 b.pl_eqt": 2409.0,
+  "WASP-121 b.pl_rade": 19.52604438,
+  "WASP-121 b.pl_rade_reflink": "<a refstr=SING_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024AJ....168..231S/abstract target=ref>Sing et al. 2024</a>",
+  "WASP-121 b.st_rad": 1.461,
+  "WASP-121 b.st_teff": 6628.0
+ },
+ "arxiv": {
+  "2006.05995": "Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b",
+  "2006.11308": "Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) IV. A spectral inventory of atoms and molecules in the high-resolution transmission spectrum of WASP-121 b",
+  "2210.12847": "The Mantis Network IV: A titanium cold-trap on the ultra-hot Jupiter WASP-121 b",
+  "2303.09376": "Detection of a high-velocity sodium feature on the ultra-hot Jupiter WASP-121 b",
+  "2305.08610": "Effect of Centrifugal Force on Transmission Spectroscopy of Exoplanet Atmospheres",
+  "2305.17228": "Retrieval survey of metals in six ultra-hot Jupiters: Trends in chemistry, rain-out, ionisation and atmospheric dynamics",
+  "2307.00669": "Spitzer thermal phase curve of WASP-121 b",
+  "2401.01465": "Is the atmosphere of the ultra-hot Jupiter WASP-121b variable?",
+  "2402.19352": "Searching for NLTE effects in the high-resolution transmission spectrum of WASP-121 b with Cloudy for Exoplanets",
+  "2405.20361": "HST SHEL: Enabling Comparative Exoplanetology with HST/STIS",
+  "2410.19017": "The Roasting Marshmallows Program with IGRINS on Gemini South II -- WASP-121 b has super-stellar C/O and refractory-to-volatile ratios",
+  "2501.03844": "An absolute mass, precise age, and hints of planetary winds for WASP-121 A and b from a JWST NIRSpec phase curve",
+  "2502.12262": "Titanium chemistry of WASP-121 b with ESPRESSO in 4-UT mode",
+  "2508.06626": "Quantifying thermal water dissociation in the dayside photosphere of WASP-121 b using NIRPS",
+  "2508.10092": "Strong NUV Refractory Absorption and Dissociated Water in the Hubble Transmission Spectrum of the Ultra Hot Jupiter KELT-20 b",
+  "2508.10827": "Accelerating exoplanet climate modelling: A machine learning approach to complement 3D GCM grid simulations",
+  "2509.09760": "Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve",
+  "2510.09809": "A complex structure of escaping helium spanning more than half the orbit of the ultra-hot Jupiter WASP-121\\,b",
+  "2510.19776": "Exoplanetary radio emission predictions and detectability in the SKA era",
+  "2511.14175": "The KPF SURFS-UP Survey I: Transmission Spectroscopy of WASP-76 b",
+  "2605.01589": "The Days Drag On on WASP-121 b: Interpreting its NIRISS Spectroscopic Phase Curve with General Circulation Models",
+  "2606.16787": "Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres",
+  "2606.19487": "Atmospheric asymmetries in WASP-121 b revealed by rotational transits detected with JWST",
+  "2606.21855": "The panchromatic JWST dayside spectrum of WASP-121 b reveals a refractory-rich formation",
+  "2610.19328": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
+ },
+ "mast": {
+  "jw01201-o001_t001_niriss_clear-gr700xd-substrip256": "1201 NIRISS/SOSS release 60612.65920131",
+  "jw01729-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "1729 NIRSPEC/SLIT release 60233.48031248",
+  "jw02961-o001_t001_miri_p750l-slitlessprism": "2961 MIRI/SLITLESS release 60776.34668983",
+  "jw02961002001_02101_00001-seg001_mirimage": "2961 MIRI/TARGACQ release 60776.29851855"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "archive": {
+  "2MASS J01033563-5515561 AB b.pl_bmasse": 4131.79,
+  "2MASS J01033563-5515561 AB b.pl_eqt": null,
+  "2MASS J01033563-5515561 AB b.pl_rade": 12.3,
+  "2MASS J01033563-5515561 AB b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "2MASS J01033563-5515561 AB b.st_rad": null,
+  "2MASS J01033563-5515561 AB b.st_teff": null
+ },
+ "arxiv": {
+  "1303.4525": "Direct imaging discovery of 12-14 Jupiter mass object orbiting a young binary system of very low-mass stars"
+ },
+ "mast": {}
+}

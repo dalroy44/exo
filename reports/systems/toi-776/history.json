@@ -1,0 +1,35 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 4,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [
+    "jw02512-o003_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o006_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o005_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw02512-o004_t005_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TOI-776 b.pl_rade: None -> 1.798",
+    "TOI-776 b.pl_bmasse: None -> 5.0",
+    "TOI-776 b.pl_eqt: None -> 520.0",
+    "TOI-776 b.st_teff: None -> 3725.0",
+    "TOI-776 b.st_rad: None -> 0.547",
+    "TOI-776 b.pl_rade_reflink: None -> <a refstr=FRIDLUND_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..12F/abstract target=ref>Fridlund et al. 2024</a>",
+    "TOI-776 c.pl_rade: None -> 2.047",
+    "TOI-776 c.pl_bmasse: None -> 6.9",
+    "TOI-776 c.pl_eqt: None -> 420.0",
+    "TOI-776 c.st_teff: None -> 3725.0",
+    "TOI-776 c.st_rad: None -> 0.547",
+    "TOI-776 c.pl_rade_reflink: None -> <a refstr=FRIDLUND_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..12F/abstract target=ref>Fridlund et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2609.34635",
+    "2601.14254",
+    "2502.20501",
+    "2009.08338"
+   ]
+  }
+ }
+]

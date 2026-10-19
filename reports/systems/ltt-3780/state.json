@@ -1,0 +1,39 @@
+{
+ "archive": {
+  "LTT 3780 b.pl_bmasse": 2.46,
+  "LTT 3780 b.pl_eqt": 903.0,
+  "LTT 3780 b.pl_rade": 1.325,
+  "LTT 3780 b.pl_rade_reflink": "<a refstr=BONFANTI_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...682A..66B/abstract target=ref>Bonfanti et al. 2024</a>",
+  "LTT 3780 b.st_rad": 0.38,
+  "LTT 3780 b.st_teff": 3358.0,
+  "LTT 3780 c.pl_bmasse": 8.04,
+  "LTT 3780 c.pl_eqt": 359.0,
+  "LTT 3780 c.pl_rade": 2.39,
+  "LTT 3780 c.pl_rade_reflink": "<a refstr=BONFANTI_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...682A..66B/abstract target=ref>Bonfanti et al. 2024</a>",
+  "LTT 3780 c.st_rad": 0.38,
+  "LTT 3780 c.st_teff": 3358.0
+ },
+ "arxiv": {
+  "2003.01136": "A pair of TESS planets spanning the radius valley around the nearby mid-M dwarf LTT 3780",
+  "2003.01140": "The CARMENES search for exoplanets around M dwarfs. Two planets on the opposite sides of the radius gap transiting the nearby M dwarf LTT 3780",
+  "2507.04440": "Exploring the habitability and interior composition of exoplanets lying within the extended habitable zone",
+  "2508.14210": "Hot Rocks Survey IV: Emission from LTT 3780 b is consistent with a bare rock",
+  "2607.07182": "A search for narrowband technosignatures from LTT 3780 with the Allen Telescope Array and the Karl G. Jansky Very Large Array"
+ },
+ "mast": {
+  "jw03557-o004_t003_niriss_clear-gr700xd-substrip256": "3557 NIRISS/SOSS release 60786.46917824",
+  "jw03557-o005_t003_nirspec_f290lp-g395h-s1600a1-sub2048": "3557 NIRSPEC/SLIT release 60823.22075232",
+  "jw03557-o006_t003_miri_p750l-slitlessprism": "3557 MIRI/SLITLESS release 61019.66230318",
+  "jw03557004001_04102_00001-seg001_nis": "3557 NIRISS/SOSS release 60786.01593742",
+  "jw03730014001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60435.65936334",
+  "jw03730014001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60435.65946751",
+  "jw03730014001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60435.65945594",
+  "jw03730014001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60435.65921288",
+  "jw03730014001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60435.65923603",
+  "jw03730015001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60434.94070594",
+  "jw03730015001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60434.94091427",
+  "jw03730015001_03101_00001-seg003_mirimage": "3730 MIRI/IMAGE release 60434.95145824",
+  "jw03730015001_03101_00001-seg004_mirimage": "3730 MIRI/IMAGE release 60434.95130772",
+  "jw03730015001_03101_00001-seg005_mirimage": "3730 MIRI/IMAGE release 60434.91725687"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "archive": {
+  "LTT 9779 b.pl_bmasse": 29.32,
+  "LTT 9779 b.pl_eqt": 1978.0,
+  "LTT 9779 b.pl_rade": 4.72,
+  "LTT 9779 b.pl_rade_reflink": "<a refstr=JENKINS_ET_AL_2020 href=https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract target=ref>Jenkins et al. 2020</a>",
+  "LTT 9779 b.st_rad": 0.949,
+  "LTT 9779 b.st_teff": 5443.0
+ },
+ "arxiv": {
+  "2304.05707": "Converting the sub-Jovian desert of exoplanets to a savanna with TESS, PLATO and Ariel",
+  "2306.13645": "Characterising a World Within the Hot Neptune Desert: Transit Observations of LTT 9779 b with HST WFC3",
+  "2310.13171": "Survival in the Neptune desert: LTT 9779 b kept its atmosphere thanks to an unusually X-ray faint host star",
+  "2401.15548": "Muted Features in the JWST NIRISS Transmission Spectrum of Hot-Neptune LTT 9779 b",
+  "2503.05581": "Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS",
+  "2505.11960": "HST/WFC3 Constraints on the Abundances of OH and FeH in the Atmosphere of the Ultra-Hot Neptune LTT-9779 b",
+  "2510.04863": "Heat Reveals What Clouds Conceal: Global Carbon & Longitudinally Asymmetric Chemistry on LTT 9779 b",
+  "2511.08691": "No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution",
+  "2606.30793": "High-resolution detection of reflected light from the exo-Neptune LTT-9779 b",
+  "2609.26874": "Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS",
+  "2609.36206": "Cool, Cloudy Nights on an Ultrahot Neptune: A Panchromatic NIRISS/NIRSpec Transmission Spectrum of LTT 9779 b",
+  "2610.07202": "Exploring the ultrahot Neptune LTT 9779 b with CRIRES+. Non-detection of helium transmission spectra and detection of H$_2$O on the dayside"
+ },
+ "mast": {
+  "jw01201-o002_t016_niriss_clear-gr700xd-substrip256": "1201 NIRISS/SOSS release 60139.5416666",
+  "jw01201002001_04102_00001-seg001_nis": "1201 NIRISS/SOSS release 60139.5416666",
+  "jw03231-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "3231 NIRSPEC/SLIT release 60966.52533564"
+ }
+}

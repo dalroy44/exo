@@ -1,0 +1,48 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 20,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [
+    "jw03730029001_03101_00001-seg004_mirimage",
+    "jw03730002001_03101_00001-seg005_mirimage",
+    "jw03730004001_03101_00001-seg003_mirimage",
+    "jw03730004001_03101_00001-seg004_mirimage",
+    "jw03730002001_03101_00001-seg004_mirimage",
+    "jw03730029001_03101_00001-seg001_mirimage",
+    "jw03730001001_03101_00001-seg003_mirimage",
+    "jw03730004001_03101_00001-seg001_mirimage",
+    "jw03730004001_03101_00001-seg002_mirimage",
+    "jw03730029001_03101_00001-seg002_mirimage",
+    "jw03730004001_03101_00001-seg005_mirimage",
+    "jw03730001001_03101_00001-seg005_mirimage",
+    "jw03730001001_03101_00001-seg004_mirimage",
+    "jw03730002001_03101_00001-seg002_mirimage",
+    "jw03730002001_03101_00001-seg003_mirimage",
+    "jw03730002001_03101_00001-seg001_mirimage",
+    "jw03730001001_03101_00001-seg001_mirimage",
+    "jw03730029001_03101_00001-seg005_mirimage",
+    "jw03730001001_03101_00001-seg002_mirimage",
+    "jw03730029001_03101_00001-seg003_mirimage"
+   ],
+   "archive": [
+    "GJ 3473 b.pl_rade: None -> 1.264",
+    "GJ 3473 b.pl_bmasse: None -> 1.86",
+    "GJ 3473 b.pl_eqt: None -> 773.0",
+    "GJ 3473 b.st_teff: None -> 3347.0",
+    "GJ 3473 b.st_rad: None -> 0.364",
+    "GJ 3473 b.pl_rade_reflink: None -> <a refstr=KEMMER_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K/abstract target=ref>Kemmer et al. 2020</a>",
+    "GJ 3473 c.pl_rade: None -> 2.63",
+    "GJ 3473 c.pl_bmasse: None -> 7.41",
+    "GJ 3473 c.pl_eqt: None -> 329.1",
+    "GJ 3473 c.st_teff: None -> 3347.0",
+    "GJ 3473 c.st_rad: None -> 0.364",
+    "GJ 3473 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2604.02332"
+   ]
+  }
+ }
+]

@@ -1,0 +1,25 @@
+{
+ "archive": {
+  "KELT-7 b.pl_bmasse": 441.7837,
+  "KELT-7 b.pl_eqt": 2048.0,
+  "KELT-7 b.pl_rade": 17.9344,
+  "KELT-7 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "KELT-7 b.st_rad": 1.81,
+  "KELT-7 b.st_teff": 6768.0
+ },
+ "arxiv": {
+  "2006.14199": "ARES III: Unveiling the Two Faces of KELT-7 b with HST WFC3",
+  "2109.11366": "Critical Analysis of TESS Transit Photometric Data: Improved Physical Properties for Five Exoplanets",
+  "2206.11548": "HORuS transmission spectroscopy and revised planetary parameters of KELT-7b",
+  "2412.04330": "The GAPS programme at TNG LXVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets",
+  "2510.05240": "The First Dedicated Survey of Atmospheric Escape from Planets Orbiting F Stars",
+  "2607.06708": "Mitigating Charge Migration in JWST NIRISS Reveals That KELT-7 b is a Metal-enriched Ultra-hot Jupiter Orbiting a Young Metal-rich Star"
+ },
+ "mast": {
+  "jw03838-o002_t002_nirspec_f290lp-g395h-s1600a1-sub2048": "3838 NIRSPEC/SLIT release 60730.30137727",
+  "jw05924-o007_t007_niriss_clear-gr700xd-substrip96": "5924 NIRISS/SOSS release 60723.4853009",
+  "jw05924007001_04101_00001-seg001_nis": "5924 NIRISS/SOSS release 60722.58753462",
+  "jw05924007001_04103_00001-seg001_nis": "5924 NIRISS/SOSS release 60722.56662024",
+  "jw10786007001_xx101_00001_nirspec": "10786 NIRSPEC/SLIT release nan"
+ }
+}

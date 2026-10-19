@@ -1,0 +1,25 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 0,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [],
+   "archive": [
+    "eps Ind A b.pl_rade: None -> 12.7",
+    "eps Ind A b.pl_bmasse: None -> 2065.8846455",
+    "eps Ind A b.pl_eqt: None -> 275.0",
+    "eps Ind A b.st_teff: None -> 4700.0",
+    "eps Ind A b.st_rad: None -> 0.713",
+    "eps Ind A b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2604.23448",
+    "2603.08780",
+    "2503.01599",
+    "1807.09880",
+    "1008.2200"
+   ]
+  }
+ }
+]

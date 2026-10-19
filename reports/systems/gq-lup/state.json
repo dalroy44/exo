@@ -1,0 +1,53 @@
+{
+ "archive": {
+  "GQ Lup b.pl_bmasse": 6356.0,
+  "GQ Lup b.pl_eqt": 2650.0,
+  "GQ Lup b.pl_rade": 33.6,
+  "GQ Lup b.pl_rade_reflink": "<a refstr=NEUHAEUSER_ET_AL__2008 href=https://ui.adsabs.harvard.edu/abs/2008A%26A...484..281N/abstract target=ref> Neuh&auml;user et al. 2008 </a>",
+  "GQ Lup b.st_rad": 1.94153,
+  "GQ Lup b.st_teff": 4360.0
+ },
+ "arxiv": {
+  "0506011": "Direct detection of exo-planets: GQ Lupi",
+  "0610058": "GQ Lup B Visible & Near-Infrared Photometric Analysis",
+  "0612250": "Near-IR integral-field spectroscopy of the companion to GQ Lup",
+  "0903.2381": "Radiative transfer in circumstellar disks - I. 1D models for GQ Lupi",
+  "2101.04033": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
+  "2110.04307": "Characterizing the protolunar disk of the accreting companion GQ Lupi B",
+  "2404.07086": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+  "2405.13128": "Are these planets or brown dwarfs? Broadly solar compositions from high-resolution atmospheric retrievals of ~10-30 $M_\\textrm{Jup}$ companions",
+  "2501.01789": "The ESO SupJup Survey IV. Unveiling the carbon isotope ratio of GQ Lup B and its host star"
+ },
+ "mast": {
+  "jw01640-o009_t008_miri_ch1-long": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch1-medium": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch1-short": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch2-long": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch2-medium": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch2-short": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch3-long": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch3-medium": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch3-short": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch4-long": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch4-medium": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_ch4-short": "1640 MIRI/IFU release 60169.93010405",
+  "jw01640-o009_t008_miri_f770w": "1640 MIRI/IMAGE release 60169.93010405",
+  "jw06739-o001_t001_nirspec_g395h-f290lp": "6739 NIRSPEC/IFU release 61234.67552073",
+  "jw06739-o003_t001_miri_f1280w-sub64": "6739 MIRI/IMAGE release 61234.65112264",
+  "jw06739-o003_t001_miri_f1500w-sub64": "6739 MIRI/IMAGE release 61234.65112264",
+  "jw06739-o003_t001_miri_f1800w-sub64": "6739 MIRI/IMAGE release 61234.65112264",
+  "jw06739-o003_t001_miri_f2100w-sub64": "6739 MIRI/IMAGE release 61234.65112264",
+  "jw07792-o001_t001_miri_ch1-long": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch1-medium": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch1-short": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch2-long": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch2-medium": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch2-short": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch3-long": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch3-medium": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch3-short": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch4-long": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch4-medium": "7792 MIRI/IFU release 61251.18903936",
+  "jw07792-o001_t001_miri_ch4-short": "7792 MIRI/IFU release 61251.18903936"
+ }
+}

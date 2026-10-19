@@ -1,0 +1,18 @@
+{
+ "archive": {
+  "eps Ind A b.pl_bmasse": 2065.8846455,
+  "eps Ind A b.pl_eqt": 275.0,
+  "eps Ind A b.pl_rade": 12.7,
+  "eps Ind A b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "eps Ind A b.st_rad": 0.713,
+  "eps Ind A b.st_teff": 4700.0
+ },
+ "arxiv": {
+  "1008.2200": "Discovery of a Highly Unequal-Mass Binary T Dwarf with Keck Laser Guide Star Adaptive Optics: A Coevality Test of Substellar Theoretical Models and Effective Temperatures",
+  "1807.09880": "Dynamical Masses of Eps Ind B and C: Two Massive Brown Dwarfs at the Edge of the Stellar-Substellar Boundary",
+  "2503.01599": "A temperate super-Jupiter imaged with JWST in the mid-infrared",
+  "2603.08780": "A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest super-Jupiter",
+  "2604.23448": "Direct Imaging Constraints on Binary Planets and Exomoons around Epsilon Indi A b"
+ },
+ "mast": {}
+}

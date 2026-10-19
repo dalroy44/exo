@@ -1,0 +1,24 @@
+{
+ "archive": {
+  "kap And b.pl_bmasse": 5498.4314411,
+  "kap And b.pl_eqt": 1791.0,
+  "kap And b.pl_rade": 15.91675259,
+  "kap And b.pl_rade_reflink": "<a refstr=GODOY_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...702A...4G/abstract target=ref>Godoy et al. 2025</a>",
+  "kap And b.st_rad": 2.109,
+  "kap And b.st_teff": 11327.0
+ },
+ "arxiv": {
+  "1003.3561": "Evolution of the solar activity over time and effects on planetary atmospheres. II. kappa^1 Ceti, an analog of the Sun when life arose on Earth",
+  "1412.2052": "A non-LTE spectral analysis of the 3He and 4He isotopes in the HgMn star kappa Cancri",
+  "2405.13128": "Are these planets or brown dwarfs? Broadly solar compositions from high-resolution atmospheric retrievals of ~10-30 $M_\\textrm{Jup}$ companions"
+ },
+ "mast": {
+  "jw01241-c1019_t003_miri_f1065c-mask1065": "1241 MIRI/CORON release 60572.65",
+  "jw01241-c1020_t003_miri_f1140c-mask1140": "1241 MIRI/CORON release 60572.64673603",
+  "jw01241-c1021_t003_miri_f1550c-mask1550": "1241 MIRI/CORON release 60573.11778934",
+  "jw08063-o011_t006_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61665.97001152",
+  "jw08063-o011_t006_nirspec_g395h-f290lp": "8063 NIRSPEC/IFU release 61665.97001152",
+  "jw08063-o012_t006_nirspec_g140h-f100lp": "8063 NIRSPEC/IFU release 61666.63589113",
+  "jw08063-o012_t006_nirspec_g395h-f290lp": "8063 NIRSPEC/IFU release 61666.63589113"
+ }
+}

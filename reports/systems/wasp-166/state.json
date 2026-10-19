@@ -1,0 +1,25 @@
+{
+ "archive": {
+  "WASP-166 b.pl_bmasse": 32.10083,
+  "WASP-166 b.pl_eqt": 1270.0,
+  "WASP-166 b.pl_rade": 7.06167,
+  "WASP-166 b.pl_rade_reflink": "<a refstr=HELLIER_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.3067H/abstract target=ref>Hellier et al. 2019</a>",
+  "WASP-166 b.st_rad": 1.22,
+  "WASP-166 b.st_teff": 6050.0
+ },
+ "arxiv": {
+  "2203.04494": "The Hot Neptune WASP-166 b with ESPRESSO II: Confirmation of atmospheric sodium",
+  "2302.04794": "The hot Neptune WASP-166 b with ESPRESSO III: A blue-shifted tentative water signal constrains the presence of clouds"
+ },
+ "mast": {
+  "jw02062-o003_t001_nirspec_f290lp-g395m-s1600a1-sub2048": "2062 NIRSPEC/SLIT release 60692.11609951",
+  "jw02062-o004_t001_niriss_clear-gr700xd-substrip96": "2062 NIRISS/SOSS release 60676.82186334",
+  "jw02062003001_04102_00001-seg001_nrs2": "2062 NIRSPEC/SLIT release 60692.05810186",
+  "jw02062003001_04102_00001-seg002_nrs2": "2062 NIRSPEC/SLIT release 60692.04422453",
+  "jw02062003001_04102_00001-seg003_nrs2": "2062 NIRSPEC/SLIT release 60692.05846061",
+  "jw02062003001_04102_00001-seg004_nrs2": "2062 NIRSPEC/SLIT release 60692.05950233",
+  "jw02062003001_04102_00001-seg005_nrs2": "2062 NIRSPEC/SLIT release 60692.0665509",
+  "jw02062003001_04102_00001-seg006_nrs2": "2062 NIRSPEC/SLIT release 60692.03912028",
+  "jw02062004001_04102_00001-seg001_nis": "2062 NIRISS/SOSS release 60675.55727994"
+ }
+}

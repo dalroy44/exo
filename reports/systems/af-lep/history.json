@@ -1,0 +1,48 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 14,
+  "arxiv_n": 13,
+  "new": {
+   "mast": [
+    "jw04558-c1006_t001_nircam_f200w-maskrnd-sub320a335r",
+    "jw04558-c1007_t001_nircam_f444w-maskrnd-sub320a335r",
+    "jw06905-c1008_t001_nircam_f210m-maskbar-sub400x256alwb",
+    "jw04558-c1008_t001_nircam_f200w-maskrnd-sub320a335r",
+    "jw04558-c1007_t001_nircam_f356w-maskrnd-sub320a335r",
+    "jw06905-c1008_t001_nircam_f410m-maskbar-sub400x256alwb",
+    "jw06905-c1008_t001_nircam_f430m-maskbar-sub400x256alwb",
+    "jw04558-c1006_t001_nircam_f356w-maskrnd-sub320a335r",
+    "jw04558-c1008_t001_nircam_f444w-maskrnd-sub320a335r",
+    "jw06905-c1008_t001_nircam_f460m-maskbar-sub400x256alwb",
+    "jw04558-c1007_t001_nircam_f200w-maskrnd-sub320a335r",
+    "jw04558-c1008_t001_nircam_f356w-maskrnd-sub320a335r",
+    "jw04558-c1006_t001_nircam_f444w-maskrnd-sub320a335r",
+    "jw05342-o001_t001_nirspec_g395h-f290lp"
+   ],
+   "archive": [
+    "AF Lep b.pl_rade: None -> 13.0",
+    "AF Lep b.pl_bmasse: None -> 1147.36054927",
+    "AF Lep b.pl_eqt: None -> 1400.0",
+    "AF Lep b.st_teff: None -> 6140.0",
+    "AF Lep b.st_rad: None -> 1.25",
+    "AF Lep b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2608.15912",
+    "2608.10068",
+    "2605.01012",
+    "2502.19961",
+    "2502.19558",
+    "2411.05917",
+    "2409.03485",
+    "2406.09528",
+    "2406.01809",
+    "2401.05491",
+    "2310.00088",
+    "2309.02488",
+    "2302.06332"
+   ]
+  }
+ }
+]

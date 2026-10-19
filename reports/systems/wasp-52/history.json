@@ -1,0 +1,35 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 6,
+  "arxiv_n": 8,
+  "new": {
+   "mast": [
+    "jw01224-o004_t004_nirspec_clear-prism-s1600a1-sub512s",
+    "jw01224004001_04101_00001-seg002_nrs2",
+    "jw01224004001_04101_00001-seg003_nrs2",
+    "jw01201-o501_t017_niriss_clear-gr700xd-substrip256",
+    "jw03969-o003_t002_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01224004001_04101_00001-seg001_nrs2"
+   ],
+   "archive": [
+    "WASP-52 b.pl_rade: None -> 14.24",
+    "WASP-52 b.pl_bmasse: None -> 146.2",
+    "WASP-52 b.pl_eqt: None -> 1315.0",
+    "WASP-52 b.st_teff: None -> 5000.0",
+    "WASP-52 b.st_rad: None -> 0.79",
+    "WASP-52 b.pl_rade_reflink: None -> <a refstr=HEBRARD_ET_AL__2013 href=https://ui.adsabs.harvard.edu/abs/2013A%26A...549A.134H/abstract target=ref> Hebrard et al. 2013 </a>"
+   ],
+   "arxiv": [
+    "2508.20572",
+    "2412.17072",
+    "2209.03677",
+    "2207.05136",
+    "2007.00573",
+    "1911.05179",
+    "1811.00935",
+    "1808.09514"
+   ]
+  }
+ }
+]

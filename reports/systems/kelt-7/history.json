@@ -1,0 +1,32 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 5,
+  "arxiv_n": 6,
+  "new": {
+   "mast": [
+    "jw03838-o002_t002_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw05924007001_04103_00001-seg001_nis",
+    "jw05924-o007_t007_niriss_clear-gr700xd-substrip96",
+    "jw10786007001_xx101_00001_nirspec",
+    "jw05924007001_04101_00001-seg001_nis"
+   ],
+   "archive": [
+    "KELT-7 b.pl_rade: None -> 17.9344",
+    "KELT-7 b.pl_bmasse: None -> 441.7837",
+    "KELT-7 b.pl_eqt: None -> 2048.0",
+    "KELT-7 b.st_teff: None -> 6768.0",
+    "KELT-7 b.st_rad: None -> 1.81",
+    "KELT-7 b.pl_rade_reflink: None -> <a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>"
+   ],
+   "arxiv": [
+    "2607.06708",
+    "2510.05240",
+    "2412.04330",
+    "2206.11548",
+    "2109.11366",
+    "2006.14199"
+   ]
+  }
+ }
+]

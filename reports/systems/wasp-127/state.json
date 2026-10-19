@@ -1,0 +1,29 @@
+{
+ "archive": {
+  "WASP-127 b.pl_bmasse": 52.346601,
+  "WASP-127 b.pl_eqt": 1400.0,
+  "WASP-127 b.pl_rade": 14.694999,
+  "WASP-127 b.pl_rade_reflink": "<a refstr=SEIDEL_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020A&A...643A..45S/abstract target=ref>Seidel et al. 2020</a>",
+  "WASP-127 b.st_rad": 1.333,
+  "WASP-127 b.st_teff": 5620.0
+ },
+ "arxiv": {
+  "2005.09615": "ARES II: Characterising the Hot Jupiters WASP-127 b, WASP-79 b and WASP-62 b with HST",
+  "2007.06216": "Search for helium in the upper atmosphere of the hot Jupiter WASP-127 b using Gemini/Phoenix",
+  "2009.13386": "Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) VI. Non-detection of sodium with HARPS on the bloated super-Neptune WASP-127b",
+  "2208.13045": "Characterization of exoplanetary atmospheres with SLOPpy",
+  "2303.03232": "CO or no CO? Narrowing the CO abundance constraint and recovering the H2O detection in the atmosphere of WASP-127 b using SPIRou",
+  "2404.12363": "CRIRES$^+$ transmission spectroscopy of WASP-127b. Detection of the resolved signatures of a supersonic equatorial jet and cool poles in a hot planet",
+  "2406.14072": "IGRINS observations of WASP-127 b: H$_2$O, CO, and super-Solar atmospheric metallicity in the inflated sub-Saturn",
+  "2412.04330": "The GAPS programme at TNG LXVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets",
+  "2510.21777": "Wind Power as a Technosignature on M-dwarf Planets",
+  "2603.17574": "Searching for Molecular Signatures in 14 Transiting Exoplanets with SPIRou"
+ },
+ "mast": {
+  "jw01201-o006_t020_niriss_clear-gr700xd-substrip256": "1201 NIRISS/SOSS release 60648.22337966",
+  "jw02437-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "2437 NIRSPEC/SLIT release 60439.45123838",
+  "jw09101-o001_t001_miri_p750l-slitlessprism": "9101 MIRI/SLITLESS release 61532.98829856",
+  "jw09709007001_xx102_00001_nirspec": "9709 NIRSPEC/SLIT release nan",
+  "jw10786003001_xx101_00001_nirspec": "10786 NIRSPEC/SLIT release nan"
+ }
+}

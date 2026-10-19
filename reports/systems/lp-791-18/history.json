@@ -1,0 +1,71 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 32,
+  "arxiv_n": 6,
+  "new": {
+   "mast": [
+    "jw06457002001_03101_00001-seg002_mirimage",
+    "jw06457001001_03101_00001-seg003_mirimage",
+    "jw06457001001_03101_00001-seg004_mirimage",
+    "jw06457005001_03101_00001-seg001_mirimage",
+    "jw06457002001_03101_00001-seg004_mirimage",
+    "jw06457001001_03101_00001-seg005_mirimage",
+    "jw06457004001_03101_00001-seg001_mirimage",
+    "jw06457005001_03101_00001-seg002_mirimage",
+    "jw06457003001_03101_00001-seg005_mirimage",
+    "jw06457004001_03101_00001-seg004_mirimage",
+    "jw01201-o401_t021_nirspec_clear-prism-s1600a1-sub512",
+    "jw01201401001_04101_00001-seg002_nrs2",
+    "jw06457003001_03101_00001-seg004_mirimage",
+    "jw12157003001_xx102_00001_miri",
+    "jw06457004001_03101_00001-seg005_mirimage",
+    "jw06457003001_03101_00001-seg001_mirimage",
+    "jw06457002001_03101_00001-seg001_mirimage",
+    "jw12157003001_xx103_00001_miri",
+    "jw06457005001_03101_00001-seg005_mirimage",
+    "jw06457001001_03101_00001-seg001_mirimage",
+    "jw06457002001_03101_00001-seg005_mirimage",
+    "jw06457005001_03101_00001-seg004_mirimage",
+    "jw06457003001_03101_00001-seg003_mirimage",
+    "jw06457002001_03101_00001-seg003_mirimage",
+    "jw06457003001_03101_00001-seg002_mirimage",
+    "jw12157001001_xx102_00001_miri",
+    "jw01201401001_04101_00001-seg001_nrs2",
+    "jw06457005001_03101_00001-seg003_mirimage",
+    "jw06457004001_03101_00001-seg002_mirimage",
+    "jw06457004001_03101_00001-seg003_mirimage",
+    "jw12157001001_xx103_00001_miri",
+    "jw06457001001_03101_00001-seg002_mirimage"
+   ],
+   "archive": [
+    "LP 791-18 b.pl_rade: None -> 1.212",
+    "LP 791-18 b.pl_bmasse: None -> 1.94",
+    "LP 791-18 b.pl_eqt: None -> 564.3",
+    "LP 791-18 b.st_teff: None -> 2960.0",
+    "LP 791-18 b.st_rad: None -> 0.182",
+    "LP 791-18 b.pl_rade_reflink: None -> <a refstr=PETERSON_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023Natur.617..701P/abstract target=ref>Peterson et al. 2023</a>",
+    "LP 791-18 c.pl_rade: None -> 2.488",
+    "LP 791-18 c.pl_bmasse: None -> 7.16",
+    "LP 791-18 c.pl_eqt: None -> 324.4",
+    "LP 791-18 c.st_teff: None -> 2960.0",
+    "LP 791-18 c.st_rad: None -> 0.182",
+    "LP 791-18 c.pl_rade_reflink: None -> <a refstr=GREKLEK_MCKEON_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025AJ....170...65G/abstract target=ref>Greklek-McKeon et al. 2025</a>",
+    "LP 791-18 d.pl_rade: None -> 1.032",
+    "LP 791-18 d.pl_bmasse: None -> 0.91",
+    "LP 791-18 d.pl_eqt: None -> 395.5",
+    "LP 791-18 d.st_teff: None -> 2960.0",
+    "LP 791-18 d.st_rad: None -> 0.182",
+    "LP 791-18 d.pl_rade_reflink: None -> <a refstr=GREKLEK_MCKEON_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025AJ....170...65G/abstract target=ref>Greklek-McKeon et al. 2025</a>"
+   ],
+   "arxiv": [
+    "2609.34635",
+    "2507.04440",
+    "2506.02188",
+    "2501.18700",
+    "2406.01955",
+    "1906.09267"
+   ]
+  }
+ }
+]

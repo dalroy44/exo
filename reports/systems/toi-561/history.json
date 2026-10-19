@@ -1,0 +1,52 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 3,
+  "arxiv_n": 10,
+  "new": {
+   "mast": [
+    "jw04818012001_02101_00001-seg001_mirimage",
+    "jw04818-o011_t006_miri_p750l-slitlessprism",
+    "jw03860-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TOI-561 b.pl_rade: None -> 1.397",
+    "TOI-561 b.pl_bmasse: None -> 2.02",
+    "TOI-561 b.pl_eqt: None -> 2319.0",
+    "TOI-561 b.st_teff: None -> 5342.0",
+    "TOI-561 b.st_rad: None -> 0.843",
+    "TOI-561 b.pl_rade_reflink: None -> <a refstr=PIOTTO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2763P/abstract target=ref>Piotto et al. 2024</a>",
+    "TOI-561 c.pl_rade: None -> 2.865",
+    "TOI-561 c.pl_bmasse: None -> 5.93",
+    "TOI-561 c.pl_eqt: None -> 802.0",
+    "TOI-561 c.st_teff: None -> 5342.0",
+    "TOI-561 c.st_rad: None -> 0.843",
+    "TOI-561 c.pl_rade_reflink: None -> <a refstr=PIOTTO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2763P/abstract target=ref>Piotto et al. 2024</a>",
+    "TOI-561 d.pl_rade: None -> 2.615",
+    "TOI-561 d.pl_bmasse: None -> 13.33",
+    "TOI-561 d.pl_eqt: None -> 600.0",
+    "TOI-561 d.st_teff: None -> 5342.0",
+    "TOI-561 d.st_rad: None -> 0.843",
+    "TOI-561 d.pl_rade_reflink: None -> <a refstr=PIOTTO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2763P/abstract target=ref>Piotto et al. 2024</a>",
+    "TOI-561 e.pl_rade: None -> 2.517",
+    "TOI-561 e.pl_bmasse: None -> 12.4",
+    "TOI-561 e.pl_eqt: None -> 416.0",
+    "TOI-561 e.st_teff: None -> 5342.0",
+    "TOI-561 e.st_rad: None -> 0.843",
+    "TOI-561 e.pl_rade_reflink: None -> <a refstr=PIOTTO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2763P/abstract target=ref>Piotto et al. 2024</a>"
+   ],
+   "arxiv": [
+    "2609.26874",
+    "2609.03144",
+    "2608.21519",
+    "2512.04420",
+    "2509.17231",
+    "2406.15021",
+    "2405.08998",
+    "2308.08687",
+    "2210.06665",
+    "2201.07727"
+   ]
+  }
+ }
+]

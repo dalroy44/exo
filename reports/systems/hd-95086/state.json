@@ -1,0 +1,29 @@
+{
+ "archive": {
+  "HD 95086 b.pl_bmasse": 1589.0,
+  "HD 95086 b.pl_eqt": 1000.0,
+  "HD 95086 b.pl_rade": 12.9,
+  "HD 95086 b.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "HD 95086 b.st_rad": 1.48667,
+  "HD 95086 b.st_teff": 7595.0
+ },
+ "arxiv": {
+  "1310.7483": "Confirmation of the planet around HD 95086 by direct imaging",
+  "1404.4635": "Near-Infrared Detection and Characterization of the Exoplanet HD 95086 b with the Gemini Planet Imager",
+  "1604.01411": "Spectroscopic characterization of HD 95086 b with the Gemini Planet Imager",
+  "2206.00425": "In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086",
+  "2408.16843": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI"
+ },
+ "mast": {
+  "jw01200-c1001_t002_niriss_clearp-f380m-sub80": "1200 NIRISS/IMAGE release 60525.50593744",
+  "jw01200-c1001_t002_niriss_f380m-nrm-sub80": "1200 NIRISS/AMI release 60525.50593744",
+  "jw01200-o002_t002_niriss_clearp-f380m-sub80": "1200 NIRISS/IMAGE release 60525.51032405",
+  "jw01277-c1008_t001_miri_f1065c-mask1065": "1277 MIRI/CORON release 60385.6210995",
+  "jw01277-c1009_t001_miri_f1140c-mask1140": "1277 MIRI/CORON release 60385.61076382",
+  "jw01277-c1010_t001_miri_f2300c-masklyot": "1277 MIRI/CORON release 60385.36412038",
+  "jw06905-c1009_t002_nircam_f210m-maskbar-sub400x256alwb": "6905 NIRCAM/IMAGE release 61569.27304391",
+  "jw06905-c1009_t002_nircam_f410m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61569.27304391",
+  "jw06905-c1009_t002_nircam_f430m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61569.27304391",
+  "jw06905-c1009_t002_nircam_f460m-maskbar-sub400x256alwb": "6905 NIRCAM/CORON release 61569.27304391"
+ }
+}

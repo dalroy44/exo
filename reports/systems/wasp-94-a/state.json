@@ -1,0 +1,22 @@
+{
+ "archive": {
+  "WASP-94 A b.pl_bmasse": 158.915,
+  "WASP-94 A b.pl_eqt": 1604.0,
+  "WASP-94 A b.pl_rade": 17.71022,
+  "WASP-94 A b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "WASP-94 A b.st_rad": 1.48,
+  "WASP-94 A b.st_teff": 6170.0
+ },
+ "arxiv": {
+  "2109.04590": "The peculiar chemical pattern of the WASP-160 binary system: signatures of planetary formation and evolution?",
+  "2404.06550": "Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS",
+  "2507.15854": "Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres"
+ },
+ "mast": {
+  "jw03154-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "3154 NIRSPEC/SLIT release 60834.18189814",
+  "jw05924-o004_t004_niriss_clear-gr700xd-substrip256": "5924 NIRISS/SOSS release 60598.36467599",
+  "jw05924004001_04101_00001-seg001_nis": "5924 NIRISS/SOSS release 60597.60114578",
+  "jw05924004001_04103_00001-seg001_nis": "5924 NIRISS/SOSS release 60595.39826382",
+  "jw10786002001_xx102_00001_nirspec": "10786 NIRSPEC/SLIT release nan"
+ }
+}

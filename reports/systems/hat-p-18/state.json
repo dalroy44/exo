@@ -1,0 +1,30 @@
+{
+ "archive": {
+  "HAT-P-18 b.pl_bmasse": 55.5246227,
+  "HAT-P-18 b.pl_eqt": 841.0,
+  "HAT-P-18 b.pl_rade": 10.70457657,
+  "HAT-P-18 b.pl_rade_reflink": "<a refstr=YEE__VISSAPRAGADA_2026 href=https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..54Y/abstract target=ref>Yee &amp; Vissapragada 2026</a>",
+  "HAT-P-18 b.st_rad": 0.717,
+  "HAT-P-18 b.st_teff": 4870.0
+ },
+ "arxiv": {
+  "2111.10350": "Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III",
+  "2112.07667": "The Sensitivity of Eclipse Mapping to Planetary Rotation",
+  "2209.03677": "Constraining planetary mass-loss rates by simulating Parker wind profiles with Cloudy",
+  "2310.14950": "Near-Infrared Transmission Spectroscopy of HAT-P-18$\\,$b with NIRISS: Disentangling Planetary and Stellar Features in the Era of JWST",
+  "2406.00187": "Are WASP-107-like Systems Consistent with High-eccentricity Migration?",
+  "2502.00553": "The Influence of Stellar Chromospheres and Coronae on Exoplanet Transmission Spectroscopy",
+  "2505.18715": "Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters",
+  "2511.07746": "\"Popcorn Planets\" are Not Actively Inflated by Eccentricity Tides",
+  "2603.04488": "NASA's Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-Infrared Exoplanet Transmission Spectra",
+  "2610.19328": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
+ },
+ "mast": {
+  "jw02734-o001_t001_niriss_clear-gr700xd-substrip256": "2734 NIRISS/SOSS release 60775.23592595",
+  "jw02734001001_04102_00001-seg001_nis": "2734 NIRISS/SOSS release 59773.625",
+  "jw05844-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048": "5844 NIRSPEC/SLIT release 61160.6003124",
+  "jw05844-o002_t001_miri_p750l-slitlessprism": "5844 MIRI/SLITLESS release 61226.65358794",
+  "jw05844001001_04101_00001-seg001_nrs2": "5844 NIRSPEC/SLIT release 61160.55967584",
+  "jw05844001001_04101_00001-seg002_nrs2": "5844 NIRSPEC/SLIT release 61160.54487254"
+ }
+}

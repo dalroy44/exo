@@ -1,0 +1,31 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 6,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [
+    "jw01312-o006_t001_miri_p750l-slitlessprism",
+    "jw01312001001_04102_00001-seg001_nis",
+    "jw01312-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01312-o104_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01312-o001_t001_niriss_clear-gr700xd-substrip256",
+    "jw01177-o006_t004_miri_p750l-slitlessprism"
+   ],
+   "archive": [
+    "HAT-P-26 b.pl_rade: None -> 7.06167",
+    "HAT-P-26 b.pl_bmasse: None -> 22.2481",
+    "HAT-P-26 b.pl_eqt: None -> 1080.0",
+    "HAT-P-26 b.st_teff: None -> 5079.0",
+    "HAT-P-26 b.st_rad: None -> 0.87",
+    "HAT-P-26 b.pl_rade_reflink: None -> <a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>"
+   ],
+   "arxiv": [
+    "2509.16082",
+    "2406.10032",
+    "2303.03610",
+    "2205.10549"
+   ]
+  }
+ }
+]

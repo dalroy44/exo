@@ -1,0 +1,25 @@
+{
+ "archive": {
+  "HD 80606 b.pl_bmasse": 1323.46926959,
+  "HD 80606 b.pl_eqt": 405.0,
+  "HD 80606 b.pl_rade": 11.56766808,
+  "HD 80606 b.pl_rade_reflink": "<a refstr=PEARSON_ET_AL__2022 href=https://ui.adsabs.harvard.edu/abs/2022AJ....164..178P/abstract target=ref>Pearson et al. 2022</a>",
+  "HD 80606 b.st_rad": 1.05,
+  "HD 80606 b.st_teff": 5565.0
+ },
+ "arxiv": {
+  "0711.2106": "Hydrodynamic Simulations of Unevenly Irradiated Jovian Planets",
+  "1008.4800": "Probing potassium in the atmosphere of HD 80606b with tunable filter transit spectrophotometry from the Gran Telescopio Canarias",
+  "1507.08125": "HD 80606: Searching the chemical signature of planet formation",
+  "1606.01105": "Direct Measure of Radiative and Dynamical Properties of an Exoplanet Atmosphere",
+  "1805.04067": "Reassessing Exoplanet Light Curves with a Thermal Model",
+  "2208.14520": "Utilizing a global network of telescopes to update the ephemeris for the highly eccentric planet HD 80606 b and to ensure the efficient scheduling of JWST",
+  "2209.05910": "The Climate and Compositional Variation of the Highly Eccentric Planet HD 80606 b -- the rise and fall of carbon monoxide and elemental sulfur",
+  "2403.01026": "Examining the detectability of ringing on highly eccentric exoplanets",
+  "2602.09129": "Limits on the Post-eclipse Emission Spectrum of HD 80606 b From High-Resolution Spectroscop"
+ },
+ "mast": {
+  "jw02008-o001_t001_miri_p750l-slitlessprism": "2008 MIRI/SLITLESS release 61142.86976847",
+  "jw02488-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "2488 NIRSPEC/SLIT release 60250.64134257"
+ }
+}

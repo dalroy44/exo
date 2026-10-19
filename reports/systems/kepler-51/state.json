@@ -1,0 +1,49 @@
+{
+ "archive": {
+  "Kepler-51 b.pl_bmasse": 2.1,
+  "Kepler-51 b.pl_eqt": 543.0,
+  "Kepler-51 b.pl_rade": 7.1,
+  "Kepler-51 b.pl_rade_reflink": "<a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>",
+  "Kepler-51 b.st_rad": 0.94,
+  "Kepler-51 b.st_teff": 6018.0,
+  "Kepler-51 c.pl_bmasse": 4.0,
+  "Kepler-51 c.pl_eqt": 439.0,
+  "Kepler-51 c.pl_rade": 9.0,
+  "Kepler-51 c.pl_rade_reflink": "<a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>",
+  "Kepler-51 c.st_rad": 0.94,
+  "Kepler-51 c.st_teff": 6018.0,
+  "Kepler-51 d.pl_bmasse": 7.6,
+  "Kepler-51 d.pl_eqt": 381.0,
+  "Kepler-51 d.pl_rade": 9.7,
+  "Kepler-51 d.pl_rade_reflink": "<a refstr=MASUDA_2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...783...53M/abstract target=ref> Masuda 2014 </a>",
+  "Kepler-51 d.st_rad": 0.94,
+  "Kepler-51 d.st_teff": 6018.0,
+  "Kepler-51 e.pl_bmasse": 5.4,
+  "Kepler-51 e.pl_eqt": null,
+  "Kepler-51 e.pl_rade": 2.18,
+  "Kepler-51 e.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "Kepler-51 e.st_rad": 0.87,
+  "Kepler-51 e.st_teff": 5674.0
+ },
+ "arxiv": {
+  "1910.12988": "The Featureless Transmission Spectra of Two Super-Puff Planets",
+  "2103.03259": "Revisiting the Kepler field with TESS: Improved ephemerides using TESS 2min data",
+  "2410.01625": "A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations",
+  "2505.21358": "The James Webb Space Telescope NIRSpec-PRISM Transmission Spectrum of the Super-Puff, Kepler-51d",
+  "2609.25234": "Probing Exoplanetary Rings with Asterodensity Profiling: A PhotoRing Analysis of Kepler-51"
+ },
+ "mast": {
+  "jw02454-o001_t001_nirspec_clear-prism-s1600a1-sub512": "2454 NIRSPEC/SLIT release 60461.25737264",
+  "jw02454001001_04101_00001-seg001_nrs2": "2454 NIRSPEC/SLIT release 60461.40770824",
+  "jw02454001001_04101_00001-seg002_nrs2": "2454 NIRSPEC/SLIT release 60461.15648148",
+  "jw02454001001_04101_00001-seg003_nrs2": "2454 NIRSPEC/SLIT release 60461.15396988",
+  "jw02454001001_04101_00001-seg004_nrs2": "2454 NIRSPEC/SLIT release 60463.00554397",
+  "jw02571-o001_t001_nirspec_clear-prism-s1600a1-sub512": "2571 NIRSPEC/SLIT release 60488.52409721",
+  "jw02571001001_04101_00001-seg001_nrs2": "2571 NIRSPEC/SLIT release 60488.41870364",
+  "jw02571001001_04101_00001-seg002_nrs2": "2571 NIRSPEC/SLIT release 60488.45831019",
+  "jw02571001001_04101_00001-seg003_nrs2": "2571 NIRSPEC/SLIT release 60488.1731366",
+  "jw02571001001_04102_00001-seg001_nrs2": "2571 NIRSPEC/SLIT release 60488.5433679",
+  "jw02571001001_04102_00001-seg002_nrs2": "2571 NIRSPEC/SLIT release 60488.48442131",
+  "jw02571001001_04102_00001-seg003_nrs2": "2571 NIRSPEC/SLIT release 60488.20394673"
+ }
+}

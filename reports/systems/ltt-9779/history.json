@@ -1,0 +1,36 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 3,
+  "arxiv_n": 12,
+  "new": {
+   "mast": [
+    "jw03231-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw01201002001_04102_00001-seg001_nis",
+    "jw01201-o002_t016_niriss_clear-gr700xd-substrip256"
+   ],
+   "archive": [
+    "LTT 9779 b.pl_rade: None -> 4.72",
+    "LTT 9779 b.pl_bmasse: None -> 29.32",
+    "LTT 9779 b.pl_eqt: None -> 1978.0",
+    "LTT 9779 b.st_teff: None -> 5443.0",
+    "LTT 9779 b.st_rad: None -> 0.949",
+    "LTT 9779 b.pl_rade_reflink: None -> <a refstr=JENKINS_ET_AL_2020 href=https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract target=ref>Jenkins et al. 2020</a>"
+   ],
+   "arxiv": [
+    "2610.07202",
+    "2609.36206",
+    "2609.26874",
+    "2606.30793",
+    "2511.08691",
+    "2510.04863",
+    "2505.11960",
+    "2503.05581",
+    "2401.15548",
+    "2310.13171",
+    "2306.13645",
+    "2304.05707"
+   ]
+  }
+ }
+]

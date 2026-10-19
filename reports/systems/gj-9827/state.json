@@ -1,0 +1,52 @@
+{
+ "archive": {
+  "GJ 9827 b.pl_bmasse": 4.28,
+  "GJ 9827 b.pl_eqt": 1035.01,
+  "GJ 9827 b.pl_rade": 1.44,
+  "GJ 9827 b.pl_rade_reflink": "<a refstr=PASSEGGER_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..22P/abstract target=ref>Passegger et al. 2024</a>",
+  "GJ 9827 b.st_rad": 0.58,
+  "GJ 9827 b.st_teff": 4236.0,
+  "GJ 9827 c.pl_bmasse": 1.86,
+  "GJ 9827 c.pl_eqt": 715.94,
+  "GJ 9827 c.pl_rade": 1.13,
+  "GJ 9827 c.pl_rade_reflink": "<a refstr=PASSEGGER_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..22P/abstract target=ref>Passegger et al. 2024</a>",
+  "GJ 9827 c.st_rad": 0.58,
+  "GJ 9827 c.st_teff": 4236.0,
+  "GJ 9827 d.pl_bmasse": 3.02,
+  "GJ 9827 d.pl_eqt": 675.0,
+  "GJ 9827 d.pl_rade": 1.98,
+  "GJ 9827 d.pl_rade_reflink": "<a refstr=PIAULET_GHORAYEB_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...974L..10P/abstract target=ref>Piaulet-Ghorayeb et al. 2024</a>",
+  "GJ 9827 d.st_rad": 0.58,
+  "GJ 9827 d.st_teff": 4236.0
+ },
+ "arxiv": {
+  "1709.01527": "Three Small Super-Earths Transiting the nearby star GJ 9827",
+  "1709.01957": "A System of Three Super Earths Transiting the Late K-Dwarf GJ 9827 at Thirty Parsecs",
+  "1802.09557": "Mass determination of the 1:3:5 near-resonant planets transiting GJ 9827 (K2-135)",
+  "1812.07302": "Masses and radii for the three super-Earths orbiting GJ 9827, and implications for the composition of small exoplanets",
+  "2009.03398": "Physical Parameters of the Multi-Planet Systems HD 106315 and GJ 9827",
+  "2101.06277": "A multi-wavelength look at the GJ 9827 system -- No evidence of extended atmospheres in GJ 9827 b and d from HST and CARMENES data",
+  "2103.08785": "Caught in the Act: Core-powered Mass-loss Predictions for Observing Atmospheric Escape",
+  "2105.01102": "Mass-radius relationships for irradiated ocean planets",
+  "2208.01650": "Planetary parameters, XUV environments and mass-loss rates for nearby gaseous planets with X-ray detected host-stars",
+  "2302.01479": "Absence of extended atmospheres in low-mass star radius-gap planets GJ 9827 b, GJ 9827 d and TOI-1235 b",
+  "2410.03527": "JWST/NIRISS reveals the water-rich \"steam world\" atmosphere of GJ 9827 d",
+  "2508.12865": "An empirical determination of the Cosmic Shoreline",
+  "2512.04420": "JWST Exoplanetary Worlds and Elemental Survey (JEWELS) I: High-Precision Chemical Abundances of 20 FGK Planet-Hosting Stars from JWST Cycle 2",
+  "2602.12201": "Oxygen left behind: Atmospheric Enrichment due to Fractionation in Sub-Neptunes using BOREAS",
+  "2606.02083": "Escape of Water- and Metal-enriched Atmospheres from compact Hot mini-Neptunes with CHAIN",
+  "2609.24970": "Elemental Abundances of Cool Stars: A Spectroscopic Framework Applied to Five Planet-Host Stars"
+ },
+ "mast": {
+  "jw04098-o007_t005_niriss_clear-gr700xd-substrip256": "4098 NIRISS/SOSS release 60340.53575224",
+  "jw04098-o008_t005_niriss_clear-gr700xd-substrip256": "4098 NIRISS/SOSS release 60266.01292824",
+  "jw04098-o010_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "4098 NIRSPEC/SLIT release 60469.44879628",
+  "jw04098-o091_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "4098 NIRSPEC/SLIT release 60643.40758097",
+  "jw04818-o001_t001_miri_p750l-slitlessprism": "4818 MIRI/SLITLESS release 61205.03324065",
+  "jw04818002001_02101_00001-seg001_mirimage": "4818 MIRI/SLITLESS release 61205.04435185",
+  "jw12157011001_xx102_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157011001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157013001_xx102_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157013001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan"
+ }
+}

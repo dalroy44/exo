@@ -1,0 +1,35 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 7,
+  "arxiv_n": 7,
+  "new": {
+   "mast": [
+    "jw04195-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw04098-o004_t003_niriss_clear-gr700xd-substrip256",
+    "jw04098-o003_t003_niriss_clear-gr700xd-substrip256",
+    "jw04195-o104_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw04195-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw04195-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw03263-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "TOI-1685 b.pl_rade: None -> 1.421",
+    "TOI-1685 b.pl_bmasse: None -> 3.07",
+    "TOI-1685 b.pl_eqt: None -> 1000.0",
+    "TOI-1685 b.st_teff: None -> 3470.0",
+    "TOI-1685 b.st_rad: None -> 0.462",
+    "TOI-1685 b.pl_rade_reflink: None -> <a refstr=EGGER_ET_AL__2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...696A..28E/abstract target=ref>Egger et al. 2025</a>"
+   ],
+   "arxiv": [
+    "2609.24970",
+    "2512.15338",
+    "2502.07887",
+    "2412.03411",
+    "2406.00111",
+    "2405.14895",
+    "2103.01016"
+   ]
+  }
+ }
+]

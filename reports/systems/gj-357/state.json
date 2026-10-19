@@ -1,0 +1,35 @@
+{
+ "archive": {
+  "GJ 357 b.pl_bmasse": 1.83,
+  "GJ 357 b.pl_eqt": 518.0,
+  "GJ 357 b.pl_rade": 1.2,
+  "GJ 357 b.pl_rade_reflink": "<a refstr=ODDO_ET_AL__2023 href=https://ui.adsabs.harvard.edu/abs/2023AJ....165..134O/abstract target=ref>Oddo et al. 2023</a>",
+  "GJ 357 b.st_rad": 0.337,
+  "GJ 357 b.st_teff": 3505.0,
+  "GJ 357 c.pl_bmasse": 3.4,
+  "GJ 357 c.pl_eqt": 401.2,
+  "GJ 357 c.pl_rade": 1.66,
+  "GJ 357 c.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 357 c.st_rad": 0.337,
+  "GJ 357 c.st_teff": 3505.0,
+  "GJ 357 d.pl_bmasse": 6.1,
+  "GJ 357 d.pl_eqt": 219.6,
+  "GJ 357 d.pl_rade": 2.34,
+  "GJ 357 d.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 357 d.st_rad": 0.337,
+  "GJ 357 d.st_teff": 3505.0
+ },
+ "arxiv": {
+  "1904.12818": "Planetary system around the nearby M dwarf GJ 357 including a transiting, hot, Earth-sized planet optimal for atmospheric characterization",
+  "2007.10262": "GJ 357 b: A Super-Earth Orbiting an Extremely Inactive Host Star",
+  "2505.24462": "JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention",
+  "2507.07165": "JWST COMPASS: A NIRSpec G395H Transmission Spectrum of the Super-Earth GJ 357 b",
+  "2609.30552": "Hot Rocks Survey VI: An anomalously hot dayside for the rocky planet GJ 357 b"
+ },
+ "mast": {
+  "jw01201-o201_t018_niriss_clear-gr700xd-substrip96": "1201 NIRISS/SOSS release 60664.47486115",
+  "jw02512-o007_t006_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60282.9808217",
+  "jw03730027001_03101_00001-seg001_mirimage": "3730 MIRI/IMAGE release 60441.81162025",
+  "jw03730027001_03101_00001-seg002_mirimage": "3730 MIRI/IMAGE release 60441.69833326"
+ }
+}

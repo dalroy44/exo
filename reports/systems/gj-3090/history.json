@@ -1,0 +1,37 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 6,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [
+    "jw12157015001_xx103_00001_miri",
+    "jw04098-o111_t007_niriss_clear-gr700xd-substrip256",
+    "jw04098-o013_t007_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw04098-o012_t007_niriss_clear-gr700xd-substrip256",
+    "jw04098-o014_t007_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw12157015001_xx102_00001_miri"
+   ],
+   "archive": [
+    "GJ 3090 b.pl_rade: None -> 2.18",
+    "GJ 3090 b.pl_bmasse: None -> 4.52",
+    "GJ 3090 b.pl_eqt: None -> 723.0",
+    "GJ 3090 b.st_teff: None -> 3707.0",
+    "GJ 3090 b.st_rad: None -> 0.516",
+    "GJ 3090 b.pl_rade_reflink: None -> <a refstr=LAMONTAGNE_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026A&A...706A.278L/abstract target=ref>Lamontagne et al. 2026</a>",
+    "GJ 3090 c.pl_rade: None -> 3.14",
+    "GJ 3090 c.pl_bmasse: None -> 10.0",
+    "GJ 3090 c.pl_eqt: None -> 407.2",
+    "GJ 3090 c.st_teff: None -> 3707.0",
+    "GJ 3090 c.st_rad: None -> 0.516",
+    "GJ 3090 c.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2601.09330",
+    "2508.12865",
+    "2503.16608",
+    "2207.14121"
+   ]
+  }
+ }
+]

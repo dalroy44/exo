@@ -1,0 +1,30 @@
+{
+ "archive": {
+  "GJ 3090 b.pl_bmasse": 4.52,
+  "GJ 3090 b.pl_eqt": 723.0,
+  "GJ 3090 b.pl_rade": 2.18,
+  "GJ 3090 b.pl_rade_reflink": "<a refstr=LAMONTAGNE_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026A&A...706A.278L/abstract target=ref>Lamontagne et al. 2026</a>",
+  "GJ 3090 b.st_rad": 0.516,
+  "GJ 3090 b.st_teff": 3707.0,
+  "GJ 3090 c.pl_bmasse": 10.0,
+  "GJ 3090 c.pl_eqt": 407.2,
+  "GJ 3090 c.pl_rade": 3.14,
+  "GJ 3090 c.pl_rade_reflink": "<a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>",
+  "GJ 3090 c.st_rad": 0.516,
+  "GJ 3090 c.st_teff": 3707.0
+ },
+ "arxiv": {
+  "2207.14121": "GJ 3090 b: one of the most favourable mini-Neptune for atmospheric characterisation",
+  "2503.16608": "Limits on the atmospheric metallicity and aerosols of the sub-Neptune GJ 3090 b from high-resolution CRIRES+ spectroscopy",
+  "2508.12865": "An empirical determination of the Cosmic Shoreline",
+  "2601.09330": "NIRPS tightens the mass estimate of GJ 3090 b and detects a planet near the stellar rotation period"
+ },
+ "mast": {
+  "jw04098-o012_t007_niriss_clear-gr700xd-substrip256": "4098 NIRISS/SOSS release 60340.04101849",
+  "jw04098-o013_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "4098 NIRSPEC/SLIT release 60159.11533567",
+  "jw04098-o014_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "4098 NIRSPEC/SLIT release 60211.09436342",
+  "jw04098-o111_t007_niriss_clear-gr700xd-substrip256": "4098 NIRISS/SOSS release 60495.95380774",
+  "jw12157015001_xx102_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157015001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan"
+ }
+}

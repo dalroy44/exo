@@ -1,0 +1,27 @@
+{
+ "archive": {
+  "TOI-1130 b.pl_bmasse": 19.8,
+  "TOI-1130 b.pl_eqt": 825.0,
+  "TOI-1130 b.pl_rade": 3.66,
+  "TOI-1130 b.pl_rade_reflink": "<a refstr=BORSATO_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...689A..52B/abstract target=ref>Borsato et al. 2024</a>",
+  "TOI-1130 b.st_rad": 0.697,
+  "TOI-1130 b.st_teff": 4360.0,
+  "TOI-1130 c.pl_bmasse": 336.0,
+  "TOI-1130 c.pl_eqt": 650.0,
+  "TOI-1130 c.pl_rade": 13.0,
+  "TOI-1130 c.pl_rade_reflink": "<a refstr=BORSATO_ET_AL_2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...689A..52B/abstract target=ref>Borsato et al. 2024</a>",
+  "TOI-1130 c.st_rad": 0.697,
+  "TOI-1130 c.st_teff": 4360.0
+ },
+ "arxiv": {
+  "2310.16888": "The GAPS programme at TNG XLIX. TOI-5398, the youngest compact multi-planet system composed of an inner sub-Neptune and an outer warm Saturn",
+  "2512.04420": "JWST Exoplanetary Worlds and Elemental Survey (JEWELS) I: High-Precision Chemical Abundances of 20 FGK Planet-Hosting Stars from JWST Cycle 2",
+  "2605.02036": "JWST unveils a high mean molecular weight atmosphere for mini-Neptune TOI-1130b: Evidence for formation beyond the water ice line"
+ },
+ "mast": {
+  "jw03385-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "3385 NIRSPEC/SLIT release 61135.8333333",
+  "jw03385-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "3385 NIRSPEC/SLIT release 60908.28684022",
+  "jw03385-o003_t001_niriss_clear-gr700xd-substrip256": "3385 NIRISS/SOSS release 60926.65249996",
+  "jw03385-o004_t001_niriss_clear-gr700xd-substrip256": "3385 NIRISS/SOSS release 60912.44365735"
+ }
+}

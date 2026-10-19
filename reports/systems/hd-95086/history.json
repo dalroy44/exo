@@ -1,0 +1,36 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 10,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [
+    "jw01200-c1001_t002_niriss_f380m-nrm-sub80",
+    "jw01200-o002_t002_niriss_clearp-f380m-sub80",
+    "jw01277-c1010_t001_miri_f2300c-masklyot",
+    "jw01200-c1001_t002_niriss_clearp-f380m-sub80",
+    "jw01277-c1008_t001_miri_f1065c-mask1065",
+    "jw06905-c1009_t002_nircam_f460m-maskbar-sub400x256alwb",
+    "jw01277-c1009_t001_miri_f1140c-mask1140",
+    "jw06905-c1009_t002_nircam_f210m-maskbar-sub400x256alwb",
+    "jw06905-c1009_t002_nircam_f430m-maskbar-sub400x256alwb",
+    "jw06905-c1009_t002_nircam_f410m-maskbar-sub400x256alwb"
+   ],
+   "archive": [
+    "HD 95086 b.pl_rade: None -> 12.9",
+    "HD 95086 b.pl_bmasse: None -> 1589.0",
+    "HD 95086 b.pl_eqt: None -> 1000.0",
+    "HD 95086 b.st_teff: None -> 7595.0",
+    "HD 95086 b.st_rad: None -> 1.48667",
+    "HD 95086 b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "2408.16843",
+    "2206.00425",
+    "1604.01411",
+    "1404.4635",
+    "1310.7483"
+   ]
+  }
+ }
+]

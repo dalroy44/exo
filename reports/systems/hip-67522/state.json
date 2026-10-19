@@ -1,0 +1,28 @@
+{
+ "archive": {
+  "HIP 67522 b.pl_bmasse": 13.8,
+  "HIP 67522 b.pl_eqt": 1175.0,
+  "HIP 67522 b.pl_rade": 9.9872018,
+  "HIP 67522 b.pl_rade_reflink": "<a refstr=BARBER_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..30B/abstract target=ref>Barber et al. 2024</a>",
+  "HIP 67522 b.st_rad": 1.38,
+  "HIP 67522 b.st_teff": 5675.0,
+  "HIP 67522 c.pl_bmasse": 22.0,
+  "HIP 67522 c.pl_eqt": 917.0,
+  "HIP 67522 c.pl_rade": 7.93595834,
+  "HIP 67522 c.pl_rade_reflink": "<a refstr=BARBER_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..30B/abstract target=ref>Barber et al. 2024</a>",
+  "HIP 67522 c.st_rad": 1.38,
+  "HIP 67522 c.st_teff": 5675.0
+ },
+ "arxiv": {
+  "2409.07229": "XUV irradiation of young planetary atmospheres. Results from a joint XMM-Newton and HST observation of HIP67522",
+  "2409.16355": "The Featherweight Giant: Unraveling the Atmosphere of a 17 Myr Planet with JWST",
+  "2507.00791": "Close-in planet induces flares on its host star",
+  "2510.27639": "X-ray and UV Observations of the Young Sun HIP~67522: Evidence of Lyman-alpha Absorption Within the Planetary System",
+  "2602.03498": "Atmospheric characterization of HIP 67522 b with VLT/CRIRES+. VLT/CRIRES+ suggests a heavier planet and hints at deuterium fractionation",
+  "2606.18045": "Transit timing and starspot-induced transit depth variations in the $\\sim$17 Myr old HIP 67522 system",
+  "2609.35979": "Toddlers in Resonance I: low masses and eccentricities of the 17 Myr giant planets HIP 67522 bc from transit timing variations"
+ },
+ "mast": {
+  "jw02498-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048": "2498 NIRSPEC/SLIT release 60367.69503457"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "archive": {
+  "HD 15337 b.pl_bmasse": 6.519,
+  "HD 15337 b.pl_eqt": 1001.0,
+  "HD 15337 b.pl_rade": 1.77,
+  "HD 15337 b.pl_rade_reflink": "<a refstr=ROS_AMP_AACUTE_RIO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.282R/abstract target=ref>Ros&aacute;rio et al. 2024</a>",
+  "HD 15337 b.st_rad": 0.855,
+  "HD 15337 b.st_teff": 5131.0,
+  "HD 15337 c.pl_bmasse": 6.792,
+  "HD 15337 c.pl_eqt": 656.1,
+  "HD 15337 c.pl_rade": 2.526,
+  "HD 15337 c.pl_rade_reflink": "<a refstr=ROS_AMP_AACUTE_RIO_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.282R/abstract target=ref>Ros&aacute;rio et al. 2024</a>",
+  "HD 15337 c.st_rad": 0.855,
+  "HD 15337 c.st_teff": 5131.0
+ },
+ "arxiv": {
+  "1903.05623": "The Transiting Multi-planet System HD15337: Two Nearly Equal-mass Planets Straddling the Radius Gap",
+  "2403.16621": "Precise characterisation of HD 15337 with CHEOPS: a laboratory for planet formation and evolution",
+  "2602.22327": "JWST COMPASS: NIRSpec/G395H Transmission Observations of the Sub-Neptune HD 15337 c"
+ },
+ "mast": {
+  "jw02512-o017_t016_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60142.60482632",
+  "jw02512-o018_t016_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60151.78524303",
+  "jw02512-o019_t016_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60183.91616895"
+ }
+}

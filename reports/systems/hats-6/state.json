@@ -1,0 +1,26 @@
+{
+ "archive": {
+  "HATS-6 b.pl_bmasse": 101.38777,
+  "HATS-6 b.pl_eqt": 712.8,
+  "HATS-6 b.pl_rade": 11.186582,
+  "HATS-6 b.pl_rade_reflink": "<a refstr=HARTMAN_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015AJ....149..166H/abstract target=ref>Hartman et al. 2015</a>",
+  "HATS-6 b.st_rad": 0.57,
+  "HATS-6 b.st_teff": 3724.0
+ },
+ "arxiv": {
+  "2608.16990": "GEMS JWST: Hold on to your HATS(-6 b), a sub-solar metallicity giant planet with water, methane and ammonia in its atmosphere",
+  "2610.19328": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
+ },
+ "mast": {
+  "jw03171-o006_t003_nirspec_clear-prism-s1600a1-sub512": "3171 NIRSPEC/SLIT release 60326.39393518",
+  "jw03171-o007_t003_nirspec_clear-prism-s1600a1-sub512": "3171 NIRSPEC/SLIT release 60331.35542822",
+  "jw03171006001_04101_00001-seg001_nrs2": "3171 NIRSPEC/SLIT release 60326.41336801",
+  "jw03171006001_04101_00001-seg002_nrs2": "3171 NIRSPEC/SLIT release 60326.39805548",
+  "jw03171006001_04101_00001-seg003_nrs2": "3171 NIRSPEC/SLIT release 60326.42039352",
+  "jw03171006001_04101_00001-seg004_nrs2": "3171 NIRSPEC/SLIT release 60326.15473372",
+  "jw03171007001_04101_00001-seg001_nrs2": "3171 NIRSPEC/SLIT release 60331.32539351",
+  "jw03171007001_04101_00001-seg002_nrs2": "3171 NIRSPEC/SLIT release 60331.33663193",
+  "jw03171007001_04101_00001-seg003_nrs2": "3171 NIRSPEC/SLIT release 60331.3729167",
+  "jw03171007001_04101_00001-seg004_nrs2": "3171 NIRSPEC/SLIT release 60331.08670137"
+ }
+}

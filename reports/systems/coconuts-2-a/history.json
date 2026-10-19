@@ -1,0 +1,23 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 0,
+  "arxiv_n": 3,
+  "new": {
+   "mast": [],
+   "archive": [
+    "COCONUTS-2 b.pl_rade: None -> 12.57647635",
+    "COCONUTS-2 b.pl_bmasse: None -> 2383.7130525",
+    "COCONUTS-2 b.pl_eqt: None -> 493.0",
+    "COCONUTS-2 b.st_teff: None -> 3552.0",
+    "COCONUTS-2 b.st_rad: None -> 0.366",
+    "COCONUTS-2 b.pl_rade_reflink: None -> <a refstr=KIMAN_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026AJ....171...60K/abstract target=ref>Kiman et al. 2026</a>"
+   ],
+   "arxiv": [
+    "2604.07176",
+    "2511.20923",
+    "2107.02805"
+   ]
+  }
+ }
+]

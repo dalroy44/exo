@@ -1,0 +1,38 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 2,
+  "arxiv_n": 15,
+  "new": {
+   "mast": [
+    "jw01366-o011_t002_miri_p750l-slitlessprism",
+    "jw01224-o002_t002_nirspec_f290lp-g395h-s1600a1-sub2048"
+   ],
+   "archive": [
+    "WASP-43 b.pl_rade: None -> 10.424",
+    "WASP-43 b.pl_bmasse: None -> 565.714",
+    "WASP-43 b.pl_eqt: None -> 1426.7",
+    "WASP-43 b.st_teff: None -> 4400.0",
+    "WASP-43 b.st_rad: None -> 0.6",
+    "WASP-43 b.pl_rade_reflink: None -> <a refstr=HELLIER_ET_AL__2011 href=https://ui.adsabs.harvard.edu/abs/2011arXiv1104.2823H/abstract target=ref> Hellier et al. 2011 </a>"
+   ],
+   "arxiv": [
+    "2607.08486",
+    "2604.05907",
+    "2409.00249",
+    "2401.14083",
+    "2301.06350",
+    "2204.03327",
+    "2110.04761",
+    "2110.02247",
+    "2105.09668",
+    "2103.16676",
+    "2103.14566",
+    "2010.07303",
+    "1805.04067",
+    "1502.00576",
+    "1401.3007"
+   ]
+  }
+ }
+]

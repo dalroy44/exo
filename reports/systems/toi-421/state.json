@@ -1,0 +1,37 @@
+{
+ "archive": {
+  "TOI-421 b.pl_bmasse": 6.7,
+  "TOI-421 b.pl_eqt": 922.0,
+  "TOI-421 b.pl_rade": 2.64,
+  "TOI-421 b.pl_rade_reflink": "<a refstr=KRENN_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.301K/abstract target=ref>Krenn et al. 2024</a>",
+  "TOI-421 b.st_rad": 0.866,
+  "TOI-421 b.st_teff": 5291.0,
+  "TOI-421 c.pl_bmasse": 14.1,
+  "TOI-421 c.pl_eqt": 635.0,
+  "TOI-421 c.pl_rade": 5.09,
+  "TOI-421 c.pl_rade_reflink": "<a refstr=KRENN_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...686A.301K/abstract target=ref>Krenn et al. 2024</a>",
+  "TOI-421 c.st_rad": 0.866,
+  "TOI-421 c.st_teff": 5291.0
+ },
+ "arxiv": {
+  "2004.10095": "The multi-planet system TOI-421 -- A warm Neptune and a super puffy mini-Neptune transiting a G9 V star in a visual binary",
+  "2112.04815": "Atmospheric mass loss and stellar wind effects in young and old systems I: comparative 3D study of TOI-942 and TOI-421 systems",
+  "2112.04832": "Atmospheric mass loss and stellar wind effects in young and old systems II: Is TOI-942 the past of TOI-421 system?",
+  "2404.11074": "Characterisation of the TOI-421 planetary system using CHEOPS, TESS, and archival radial velocity data",
+  "2501.01498": "TOI-421 b: A Hot Sub-Neptune with a Haze-Free, Low Mean Molecular Weight Atmosphere",
+  "2509.15746": "ATREIDES I. Embarking on a trek across the exo-Neptunian landscape with the TOI-421 system",
+  "2604.15891": "Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum"
+ },
+ "mast": {
+  "jw01935-o001_t003_niriss_clear-gr700xd-substrip96": "1935 NIRISS/SOSS release 60622.16637729",
+  "jw01935-o002_t003_nirspec_f290lp-g395m-s1600a1-sub2048": "1935 NIRSPEC/SLIT release 60563.98483784",
+  "jw01935001001_04102_00001-seg001_nis": "1935 NIRISS/SOSS release 60620.87567129",
+  "jw01935002001_04102_00001-seg001_nrs2": "1935 NIRSPEC/SLIT release 60563.91101845",
+  "jw01935002001_04102_00001-seg002_nrs2": "1935 NIRSPEC/SLIT release 60563.89871526",
+  "jw01935002001_04102_00001-seg003_nrs2": "1935 NIRSPEC/SLIT release 60563.85840274",
+  "jw11672001001_xx102_00001_niriss": "11672 NIRISS/IMAGE release nan",
+  "jw11672001001_xx103_00001_niriss": "11672 NIRISS/IMAGE release nan",
+  "jw11672001001_xx104_00001_niriss": "11672 NIRISS/IMAGE release nan",
+  "jw11672002001_xx102_00001_nirspec": "11672 NIRSPEC/SLIT release nan"
+ }
+}

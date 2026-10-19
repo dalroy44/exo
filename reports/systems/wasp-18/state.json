@@ -1,0 +1,44 @@
+{
+ "archive": {
+  "WASP-18 b.pl_bmasse": 3241.8497514,
+  "WASP-18 b.pl_eqt": 2429.0,
+  "WASP-18 b.pl_rade": 13.89913607,
+  "WASP-18 b.pl_rade_reflink": "<a refstr=CORT_EACUTE_S_ZULETA_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020A&A...636A..98C/abstract target=ref>Cort&eacute;s-Zuleta et al. 2020</a>",
+  "WASP-18 b.st_rad": 1.319,
+  "WASP-18 b.st_teff": 6432.0
+ },
+ "arxiv": {
+  "1210.5585": "Spitzer 3.6 micron and 4.5 micron full-orbit lightcurves of WASP-18",
+  "1801.02489": "H- Opacity and Water Dissociation in the Dayside Atmosphere of the Very Hot Gas Giant WASP-18 b",
+  "1802.00999": "Suppressed Far-UV Stellar Activity and Low Planetary Mass Loss in the WASP-18 System",
+  "1805.04067": "Reassessing Exoplanet Light Curves with a Thermal Model",
+  "1811.06527": "The polarization of the planet-hosting WASP-18 system",
+  "2003.06407": "Systematic Phase Curve Study of Known Transiting Systems from Year 1 of the TESS Mission",
+  "2204.03327": "Constraints on TESS albedos for five hot Jupiters",
+  "2209.15548": "The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b",
+  "2410.07636": "A regularisation technique to precisely infer limb darkening using transit measurements: can we estimate stellar surface magnetic fields?",
+  "2505.01544": "Dark skies of the slightly eccentric WASP-18 b from its optical-to-infrared dayside emission",
+  "2510.19776": "Exoplanetary radio emission predictions and detectability in the SKA era",
+  "2602.18101": "Inhomogeneous magnetic coupling in exoplanets: the stop & go of WASP-18 b's atmospheric flows",
+  "2606.16787": "Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres"
+ },
+ "mast": {
+  "jw01366-o021_t003_niriss_clear-gr700xd-substrip96": "1366 NIRISS/SOSS release 59859.5753124",
+  "jw01366021001_04102_00001-seg001_nis": "1366 NIRISS/SOSS release 59859.5753124",
+  "jw09243001001_02102_00001-seg001_nrcalong": "9243 NIRCAM/TARGACQ release 61203.80494201",
+  "jw09243001001_02102_00002-seg001_nrcalong": "9243 NIRCAM/TARGACQ release 61203.80528924",
+  "jw09243001001_02102_00003-seg001_nrcalong": "9243 NIRCAM/TARGACQ release 61203.80494201",
+  "jw09243001001_02102_00004-seg001_nrcalong": "9243 NIRCAM/TARGACQ release 61203.80494201",
+  "jw12564001001_02101_00001-seg001_nis": "12564 NIRISS/SOSS release 61251.35229173",
+  "jw12564001001_02101_00002-seg001_nis": "12564 NIRISS/SOSS release 61251.35229173",
+  "jw12564001001_02101_00003-seg001_nis": "12564 NIRISS/SOSS release 61251.35217599",
+  "jw12564001001_02101_00004-seg001_nis": "12564 NIRISS/SOSS release 61251.35218756",
+  "jw12564001001_04101_00001-seg001_nis": "12564 NIRISS/SOSS release 61251.35949076",
+  "jw12564001001_04102_00001-seg001_nis": "12564 NIRISS/SOSS release 61251.36986116",
+  "jw12564001001_04102_00001-seg002_nis": "12564 NIRISS/SOSS release 61251.37150469",
+  "jw12564001001_04102_00001-seg003_nis": "12564 NIRISS/SOSS release 61251.37140052",
+  "jw12564001001_04103_00001-seg001_nis": "12564 NIRISS/SOSS release 61251.33432872",
+  "jw12739001001_02101_00001_nrs1": "12739 NIRSPEC/SLIT release 61230.36391204",
+  "jw12739001001_02101_00002_nrs1": "12739 NIRSPEC/SLIT release 61230.6040508"
+ }
+}

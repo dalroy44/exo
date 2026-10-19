@@ -1,0 +1,18 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 0,
+  "arxiv_n": 1,
+  "new": {
+   "mast": [],
+   "archive": [
+    "2MASS J01033563-5515561 AB b.pl_rade: None -> 12.3",
+    "2MASS J01033563-5515561 AB b.pl_bmasse: None -> 4131.79",
+    "2MASS J01033563-5515561 AB b.pl_rade_reflink: None -> <a refstr=CALCULATED_VALUE href=/docs/pscp_calc.html target=_blank>Calculated Value</a>"
+   ],
+   "arxiv": [
+    "1303.4525"
+   ]
+  }
+ }
+]

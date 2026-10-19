@@ -1,0 +1,28 @@
+{
+ "archive": {
+  "TOI-776 b.pl_bmasse": 5.0,
+  "TOI-776 b.pl_eqt": 520.0,
+  "TOI-776 b.pl_rade": 1.798,
+  "TOI-776 b.pl_rade_reflink": "<a refstr=FRIDLUND_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..12F/abstract target=ref>Fridlund et al. 2024</a>",
+  "TOI-776 b.st_rad": 0.547,
+  "TOI-776 b.st_teff": 3725.0,
+  "TOI-776 c.pl_bmasse": 6.9,
+  "TOI-776 c.pl_eqt": 420.0,
+  "TOI-776 c.pl_rade": 2.047,
+  "TOI-776 c.pl_rade_reflink": "<a refstr=FRIDLUND_ET_AL__2024 href=https://ui.adsabs.harvard.edu/abs/2024A&A...684A..12F/abstract target=ref>Fridlund et al. 2024</a>",
+  "TOI-776 c.st_rad": 0.547,
+  "TOI-776 c.st_teff": 3725.0
+ },
+ "arxiv": {
+  "2009.08338": "A planetary system with two transiting mini-Neptunes near the radius valley transition around the bright M dwarf TOI-776",
+  "2502.20501": "JWST COMPASS: NIRSpec/G395H Transmission Observations of TOI-776 c, a 2 Rearth M Dwarf Planet",
+  "2601.14254": "Using observations of escaping H/He to constrain the atmospheric composition of sub-Neptunes",
+  "2609.34635": "Beyond gas dwarfs and water worlds: hybrid envelopes among the M-dwarf sub-Neptunes characterised with JWST"
+ },
+ "mast": {
+  "jw02512-o003_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60076.41193281",
+  "jw02512-o004_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60093.02192121",
+  "jw02512-o005_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60105.20717588",
+  "jw02512-o006_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "2512 NIRSPEC/SLIT release 60088.72173603"
+ }
+}

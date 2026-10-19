@@ -1,0 +1,22 @@
+{
+ "archive": {
+  "HAT-P-30 b.pl_bmasse": 263.7989,
+  "HAT-P-30 b.pl_eqt": 1630.0,
+  "HAT-P-30 b.pl_rade": 16.14096,
+  "HAT-P-30 b.pl_rade_reflink": "<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>",
+  "HAT-P-30 b.st_rad": 1.31,
+  "HAT-P-30 b.st_teff": 6304.0
+ },
+ "arxiv": {
+  "2105.09668": "Multi-band transit follow up observations of five hot-Jupiters with critical noise treatments: Improved physical properties",
+  "2111.10350": "Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III",
+  "2203.02866": "WASP-35 and HAT-P-30/WASP-51: re-analysis using TESS and ground-based transit photometry"
+ },
+ "mast": {
+  "jw03838-o005_t005_nirspec_f290lp-g395h-s1600a1-sub2048": "3838 NIRSPEC/SLIT release 60745.5253125",
+  "jw05924-o006_t006_niriss_clear-gr700xd-substrip256": "5924 NIRISS/SOSS release 60765.82401609",
+  "jw05924006001_04101_00001-seg001_nis": "5924 NIRISS/SOSS release 60765.57564804",
+  "jw05924006001_04103_00001-seg001_nis": "5924 NIRISS/SOSS release 60765.51609951",
+  "jw10786005001_xx101_00001_nirspec": "10786 NIRSPEC/SLIT release nan"
+ }
+}

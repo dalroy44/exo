@@ -1,0 +1,51 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 20,
+  "arxiv_n": 4,
+  "new": {
+   "mast": [
+    "jw03557-o007_t005_niriss_clear-gr700xd-substrip256",
+    "jw03730016001_03101_00001-seg002_mirimage",
+    "jw03730018001_03101_00001-seg001_mirimage",
+    "jw03730018001_03101_00001-seg002_mirimage",
+    "jw03557-o016_t005_miri_p750l-slitlessprism",
+    "jw03557-o009_t005_miri_p750l-slitlessprism",
+    "jw03730017001_03101_00001-seg001_mirimage",
+    "jw03730017001_03101_00001-seg002_mirimage",
+    "jw03730016001_03101_00001-seg001_mirimage",
+    "jw03730017001_03101_00001-seg003_mirimage",
+    "jw03557007001_04102_00001-seg001_nis",
+    "jw03730017001_03101_00001-seg004_mirimage",
+    "jw03557-o008_t005_nirspec_f290lp-g395h-s1600a1-sub2048",
+    "jw03730016001_03101_00001-seg004_mirimage",
+    "jw03730018001_03101_00001-seg004_mirimage",
+    "jw03730017001_03101_00001-seg005_mirimage",
+    "jw03730018001_03101_00001-seg005_mirimage",
+    "jw03730018001_03101_00001-seg003_mirimage",
+    "jw03730016001_03101_00001-seg003_mirimage",
+    "jw03730016001_03101_00001-seg005_mirimage"
+   ],
+   "archive": [
+    "TOI-1468 c.pl_rade: None -> 2.126",
+    "TOI-1468 c.pl_bmasse: None -> 4.1",
+    "TOI-1468 c.pl_eqt: None -> 338.1",
+    "TOI-1468 c.st_teff: None -> 3376.0",
+    "TOI-1468 c.st_rad: None -> 0.3714",
+    "TOI-1468 c.pl_rade_reflink: None -> <a refstr=MEIER_VALDES_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...698A..68M/abstract target=ref>Meier Vald&eacute;s et al. 2025</a>",
+    "TOI-1468 b.pl_rade: None -> 1.401",
+    "TOI-1468 b.pl_bmasse: None -> 3.04",
+    "TOI-1468 b.pl_eqt: None -> 683.5",
+    "TOI-1468 b.st_teff: None -> 3376.0",
+    "TOI-1468 b.st_rad: None -> 0.3714",
+    "TOI-1468 b.pl_rade_reflink: None -> <a refstr=MEIER_VALDES_ET_AL_2025 href=https://ui.adsabs.harvard.edu/abs/2025A&A...698A..68M/abstract target=ref>Meier Vald&eacute;s et al. 2025</a>"
+   ],
+   "arxiv": [
+    "2609.17505",
+    "2507.02052",
+    "2503.19772",
+    "2412.08476"
+   ]
+  }
+ }
+]

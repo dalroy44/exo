@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2026-10-19",
+  "mast_n": 25,
+  "arxiv_n": 2,
+  "new": {
+   "mast": [
+    "jw07538-o005_t008_miri_ch3-short",
+    "jw07538-o005_t008_miri_ch4-short",
+    "jw02044-o001_t004_nirspec_g395h-f290lp",
+    "jw07538-o005_t008_miri_ch4-medium",
+    "jw08063-o010_t005_nirspec_g140h-f100lp",
+    "jw07538-o005_t008_miri_ch1-long",
+    "jw02044001001_02103_00002_nrs2",
+    "jw02044-o005_t002_miri_p750l",
+    "jw02044-o006_t003_miri_p750l",
+    "jw07538-o005_t008_miri_ch2-short",
+    "jw07538-o005_t008_miri_f770w",
+    "jw07538-o005_t008_miri_ch3-long",
+    "jw08063-o009_t005_nirspec_g140h-f100lp",
+    "jw02044-o001_t004_nirspec_prism-clear",
+    "jw07538-o005_t008_miri_f560w",
+    "jw07538-o005_t008_miri_ch1-short",
+    "jw07538-o005_t008_miri_f1000w",
+    "jw07538-o005_t008_miri_ch2-long",
+    "jw07538-o005_t008_miri_ch3-medium",
+    "jw07538-o005_t008_miri_ch2-medium",
+    "jw07538-o005_t008_miri_ch4-long",
+    "jw07538-o005_t008_miri_ch1-medium",
+    "jw02044001001_02103_00004_nrs2",
+    "jw02044001001_02103_00003_nrs2",
+    "jw02044001001_02103_00001_nrs2"
+   ],
+   "archive": [
+    "TYC 8998-760-1 c.pl_rade: None -> 12.3299",
+    "TYC 8998-760-1 c.pl_bmasse: None -> 1906.98",
+    "TYC 8998-760-1 c.pl_eqt: None -> 1240.0",
+    "TYC 8998-760-1 c.st_teff: None -> 4573.0",
+    "TYC 8998-760-1 c.st_rad: None -> 1.02",
+    "TYC 8998-760-1 c.pl_rade_reflink: None -> <a refstr=BOHN_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020ApJ...898L..16B/abstract target=ref>Bohn et al. 2020</a>",
+    "TYC 8998-760-1 b.pl_rade: None -> 21.18497352",
+    "TYC 8998-760-1 b.pl_bmasse: None -> 6928.6592726",
+    "TYC 8998-760-1 b.pl_eqt: None -> 2638.0",
+    "TYC 8998-760-1 b.st_teff: None -> 4573.0",
+    "TYC 8998-760-1 b.st_rad: None -> 1.02",
+    "TYC 8998-760-1 b.pl_rade_reflink: None -> <a refstr=DARCIS_ET_AL_2026 href=https://ui.adsabs.harvard.edu/abs/2026arXiv260526805D/abstract target=ref>Darcis et al. 2026</a>"
+   ],
+   "arxiv": [
+    "2409.16660",
+    "2107.06297"
+   ]
+  }
+ }
+]
