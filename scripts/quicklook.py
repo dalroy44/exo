@@ -27,6 +27,11 @@ def band_table(wl, d, e, inflate=1.0):
 
 def load(path):
     """Accept wavelength_um,depth_ppm,err_ppm or Zenodo-style wavelength,dppm,dppm_err[_neg,_pos]."""
+    if not path.endswith(".csv"):  # Schmidt/Madhusudhan .dat/.txt: wl, half-width, depth, err; depth as a fraction
+        rows = [l.split() for l in open(path) if l.strip() and l[0] not in "#WwA-Za-z"]
+        t = np.array(rows, float)
+        k = 1e6 if t[:, 2].max() < 1 else 1
+        return t[:, 0], t[:, 2] * k, t[:, 3] * k
     t = np.genfromtxt(path, delimiter=",", names=True)
     n = t.dtype.names
     wl = t["wavelength_um" if "wavelength_um" in n else "wavelength"]

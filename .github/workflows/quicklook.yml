@@ -15,7 +15,7 @@ jobs:
       - run: pip install numpy
       - run: |
           { echo "# Quick-look band significances"; echo; echo "Generated $(date -u +%F) by \`scripts/quicklook.py\`. Crude local-baseline test, not a retrieval."
-            for f in data/external/*/*.csv data/published/*.csv; do
+            for f in data/external/*/*.csv data/external/*/*.dat data/external/*/K2-18b_*.txt data/published/*.csv; do
               [ -e "$f" ] || continue
               echo; echo "## $(basename "$f" .csv)"; echo '```'
               python scripts/quicklook.py "$f" | grep -v 'no coverage'; echo '```'
