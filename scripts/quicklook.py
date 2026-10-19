@@ -4,7 +4,9 @@ import numpy as np
 
 # band centres/widths in micron; CH4 and DMS overlap near 3.3-3.4 so 3.4 alone can't establish DMS
 BANDS = {"H2O_1.4": (1.40, .10), "H2O_1.9": (1.90, .10), "CH4_2.3": (2.30, .10),
-         "CH4_3.3": (3.30, .10), "DMS_3.4": (3.42, .08), "CO2_4.3": (4.30, .12)}
+         "CH4_3.3": (3.30, .10), "DMS_3.4": (3.42, .08), "CO2_4.3": (4.30, .12),
+         # MIRI/LRS: approximate band centres, widths wide enough for R~70 bins (>=2 per band)
+         "H2O_6.3": (6.30, .30), "DMS_6.9": (6.90, .30), "CH4_7.7": (7.70, .35), "NH3_10.5": (10.5, .45)}
 
 
 def band_table(wl, d, e, inflate=1.0):

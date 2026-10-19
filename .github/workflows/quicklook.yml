@@ -1,0 +1,28 @@
+name: quicklook
+on:
+  push:
+    paths: ["data/external/**", "data/published/**", "scripts/quicklook.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install numpy
+      - run: |
+          { echo "# Quick-look band significances"; echo; echo "Generated $(date -u +%F) by \`scripts/quicklook.py\`. Crude local-baseline test, not a retrieval."
+            for f in data/external/*/*.csv data/published/*.csv; do
+              [ -e "$f" ] || continue
+              echo; echo "## $(basename "$f" .csv)"; echo '```'
+              python scripts/quicklook.py "$f" | grep -v 'no coverage'; echo '```'
+            done; } > reports/QUICKLOOK.md
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git add reports
+          git commit -m "quicklook report" || exit 0
+          git pull --rebase -q && git push
