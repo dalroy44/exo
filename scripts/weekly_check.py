@@ -18,7 +18,7 @@ def mast():
 
 
 def archive():
-    q = "select pl_name,pl_rade,pl_bmasse,pl_eqt,st_teff,st_rad,rowupdate from pscomppars where pl_name='K2-18 b'"
+    q = "select pl_name,pl_rade,pl_bmasse,pl_eqt,st_teff,st_rad,pl_rade_reflink,pl_bmasse_reflink from pscomppars where pl_name='K2-18 b'"
     rows = json.loads(get("https://exoplanetarchive.ipac.caltech.edu/TAP/sync?" +
                           urllib.parse.urlencode({"query": q, "format": "json"})))
     return rows[0] if rows else {}
