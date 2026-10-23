@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-121  ·  JWST WATCH                    ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 4 | 4 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 25 | 25 | 2026-10-19 |
+| mast | ● ok | 4 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 25 | 2 | 2026-10-23 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  4
-arXiv  ▁  25
+MAST   ▁▁  4
+arXiv  ▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -48,19 +48,20 @@ Star: Teff 6628.0 K, radius 1.461 R☉
 
 ## ▌ Latest papers (arXiv)
 
+- [`2610.30594`](https://arxiv.org/abs/2610.30594)  Detection of Solar-like Oscillations and Granulation at Infrared Wavelengths using JWST
+- [`2610.24550`](https://arxiv.org/abs/2610.24550)  Granulation in Color: The Chromatic Stellar Flicker of LTT-9779 and WASP-121
 - [`2610.19328`](https://arxiv.org/abs/2610.19328)  ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets
 - [`2606.21855`](https://arxiv.org/abs/2606.21855)  The panchromatic JWST dayside spectrum of WASP-121 b reveals a refractory-rich formation
 - [`2606.19487`](https://arxiv.org/abs/2606.19487)  Atmospheric asymmetries in WASP-121 b revealed by rotational transits detected with JWST
 - [`2606.16787`](https://arxiv.org/abs/2606.16787)  Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres
 - [`2605.01589`](https://arxiv.org/abs/2605.01589)  The Days Drag On on WASP-121 b: Interpreting its NIRISS Spectroscopic Phase Curve with General Circulation Models
 - [`2511.14175`](https://arxiv.org/abs/2511.14175)  The KPF SURFS-UP Survey I: Transmission Spectroscopy of WASP-76 b
-- [`2510.19776`](https://arxiv.org/abs/2510.19776)  Exoplanetary radio emission predictions and detectability in the SKA era
-- [`2510.09809`](https://arxiv.org/abs/2510.09809)  A complex structure of escaping helium spanning more than half the orbit of the ultra-hot Jupiter WASP-121\,b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      4     25    2  ●●
 2026-10-19      4     25   35  ●●●●●●●●●●●●
 ```
 

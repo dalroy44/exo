@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-166  ·  JWST WATCH                    ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 9 | 9 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 2 | 2 | 2026-10-19 |
+| mast | ● ok | 9 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 2 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  9
-arXiv  ▁  2
+MAST   ▁▁  9
+arXiv  ▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,13 +34,13 @@ NIRSPEC  ████████████████░░░░ 7
 |---|---|---|---|---|
 | 2024-12-31 | ◉ public | 2062 | NIRISS/SOSS | `jw02062004001_04102_00001-seg001_nis` |
 | 2025-01-01 | ◉ public | 2062 | NIRISS/SOSS | `jw02062-o004_t001_niriss_clear-gr700xd-substrip96` |
-| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg001_nrs2` |
-| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg006_nrs2` |
 | 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg002_nrs2` |
-| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg005_nrs2` |
-| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg004_nrs2` |
-| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062-o003_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg003_nrs2` |
+| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg006_nrs2` |
+| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg001_nrs2` |
+| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg005_nrs2` |
+| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062-o003_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
+| 2025-01-17 | ◉ public | 2062 | NIRSPEC/SLIT | `jw02062003001_04102_00001-seg004_nrs2` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -59,6 +59,7 @@ Star: Teff 6050.0 K, radius 1.22 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      9      2    0  ·
 2026-10-19      9      2   17  ●●●●●●●●●●●●
 ```
 

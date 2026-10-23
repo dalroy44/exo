@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   KEPLER-51  ·  JWST WATCH                   ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 12 | 12 | 2026-10-19 |
-| archive | ● ok | 4 planets | 23 | 2026-10-19 |
-| arxiv | ● ok | 5 | 5 | 2026-10-19 |
+| mast | ● ok | 12 | 0 | 2026-10-19 |
+| archive | ● ok | 4 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 5 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  12
-arXiv  ▁  5
+MAST   ▁▁  12
+arXiv  ▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,18 +31,18 @@ NIRSPEC  ████████████████████ 12
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454001001_04101_00001-seg003_nrs2` |
-| 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454-o001_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454001001_04101_00001-seg002_nrs2` |
 | 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454001001_04101_00001-seg001_nrs2` |
+| 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454-o001_t001_nirspec_clear-prism-s1600a1-sub512` |
+| 2024-05-31 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454001001_04101_00001-seg003_nrs2` |
 | 2024-06-02 | ◉ public | 2454 | NIRSPEC/SLIT | `jw02454001001_04101_00001-seg004_nrs2` |
-| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04102_00001-seg001_nrs2` |
-| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04101_00001-seg003_nrs2` |
 | 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04101_00001-seg001_nrs2` |
 | 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04102_00001-seg003_nrs2` |
 | 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571-o001_t001_nirspec_clear-prism-s1600a1-sub512` |
-| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04101_00001-seg002_nrs2` |
 | 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04102_00001-seg002_nrs2` |
+| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04101_00001-seg003_nrs2` |
+| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04101_00001-seg002_nrs2` |
+| 2024-06-27 | ◉ public | 2571 | NIRSPEC/SLIT | `jw02571001001_04102_00001-seg001_nrs2` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -67,6 +67,7 @@ Star: Teff 5674.0 K, radius 0.87 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     12      5    0  ·
 2026-10-19     12      5   40  ●●●●●●●●●●●●
 ```
 

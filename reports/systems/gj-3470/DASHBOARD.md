@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 3470  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 72 | 72 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 22 | 22 | 2026-10-19 |
+| mast | ● ok | 72 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 22 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  72
-arXiv  ▁  22
+MAST   ▁▁  72
+arXiv  ▁▁  22
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,40 +37,40 @@ NIRSPEC  ███████████░░░░░░░░░ 40
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210w_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211k_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02105_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211o_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211f_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211b_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02103_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211g_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210g_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210n_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210y_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210p_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02107_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210y_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210n_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02102_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211t_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02101_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211d_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210f_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210k_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210e_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02114_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211u_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02104_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02112_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211s_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211d_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210v_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211e_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210o_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211s_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02115_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210x_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211g_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210f_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210u_00001_nrs1` |
-| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02112_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02103_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210m_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02101_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210d_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02114_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02116_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211n_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211o_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211b_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210k_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0210e_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211f_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211m_00001_nrs1` |
 | 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_02106_00001_nrs1` |
+| 2025-03-07 | ◉ public | 6637 | NIRSPEC | `jw06637003001_0211t_00001_nrs1` |
 | 2026-03-07 | ◉ public | 4536 | NIRSPEC/SLIT | `jw04536-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
 _Showing the 40 latest of 72; full list in `state.json`._
@@ -98,6 +98,7 @@ Star: Teff 3600.0 K, radius 0.547 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     72     22    0  ·
 2026-10-19     72     22  100  ●●●●●●●●●●●●
 ```
 

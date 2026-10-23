@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HR 2562  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 11 | 11 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 4 | 4 | 2026-10-19 |
+| mast | ● ok | 11 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  11
-arXiv  ▁  4
+MAST   ▁▁  11
+arXiv  ▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -36,9 +36,9 @@ NIRSPEC  ███████░░░░░░░░░░░░░ 4
 | 2024-03-11 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1025_t007_miri_f1140c-mask1140` |
 | 2024-03-12 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1024_t007_miri_f1065c-mask1065` |
 | 2024-03-12 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1026_t007_miri_f1550c-mask1550` |
+| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f430m-maskbar-sub400x256alwb` |
 | 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f460m-maskbar-sub400x256alwb` |
 | 2026-10-13 | ◉ public | 6905 | NIRCAM/IMAGE | `jw06905-c1011_t004_nircam_f210m-maskbar-sub400x256alwb` |
-| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f430m-maskbar-sub400x256alwb` |
 | 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f410m-maskbar-sub400x256alwb` |
 | 2026-10-17 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o013_t007_nirspec_g140h-f100lp` |
 | 2026-10-17 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o013_t007_nirspec_g395h-f290lp` |
@@ -64,6 +64,7 @@ Star: Teff 6597.0 K, radius 1.334 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     11      4    0  ·
 2026-10-19     11      4   21  ●●●●●●●●●●●●
 ```
 

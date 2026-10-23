@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GQ LUP  ·  JWST WATCH                      ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 30 | 30 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 9 | 9 | 2026-10-19 |
+| mast | ● ok | 30 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 9 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  30
-arXiv  ▁  9
+MAST   ▁▁  30
+arXiv  ▁▁  9
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,36 +32,36 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2023-08-13 | ◉ public | 1640 | MIRI/IMAGE | `jw01640-o009_t008_miri_f770w` |
-| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-medium` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-short` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch3-short` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch2-long` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch4-short` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch2-short` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch4-medium` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch4-long` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch3-long` |
-| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-short` |
-| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-long` |
-| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch3-short` |
-| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch2-short` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch2-medium` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-medium` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch1-long` |
+| 2023-08-13 | ◉ public | 1640 | MIRI/IMAGE | `jw01640-o009_t008_miri_f770w` |
 | 2023-08-13 | ◉ public | 1640 | MIRI/IFU | `jw01640-o009_t008_miri_ch3-medium` |
+| 2026-07-13 | ◉ public | 6739 | MIRI/IMAGE | `jw06739-o003_t001_miri_f1500w-sub64` |
 | 2026-07-13 | ◉ public | 6739 | MIRI/IMAGE | `jw06739-o003_t001_miri_f1280w-sub64` |
 | 2026-07-13 | ◉ public | 6739 | MIRI/IMAGE | `jw06739-o003_t001_miri_f2100w-sub64` |
 | 2026-07-13 | ◉ public | 6739 | MIRI/IMAGE | `jw06739-o003_t001_miri_f1800w-sub64` |
 | 2026-07-13 | ◉ public | 6739 | NIRSPEC/IFU | `jw06739-o001_t001_nirspec_g395h-f290lp` |
-| 2026-07-13 | ◉ public | 6739 | MIRI/IMAGE | `jw06739-o003_t001_miri_f1500w-sub64` |
+| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch4-medium` |
+| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch3-medium` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch2-medium` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch4-long` |
+| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch2-short` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch3-short` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch2-long` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch4-short` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch1-short` |
-| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch3-medium` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch1-medium` |
-| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch4-medium` |
-| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch1-long` |
-| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch2-short` |
 | 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch3-long` |
+| 2026-07-30 | ◉ public | 7792 | MIRI/IFU | `jw07792-o001_t001_miri_ch1-long` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -86,6 +86,7 @@ Star: Teff 4360.0 K, radius 1.94153 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     30      9    0  ·
 2026-10-19     30      9   45  ●●●●●●●●●●●●
 ```
 

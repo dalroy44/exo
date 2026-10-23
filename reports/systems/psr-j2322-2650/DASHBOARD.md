@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   PSR J2322-2650  ·  JWST WATCH              ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,17 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 13 | 13 | 2026-10-19 |
-| archive | ● ok | 1 planets | 3 | 2026-10-19 |
-| arxiv | ● ok | 0 | 0 | never |
+| mast | ● ok | 13 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 0 | 0 | never |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  13
-arXiv  ▁  0
+MAST   ▁▁  13
+arXiv  ▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,17 +33,17 @@ NIRSPEC  ████████████████████ 13
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263001001_07101_00001_nrs2` |
 | 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263-o001_t001-s000000001_nirspec_clear-prism-s200a1-subs200a1` |
 | 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263001001_06101_00001_nrs2` |
 | 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263001001_08101_00001_nrs2` |
+| 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263001001_07101_00001_nrs2` |
 | 2025-11-08 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263001001_05101_00001_nrs2` |
 | 2025-11-10 | ◉ public | 5263 | NIRSPEC/SLIT | `jw05263-o002_t001-s000000001_nirspec_f170lp-g235h-s200a1-subs200a1` |
-| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx104_00003_nirspec` |
-| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx102_00001_nirspec` |
-| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694002001_xx102_00001_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx103_00002_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx105_00004_nirspec` |
+| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694002001_xx102_00001_nirspec` |
+| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx102_00001_nirspec` |
+| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx104_00003_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx106_00005_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694003001_xx102_00001_nirspec` |
 
@@ -61,6 +63,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     13      0    0  ·
 2026-10-19     13      0   16  ●●●●●●●●●●●●
 ```
 

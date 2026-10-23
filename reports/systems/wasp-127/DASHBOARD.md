@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-127  ·  JWST WATCH                    ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 5 | 5 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 10 | 10 | 2026-10-19 |
+| mast | ● ok | 5 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 10 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  5
-arXiv  ▁  10
+MAST   ▁▁  5
+arXiv  ▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -62,6 +62,7 @@ Star: Teff 5620.0 K, radius 1.333 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      5     10    0  ·
 2026-10-19      5     10   21  ●●●●●●●●●●●●
 ```
 

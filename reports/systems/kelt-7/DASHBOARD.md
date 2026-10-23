@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   KELT-7  ·  JWST WATCH                      ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 5 | 5 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 6 | 6 | 2026-10-19 |
+| mast | ● ok | 5 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 6 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  5
-arXiv  ▁  6
+MAST   ▁▁  5
+arXiv  ▁▁  6
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,8 +32,8 @@ NIRSPEC  ████████░░░░░░░░░░░░ 2
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2025-02-16 | ◉ public | 5924 | NIRISS/SOSS | `jw05924007001_04103_00001-seg001_nis` |
 | 2025-02-16 | ◉ public | 5924 | NIRISS/SOSS | `jw05924007001_04101_00001-seg001_nis` |
+| 2025-02-16 | ◉ public | 5924 | NIRISS/SOSS | `jw05924007001_04103_00001-seg001_nis` |
 | 2025-02-17 | ◉ public | 5924 | NIRISS/SOSS | `jw05924-o007_t007_niriss_clear-gr700xd-substrip96` |
 | 2025-02-24 | ◉ public | 3838 | NIRSPEC/SLIT | `jw03838-o002_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | ? | ? unknown | 10786 | NIRSPEC/SLIT | `jw10786007001_xx101_00001_nirspec` |
@@ -59,6 +59,7 @@ Star: Teff 6768.0 K, radius 1.81 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      5      6    0  ·
 2026-10-19      5      6   17  ●●●●●●●●●●●●
 ```
 

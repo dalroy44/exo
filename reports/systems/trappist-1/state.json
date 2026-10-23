@@ -44,7 +44,6 @@
   "TRAPPIST-1 h.st_teff": 2566.0
  },
  "arxiv": {
-  "2601.00386": "Molecular hydrogen controls the temperatures of flares on TRAPPIST-1",
   "2601.02548": "Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets",
   "2601.03408": "Estimation of the tidal heating in the TRAPPIST-1 planets. Influence of the internal structure",
   "2601.05313": "Overestimated Pressure Broadening Misleads Model Spectra in Cool M Dwarf Stars",
@@ -68,7 +67,8 @@
   "2608.20450": "Leveraging Impact Parameter to Mitigate the Transit Light Source Effect: Early Insights from TRAPPIST-1",
   "2608.23912": "An Evolving Cosmic Shoreline and Sandbar Bounding the Rocky Airless Valley",
   "2608.26097": "The Isotopic and Elemental Abundances of Planet-Host Star TRAPPIST-1",
-  "2609.37722": "Detecting atmospheres in the presence of stellar contamination: an empirically calibrated framework applied to four JWST/NIRSpec PRISM transits of TRAPPIST-1c"
+  "2609.37722": "Detecting atmospheres in the presence of stellar contamination: an empirically calibrated framework applied to four JWST/NIRSpec PRISM transits of TRAPPIST-1c",
+  "2610.31647": "Magnetic Activity as a Driver of Low-gravity-like Spectral Morphology in Late-M Dwarfs"
  },
  "mast": {
   "jw01177007001_03101_00001-seg001_mirimage": "1177 MIRI/IMAGE release 60256.38204856",

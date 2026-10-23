@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HIP 65426  ·  JWST WATCH                   ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 15 | 15 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 12 | 12 | 2026-10-19 |
+| mast | ● ok | 15 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 12 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  15
-arXiv  ▁  12
+MAST   ▁▁  15
+arXiv  ▁▁  12
 ```
 
 ## ▌ JWST coverage by instrument
@@ -36,15 +36,15 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 4
 |---|---|---|---|---|
 | 2022-07-18 | ◉ public | 1386 | MIRI/CORON | `jw01386-c1021_t001_miri_f1140c-mask1140` |
 | 2022-07-18 | ◉ public | 1386 | MIRI/CORON | `jw01386-c1022_t001_miri_f1550c-mask1550` |
+| 2022-07-30 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-o011_t001_niriss_clearp-f380m-sub80` |
+| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f250m-maskrnd-sub320a335r` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f410m-maskrnd-sub320a335r` |
-| 2022-07-30 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-o011_t001_niriss_clearp-f380m-sub80` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f356w-maskrnd-sub320a335r` |
-| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f250m-maskrnd-sub320a335r` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f300m-maskrnd-sub320a335r` |
+| 2024-06-17 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-c1023_t001_niriss_clearp-f380m-sub80` |
 | 2024-06-17 | ◉ public | 1386 | NIRISS/AMI | `jw01386-c1024_t001_niriss_f380m-nrm-sub80` |
 | 2024-06-17 | ◉ public | 1386 | NIRISS/AMI | `jw01386-c1023_t001_niriss_f380m-nrm-sub80` |
-| 2024-06-17 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-c1023_t001_niriss_clearp-f380m-sub80` |
 | 2026-07-24 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o006_t003_nirspec_g395h-f290lp` |
 | 2026-07-24 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o005_t003_nirspec_g395h-f290lp` |
 | 2027-07-03 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o003_t003_nirspec_g140h-f100lp` |
@@ -73,6 +73,7 @@ Star: Teff 8840.0 K, radius 1.77 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     15     12    0  ·
 2026-10-19     15     12   33  ●●●●●●●●●●●●
 ```
 

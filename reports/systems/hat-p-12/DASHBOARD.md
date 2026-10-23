@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-12  ·  JWST WATCH                    ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 7 | 7 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 3 | 3 | 2026-10-19 |
+| mast | ● ok | 7 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 3 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  7
-arXiv  ▁  3
+MAST   ▁▁  7
+arXiv  ▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,10 +33,10 @@ NIRSPEC  ███████████░░░░░░░░░ 4
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281-o002_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
-| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg001_nrs2` |
 | 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg002_nrs2` |
+| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281-o002_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg003_nrs2` |
+| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg001_nrs2` |
 | 2024-06-08 | ◉ public | 1281 | MIRI/SLITLESS | `jw01281-o001_t001_miri_p750l-slitlessprism` |
 | 2025-03-27 | ◉ public | 6219 | MIRI/SLIT | `jw06219-o001_t001_miri_p750l` |
 | 2025-04-08 | ◉ public | 1281 | NIRISS/SOSS | `jw01281-o003_t001_niriss_clear-gr700xd-substrip256` |
@@ -59,6 +59,7 @@ Star: Teff 4650.0 K, radius 0.701 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      7      3    0  ·
 2026-10-19      7      3   16  ●●●●●●●●●●●●
 ```
 

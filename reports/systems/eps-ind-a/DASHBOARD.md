@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   EPS IND A  ·  JWST WATCH                   ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -11,16 +11,16 @@
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
 | mast | ● FAIL | 0 | 0 | never |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 5 | 5 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 5 | 0 | 2026-10-19 |
 
 > ⚠ mast failed: ResolverError('Could not resolve "eps Ind A" to a sky position.') (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  0
-arXiv  ▁  5
+MAST   ▁▁  0
+arXiv  ▁▁  5
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -43,6 +43,7 @@ Star: Teff 4700.0 K, radius 0.713 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      0      5    0  ·
 2026-10-19      0      5   11  ●●●●●●●●●●●
 ```
 

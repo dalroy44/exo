@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-199  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 10 | 10 | 2026-10-19 |
-| archive | ● ok | 2 planets | 12 | 2026-10-19 |
-| arxiv | ● ok | 1 | 1 | 2026-10-19 |
+| mast | ● ok | 10 | 0 | 2026-10-19 |
+| archive | ● ok | 2 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 1 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  10
-arXiv  ▁  1
+MAST   ▁▁  10
+arXiv  ▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,14 +31,14 @@ NIRSPEC  ████████████████████ 10
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg001_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg004_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg006_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg002_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg007_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg003_nrs2` |
-| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg005_nrs2` |
 | 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg001_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg006_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg004_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg007_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg002_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg005_nrs2` |
+| 2025-12-24 | ◉ public | 5177 | NIRSPEC/SLIT | `jw05177001001_04102_00001-seg003_nrs2` |
 | 2026-11-03 | ○ proprietary | 7188 | NIRSPEC/SLIT | `jw07188-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2027-02-17 | ○ proprietary | 7188 | NIRSPEC/SLIT | `jw07188-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
@@ -59,6 +59,7 @@ Star: Teff 5255.0 K, radius 0.82 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     10      1    0  ·
 2026-10-19     10      1   23  ●●●●●●●●●●●●
 ```
 

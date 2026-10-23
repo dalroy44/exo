@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-14  ·  JWST WATCH                    ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 20 | 20 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 5 | 5 | 2026-10-19 |
+| mast | ● ok | 20 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 5 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  20
-arXiv  ▁  5
+MAST   ▁▁  20
+arXiv  ▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,26 +33,26 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02103_00001_nrca1` |
-| 2022-07-14 | ◉ public | 1118 | NIRSPEC/SLIT | `jw01118-o005_t013_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg005_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/GRISM | `jw01442-o003_t001_nircam_f444w-grismr-subgrism256` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442-o003_t001_nircam_clear-f212n-subgrism256` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/GRISM | `jw01442-o003_t001_nircam_f322w2-grismr-subgrism256` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg002_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02104_00001_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02103_00001_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg003_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg006_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg001_nrca3` |
 | 2022-07-14 | ◉ public | 1541 | NIRISS/SOSS | `jw01541001001_04102_00001-seg001_nis` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442-o003_t001_nircam_clear-f335m-subgrism256` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02104_00001_nrca1` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442-o003_t001_nircam_f405n-f444w-subgrism256` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442-o003_t001_nircam_f210m-wlp8-subgrism256` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg005_nrca3` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442-o003_t001_nircam_clear-f212n-subgrism256` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/GRISM | `jw01442-o003_t001_nircam_f444w-grismr-subgrism256` |
+| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02103_00001_nrca1` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/GRISM | `jw01442-o001_t001_nircam_f322w2-grismr-subgrism128` |
 | 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg004_nrca3` |
 | 2022-07-14 | ◉ public | 1541 | NIRISS/SOSS | `jw01541-o001_t002_niriss_clear-gr700xd-substrip256` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02104_00001_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442003001_02103_00001_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg006_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg001_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg002_nrca3` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/GRISM | `jw01442-o003_t001_nircam_f322w2-grismr-subgrism256` |
-| 2022-07-14 | ◉ public | 1442 | NIRCAM/IMAGE | `jw01442001001_04103_00001-seg003_nrca3` |
+| 2022-07-14 | ◉ public | 1118 | NIRSPEC/SLIT | `jw01118-o005_t013_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -74,6 +74,7 @@ Star: Teff 6600.0 K, radius 1.82 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     20      5    0  ·
 2026-10-19     20      5   31  ●●●●●●●●●●●●
 ```
 

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 1132  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 10 | 10 | 2026-10-19 |
-| archive | ● ok | 2 planets | 12 | 2026-10-19 |
-| arxiv | ● ok | 14 | 14 | 2026-10-19 |
+| mast | ● ok | 10 | 0 | 2026-10-19 |
+| archive | ● ok | 2 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 14 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  10
-arXiv  ▁  14
+MAST   ▁▁  10
+arXiv  ▁▁  14
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,14 +34,14 @@ NIRSPEC  ████████████████░░░░ 8
 |---|---|---|---|---|
 | 2023-02-26 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o022_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2023-03-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o021_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981023001_04102_00001-seg002_nrs2` |
 | 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981023001_04102_00001-seg001_nrs2` |
 | 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o023_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
-| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg002_nrs2` |
-| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg001_nrs2` |
+| 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981023001_04102_00001-seg002_nrs2` |
 | 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o024_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
-| 2024-07-02 | ◉ public | 1274 | MIRI/SLITLESS | `jw01274-o012_t008_miri_p750l-slitlessprism` |
+| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg001_nrs2` |
+| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg002_nrs2` |
 | 2024-07-02 | ◉ public | 1274 | MIRI/SLITLESS | `jw01274-o013_t008_miri_p750l-slitlessprism` |
+| 2024-07-02 | ◉ public | 1274 | MIRI/SLITLESS | `jw01274-o012_t008_miri_p750l-slitlessprism` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -67,6 +67,7 @@ Star: Teff 3229.0 K, radius 0.2211 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     10     14    0  ·
 2026-10-19     10     14   36  ●●●●●●●●●●●●
 ```
 

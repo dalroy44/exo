@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LHS 475  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 8 | 8 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
+| mast | ● ok | 8 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
 | arxiv | ● ok | 0 | 0 | never |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  8
-arXiv  ▁  0
+MAST   ▁▁  8
+arXiv  ▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,8 +37,8 @@ NIRSPEC  ████████████████████ 8
 | 2022-09-04 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742081001_02101_00001_nrs1` |
 | 2022-09-04 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742081001_02101_00001_nrs2` |
 | 2022-10-07 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o043_t004_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2023-06-22 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981045001_02101_00002-seg001_nrs1` |
 | 2023-06-22 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981045001_02101_00001-seg001_nrs1` |
+| 2023-06-22 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981045001_02101_00002-seg001_nrs1` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -56,6 +56,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      8      0    0  ·
 2026-10-19      8      0   14  ●●●●●●●●●●●●
 ```
 

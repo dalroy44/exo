@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-39  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 24 | 24 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 25 | 25 | 2026-10-19 |
+| mast | ● ok | 24 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 25 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  24
-arXiv  ▁  25
+MAST   ▁▁  24
+arXiv  ▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,27 +34,27 @@ NIRSPEC  ███████████░░░░░░░░░ 13
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o004_t001_nirspec_clear-prism-s1600a1-sub512` |
-| 2022-07-14 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742047001_02101_00001_nrs2` |
-| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg002_nrs2` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg001_nrs2` |
+| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg002_nrs2` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg003_nrs2` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg004_nrs2` |
+| 2022-07-14 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742047001_02101_00001_nrs2` |
 | 2022-07-14 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742047001_02101_00001_nrs1` |
+| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o004_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2022-07-23 | ◉ public | 1366 | NIRCAM/GRISM | `jw01366-o002_t001_nircam_f322w2-grismr-subgrism256` |
 | 2022-07-23 | ◉ public | 1366 | NIRCAM/IMAGE | `jw01366002001_04103_00001-seg002_nrca3` |
 | 2022-07-23 | ◉ public | 1366 | NIRCAM/IMAGE | `jw01366002001_04103_00001-seg001_nrca3` |
 | 2022-07-23 | ◉ public | 1366 | NIRCAM/IMAGE | `jw01366002001_04103_00001-seg003_nrca3` |
 | 2022-07-23 | ◉ public | 1366 | NIRCAM/IMAGE | `jw01366002001_04103_00001-seg004_nrca3` |
-| 2022-07-27 | ◉ public | 1366 | NIRISS/SOSS | `jw01366-o001_t001_niriss_clear-gr700xd-substrip256` |
 | 2022-07-27 | ◉ public | 1366 | NIRISS/SOSS | `jw01366001001_04102_00001-seg001_nis` |
-| 2022-07-31 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
+| 2022-07-27 | ◉ public | 1366 | NIRISS/SOSS | `jw01366-o001_t001_niriss_clear-gr700xd-substrip256` |
 | 2022-07-31 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742053001_02101_00001_nrs2` |
 | 2022-07-31 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742053001_02101_00001_nrs1` |
-| 2023-02-15 | ◉ public | 2783 | MIRI/SLITLESS | `jw02783-o001_t001_miri_p750l-slitlessprism` |
-| 2023-02-15 | ◉ public | 2783 | MIRI/SLITLESS | `jw02783002001_03103_00001-seg001_mirimage` |
+| 2022-07-31 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2023-02-15 | ◉ public | 2783 | MIRI/SLITLESS | `jw02783002001_03102_00001-seg001_mirimage` |
 | 2023-02-15 | ◉ public | 2783 | MIRI/TARGACQ | `jw02783002001_02101_00001-seg001_mirimage` |
+| 2023-02-15 | ◉ public | 2783 | MIRI/SLITLESS | `jw02783-o001_t001_miri_p750l-slitlessprism` |
+| 2023-02-15 | ◉ public | 2783 | MIRI/SLITLESS | `jw02783002001_03103_00001-seg001_mirimage` |
 | 2025-08-03 | ◉ public | 8017 | NIRSPEC/SLIT | `jw08017-o001_t001_nirspec_f100lp-g140h-s1600a1-sub2048` |
 | 2026-06-13 | ◉ public | 5634 | NIRSPEC/SLIT | `jw05634-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-06-15 | ◉ public | 8017 | NIRSPEC/SLIT | `jw08017-o002_t001_nirspec_f170lp-g235h-s1600a1-sub2048` |
@@ -82,6 +82,7 @@ Star: Teff 5485.0 K, radius 0.939 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     24     25    0  ·
 2026-10-19     24     25   55  ●●●●●●●●●●●●
 ```
 

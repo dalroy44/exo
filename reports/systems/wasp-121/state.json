@@ -8,8 +8,6 @@
   "WASP-121 b.st_teff": 6628.0
  },
  "arxiv": {
-  "2006.05995": "Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b",
-  "2006.11308": "Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) IV. A spectral inventory of atoms and molecules in the high-resolution transmission spectrum of WASP-121 b",
   "2210.12847": "The Mantis Network IV: A titanium cold-trap on the ultra-hot Jupiter WASP-121 b",
   "2303.09376": "Detection of a high-velocity sodium feature on the ultra-hot Jupiter WASP-121 b",
   "2305.08610": "Effect of Centrifugal Force on Transmission Spectroscopy of Exoplanet Atmospheres",
@@ -32,7 +30,9 @@
   "2606.16787": "Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres",
   "2606.19487": "Atmospheric asymmetries in WASP-121 b revealed by rotational transits detected with JWST",
   "2606.21855": "The panchromatic JWST dayside spectrum of WASP-121 b reveals a refractory-rich formation",
-  "2610.19328": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
+  "2610.19328": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets",
+  "2610.24550": "Granulation in Color: The Chromatic Stellar Flicker of LTT-9779 and WASP-121",
+  "2610.30594": "Detection of Solar-like Oscillations and Granulation at Infrared Wavelengths using JWST"
  },
  "mast": {
   "jw01201-o001_t001_niriss_clear-gr700xd-substrip256": "1201 NIRISS/SOSS release 60612.65920131",

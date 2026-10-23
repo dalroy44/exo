@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 3090  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 6 | 6 | 2026-10-19 |
-| archive | ● ok | 2 planets | 12 | 2026-10-19 |
-| arxiv | ● ok | 4 | 4 | 2026-10-19 |
+| mast | ● ok | 6 | 0 | 2026-10-19 |
+| archive | ● ok | 2 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  6
-arXiv  ▁  4
+MAST   ▁▁  6
+arXiv  ▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,8 +37,8 @@ NIRSPEC  ███████░░░░░░░░░░░░░ 2
 | 2023-09-24 | ◉ public | 4098 | NIRSPEC/SLIT | `jw04098-o014_t007_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-01-31 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o012_t007_niriss_clear-gr700xd-substrip256` |
 | 2024-07-04 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o111_t007_niriss_clear-gr700xd-substrip256` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157015001_xx103_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157015001_xx102_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157015001_xx103_00001_miri` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -60,6 +60,7 @@ Star: Teff 3707.0 K, radius 0.516 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      6      4    0  ·
 2026-10-19      6      4   22  ●●●●●●●●●●●●
 ```
 

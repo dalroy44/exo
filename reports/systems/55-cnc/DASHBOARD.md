@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   55 CNC  ·  JWST WATCH                      ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 272 | 272 | 2026-10-19 |
-| archive | ● ok | 5 planets | 30 | 2026-10-19 |
-| arxiv | ● ok | 25 | 25 | 2026-10-19 |
+| mast | ● ok | 272 | 0 | 2026-10-19 |
+| archive | ● ok | 5 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 25 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  272
-arXiv  ▁  25
+MAST   ▁▁  272
+arXiv  ▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,46 +33,46 @@ NIRISS   █░░░░░░░░░░░░░░░░░░░ 9
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg013_nrca3` |
+| 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg014_nrca1` |
+| 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg011_nrca1` |
 | 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg015_nrca3` |
 | 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg007_nrca3` |
-| 2024-04-25 | ◉ public | 2084 | NIRCAM/IMAGE | `jw02084005001_04103_00001-seg022_nrca1` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg014_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg004_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg005_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg009_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg010_mirifulong` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/TARGACQ | `jw07875001001_02101_00001-seg001_mirimage` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg003_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg006_mirifushort` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg004_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg008_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg001_mirifulong` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg002_mirifulong` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg010_mirifushort` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg005_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg009_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg008_mirifulong` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg007_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg011_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg012_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg002_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg010_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg010_mirifulong` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/TARGACQ | `jw07875001001_02101_00001-seg001_mirimage` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg001_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg003_mirifushort` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg007_mirifushort` |
-| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg003_mirifulong` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg008_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg001_mirifulong` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg009_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg002_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg006_mirifulong` |
 | 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg013_mirifulong` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg006_mirifushort` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg003_mirifulong` |
+| 2027-04-25 | ○ proprietary | 7875 | MIRI/IFU | `jw07875001001_04102_00001-seg007_mirifulong` |
 | ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx103_00002_niriss` |
 | ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825001001_xx102_00001_niriss` |
-| ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx102_00001_niriss` |
-| ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx103_00001_niriss` |
-| ? | ? unknown | 7875 | MIRI/IFU | `jw07875002001_xx102_00001_miri` |
-| ? | ? unknown | 7875 | MIRI/IFU | `jw07875003001_xx102_00001_miri` |
 | ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825002001_xx102_00001_niriss` |
-| ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825003001_xx102_00001_niriss` |
+| ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx103_00001_niriss` |
+| ? | ? unknown | 7875 | MIRI/IFU | `jw07875003001_xx102_00001_miri` |
 | ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825004001_xx102_00001_niriss` |
-| ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825005001_xx102_00001_niriss` |
+| ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx102_00001_niriss` |
 | ? | ? unknown | 12237 | NIRISS/IMAGE | `jw12237001001_xx104_00001_niriss` |
+| ? | ? unknown | 7875 | MIRI/IFU | `jw07875002001_xx102_00001_miri` |
+| ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825003001_xx102_00001_niriss` |
+| ? | ? unknown | 9825 | NIRISS/IMAGE | `jw09825005001_xx102_00001_niriss` |
 
 _Showing the 40 latest of 272; full list in `state.json`._
 
@@ -103,6 +103,7 @@ Star: Teff 5198.0 K, radius 0.98 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23    272     25    0  ·
 2026-10-19    272     25  327  ●●●●●●●●●●●●
 ```
 

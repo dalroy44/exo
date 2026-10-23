@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 504  ·  JWST WATCH                      ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 42 | 42 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 8 | 8 | 2026-10-19 |
+| mast | ● ok | 42 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 8 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  42
-arXiv  ▁  8
+MAST   ▁▁  42
+arXiv  ▁▁  8
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,46 +33,46 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 2
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-07-05 | ◉ public | 1277 | MIRI/CORON | `jw01277015001_04101_00001_mirimage` |
 | 2024-07-05 | ◉ public | 1277 | MIRI/TARGACQ | `jw01277015001_02101_00002_mirimage` |
+| 2024-07-05 | ◉ public | 1277 | MIRI/CORON | `jw01277015001_04101_00001_mirimage` |
 | 2024-07-05 | ◉ public | 1277 | MIRI/TARGACQ | `jw01277015001_02101_00001_mirimage` |
 | 2025-02-16 | ◉ public | 2778 | NIRSPEC/IFU | `jw02778-o002_t001_nirspec_g395h-f290lp` |
 | 2025-02-16 | ◉ public | 2778 | NIRSPEC/IFU | `jw02778-o001_t001_nirspec_g395h-f290lp` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch1-long` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch1-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch2-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch2-long` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch4-long` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch1-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch2-medium` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch4-long` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch3-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch4-medium` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch1-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch2-medium` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch1-medium` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch4-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch4-medium` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch1-long` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch4-long` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch2-short` |
-| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch3-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch3-long` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch4-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch3-long` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch3-medium` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch1-short` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o001_t001_miri_ch1-medium` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch1-medium` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch4-short` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch1-long` |
+| 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch3-short` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch2-long` |
 | 2025-06-24 | ◉ public | 3647 | MIRI/IFU | `jw03647-o002_t001_miri_ch3-medium` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/IMAGE | `jw06005121001_03102_00001_nrca4` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/CORON | `jw06005121001_03104_00001_nrcalong` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/CORON | `jw06005121001_03106_00001_nrca2` |
-| 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_02102_00002_nrcalong` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/IMAGE | `jw06005121001_03104_00001_nrca2` |
-| 2025-10-04 | ◉ public | 6005 | NIRCAM/IMAGE | `jw06005121001_03104_00001_nrca4` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/CORON | `jw06005121001_03106_00001_nrcalong` |
+| 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_02102_00002_nrcalong` |
+| 2025-10-04 | ◉ public | 6005 | NIRCAM/IMAGE | `jw06005121001_03104_00001_nrca4` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_02102_00003_nrcalong` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_02102_00001_nrcalong` |
-| 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_03102_00001_nrcalong` |
 | 2025-10-04 | ◉ public | 6005 | NIRCAM/IMAGE | `jw06005121001_03102_00001_nrca2` |
+| 2025-10-04 | ◉ public | 6005 | NIRCAM/TARGACQ | `jw06005121001_03102_00001_nrcalong` |
 
 _Showing the 40 latest of 42; full list in `state.json`._
 
@@ -99,6 +99,7 @@ Star: Teff 6234.0 K, radius 1.26 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     42      8    0  ·
 2026-10-19     42      8   56  ●●●●●●●●●●●●
 ```
 

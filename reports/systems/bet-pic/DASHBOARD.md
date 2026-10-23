@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   BET PIC  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 239 | 239 | 2026-10-19 |
-| archive | ● ok | 3 planets | 18 | 2026-10-19 |
+| mast | ● ok | 239 | 0 | 2026-10-19 |
+| archive | ● ok | 3 planets | 0 | 2026-10-19 |
 | arxiv | ● ok | 0 | 0 | never |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  239
-arXiv  ▁  0
+MAST   ▁▁  239
+arXiv  ▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,44 +33,44 @@ NIRSPEC  ██████████░░░░░░░░░░ 118
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310g_00005_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03108_00007_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03106_00008_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03102_00005_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03104_00005_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03106_00002_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310c_00005_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03108_00008_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310e_00006_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03104_00002_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310e_00007_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310c_00004_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310g_00006_nrs2` |
-| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03106_00007_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03104_00009_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03104_00006_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310a_00002_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310a_00004_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310c_00007_nrs2` |
+| 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_03108_00006_nrs2` |
 | 2026-12-26 | ○ proprietary | 6940 | NIRSPEC/IFU | `jw06940001001_0310a_00008_nrs2` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx108_00004_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10c_00004_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx108_00003_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx103_00002_miri` |
-| ? | ? unknown | 9563 | NIRCAM/CORON | `jw09563002001_xx102_00001_nircam` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx104_00004_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10b_00003_miri` |
-| ? | ? unknown | 9563 | NIRCAM/CORON | `jw09563001001_xx102_00001_nircam` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx101_00001_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx102_00002_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx109_00001_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10a_00002_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx102_00001_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx105_00004_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx106_00001_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx109_00004_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx10c_00003_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx103_00003_miri` |
 | ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx105_00001_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx106_00002_miri` |
-| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx107_00003_miri` |
-| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx104_00003_miri` |
 | ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx107_00002_miri` |
 | ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx10a_00001_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10b_00003_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx101_00001_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx102_00002_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx106_00002_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx105_00004_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx109_00004_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx10c_00003_miri` |
+| ? | ? unknown | 9563 | NIRCAM/CORON | `jw09563001001_xx102_00001_nircam` |
+| ? | ? unknown | 9563 | NIRCAM/CORON | `jw09563002001_xx102_00001_nircam` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx103_00003_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx104_00004_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx107_00003_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx108_00004_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx109_00001_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10a_00002_miri` |
+| ? | ? unknown | 9624 | MIRI/IMAGE | `jw09624001001_xx10c_00004_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx102_00001_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx103_00002_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx104_00003_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx106_00001_miri` |
+| ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx108_00003_miri` |
 | ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx10b_00002_miri` |
 | ? | ? unknown | 9624 | MIRI/IFU | `jw09624002001_xx10d_00004_miri` |
 
@@ -94,6 +94,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23    239      0    0  ·
 2026-10-19    239      0  257  ●●●●●●●●●●●●
 ```
 

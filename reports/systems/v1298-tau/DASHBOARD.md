@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   V1298 TAU  ·  JWST WATCH                   ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 20 | 20 | 2026-10-19 |
-| archive | ● ok | 4 planets | 24 | 2026-10-19 |
-| arxiv | ● ok | 20 | 20 | 2026-10-19 |
+| mast | ● ok | 20 | 0 | 2026-10-19 |
+| archive | ● ok | 4 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 20 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  20
-arXiv  ▁  20
+MAST   ▁▁  20
+arXiv  ▁▁  20
 ```
 
 ## ▌ JWST coverage by instrument
@@ -42,8 +42,8 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 5
 | 2025-09-11 | ◉ public | 5959 | NIRISS/SOSS | `jw05959017001_04103_00001-seg001_nis` |
 | 2025-09-12 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o017_t001_niriss_clear-gr700xd-substrip96` |
 | 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04101_00001-seg001_nis` |
-| 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04103_00001-seg001_nis` |
 | 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o004_t001_niriss_clear-gr700xd-substrip96` |
+| 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04103_00001-seg001_nis` |
 | 2026-02-10 | ◉ public | 5959 | NIRSPEC/SLIT | `jw05959-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-09-26 | ◉ public | 5882 | NIRSPEC/SLIT | `jw05882-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831001001_04101_00001-seg001_nis` |
@@ -79,6 +79,7 @@ Star: Teff 4970.0 K, radius 1.32 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     20     20    0  ·
 2026-10-19     20     20   64  ●●●●●●●●●●●●
 ```
 

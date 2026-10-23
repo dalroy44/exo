@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-776  ·  JWST WATCH                     ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 4 | 4 | 2026-10-19 |
-| archive | ● ok | 2 planets | 12 | 2026-10-19 |
-| arxiv | ● ok | 4 | 4 | 2026-10-19 |
+| mast | ● ok | 4 | 0 | 2026-10-19 |
+| archive | ● ok | 2 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  4
-arXiv  ▁  4
+MAST   ▁▁  4
+arXiv  ▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -56,6 +56,7 @@ Star: Teff 3725.0 K, radius 0.547 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      4      4    0  ·
 2026-10-19      4      4   20  ●●●●●●●●●●●●
 ```
 

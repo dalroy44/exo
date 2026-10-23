@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   COCONUTS-2 A  ·  JWST WATCH                ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -11,16 +11,16 @@
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
 | mast | ● FAIL | 0 | 0 | never |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 3 | 3 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 3 | 0 | 2026-10-19 |
 
 > ⚠ mast failed: ResolverError('Could not resolve "COCONUTS-2 A" to a sky position.') (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  0
-arXiv  ▁  3
+MAST   ▁▁  0
+arXiv  ▁▁  3
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -41,6 +41,7 @@ Star: Teff 3552.0 K, radius 0.366 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23      0      3    0  ·
 2026-10-19      0      3    9  ●●●●●●●●●
 ```
 

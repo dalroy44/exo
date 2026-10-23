@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 486  ·  JWST WATCH                      ║
-║   checked 2026-10-19   ·   1 run-days logged ║
+║   checked 2026-10-23   ·   2 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -10,15 +10,15 @@
 
 | source | status | total | new today | last change |
 |---|---|---:|---:|---|
-| mast | ● ok | 13 | 13 | 2026-10-19 |
-| archive | ● ok | 1 planets | 6 | 2026-10-19 |
-| arxiv | ● ok | 4 | 4 | 2026-10-19 |
+| mast | ● ok | 13 | 0 | 2026-10-19 |
+| archive | ● ok | 1 planets | 0 | 2026-10-19 |
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁  13
-arXiv  ▁  4
+MAST   ▁▁  13
+arXiv  ▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,14 +37,14 @@ NIRSPEC  ███░░░░░░░░░░░░░░░░░ 2
 | 2022-12-30 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o012_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-05-29 | ◉ public | 1743 | MIRI/SLITLESS | `jw01743-o001_t001_miri_p750l-slitlessprism` |
 | 2024-06-02 | ◉ public | 1743 | MIRI/SLITLESS | `jw01743-o002_t001_miri_p750l-slitlessprism` |
-| 2026-05-28 | ◉ public | 5866 | NIRISS/SOSS | `jw05866002001_04103_00001-seg001_nis` |
 | 2026-05-28 | ◉ public | 5866 | NIRISS/SOSS | `jw05866002001_04101_00001-seg001_nis` |
+| 2026-05-28 | ◉ public | 5866 | NIRISS/SOSS | `jw05866002001_04103_00001-seg001_nis` |
 | 2026-05-29 | ◉ public | 5866 | NIRISS/SOSS | `jw05866-o002_t001_niriss_clear-gr700xd-substrip96` |
 | 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866001001_04101_00001-seg001_nis` |
 | 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866003001_04103_00001-seg001_nis` |
-| 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866001001_04103_00001-seg001_nis` |
 | 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866003001_04101_00001-seg001_nis` |
 | 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866-o001_t001_niriss_clear-gr700xd-substrip96` |
+| 2026-06-03 | ◉ public | 5866 | NIRISS/SOSS | `jw05866001001_04103_00001-seg001_nis` |
 | 2026-06-04 | ◉ public | 5866 | NIRISS/SOSS | `jw05866-o003_t001_niriss_clear-gr700xd-substrip96` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -66,6 +66,7 @@ Star: Teff 3317.0 K, radius 0.3243 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-23     13      4    0  ·
 2026-10-19     13      4   23  ●●●●●●●●●●●●
 ```
 
