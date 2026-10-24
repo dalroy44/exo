@@ -30,7 +30,7 @@ A **negative** sigma means the window sits *below* the baseline. Absorption by a
 ## Scoreboard (auto-generated)
 
 <!-- scoreboard:start -->
-_Generated 2026-10-19 from 28 spectra by `scripts/quicklook.py`._
+_Generated 2026-10-24 from 28 spectra by `scripts/quicklook.py`._
 
 | gas | band | spectra | range (sigma) | spectra >= 2 sigma | verdict |
 |---|---|---:|---|---:|---|

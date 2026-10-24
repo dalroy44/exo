@@ -1,6 +1,6 @@
 # Quick-look band significances
 
-Generated 2026-10-19 by `scripts/quicklook.py`. Crude local-baseline test, not a retrieval.
+Generated 2026-10-24 by `scripts/quicklook.py`. Crude local-baseline test, not a retrieval.
 
 ## Eureka_K2-18b_MIRI_LRS_R70
 ```
