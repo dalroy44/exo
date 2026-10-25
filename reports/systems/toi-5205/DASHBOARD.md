@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-5205  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  18
-arXiv  ▁▁  1
+MAST   ▁▁▁  18
+arXiv  ▁▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -42,14 +42,14 @@ NIRSPEC  █████████████░░░░░░░ 12
 | 2023-10-12 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171-o017_t007_nirspec_clear-prism-s1600a1-sub512` |
 | 2023-10-14 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171018001_04101_00001-seg002_nrs2` |
 | 2023-10-14 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171018001_04101_00001-seg003_nrs2` |
-| 2023-10-14 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171018001_04101_00001-seg001_nrs2` |
 | 2023-10-14 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171-o018_t007_nirspec_clear-prism-s1600a1-sub512` |
+| 2023-10-14 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171018001_04101_00001-seg001_nrs2` |
 | ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683002001_xx103_00001_miri` |
 | ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683011001_xx101_00001_miri` |
 | ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683001001_xx102_00001_miri` |
 | ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683001001_xx103_00001_miri` |
-| ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683002001_xx102_00001_miri` |
 | ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683012001_xx101_00001_miri` |
+| ? | ? unknown | 7683 | MIRI/SLITLESS | `jw07683002001_xx102_00001_miri` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -67,6 +67,7 @@ Star: Teff 3430.0 K, radius 0.394 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     18      1    0  ·
 2026-10-23     18      1    0  ·
 2026-10-19     18      1   25  ●●●●●●●●●●●●
 ```

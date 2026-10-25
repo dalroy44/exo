@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 9827  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 10 | 0 | 2026-10-19 |
 | archive | ● ok | 3 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 16 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 16 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  10
-arXiv  ▁▁  16
+MAST   ▁▁▁  10
+arXiv  ▁▁▁  16
 ```
 
 ## ▌ JWST coverage by instrument
@@ -39,10 +41,10 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 2
 | 2024-11-29 | ◉ public | 4098 | NIRSPEC/SLIT | `jw04098-o091_t005_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-06-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818002001_02101_00001-seg001_mirimage` |
 | 2026-06-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818-o001_t001_miri_p750l-slitlessprism` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx103_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157011001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157011001_xx103_00001_miri` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx102_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx103_00001_miri` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -56,19 +58,20 @@ Star: Teff 4236.0 K, radius 0.58 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2609.24970`](https://arxiv.org/abs/2609.24970)  Elemental Abundances of Cool Stars: A Spectroscopic Framework Applied to Five Planet-Host Stars
-- [`2606.02083`](https://arxiv.org/abs/2606.02083)  Escape of Water- and Metal-enriched Atmospheres from compact Hot mini-Neptunes with CHAIN
-- [`2602.12201`](https://arxiv.org/abs/2602.12201)  Oxygen left behind: Atmospheric Enrichment due to Fractionation in Sub-Neptunes using BOREAS
-- [`2512.04420`](https://arxiv.org/abs/2512.04420)  JWST Exoplanetary Worlds and Elemental Survey (JEWELS) I: High-Precision Chemical Abundances of 20 FGK Planet-Hosting Stars from JWST Cycle 2
-- [`2508.12865`](https://arxiv.org/abs/2508.12865)  An empirical determination of the Cosmic Shoreline
-- [`2410.03527`](https://arxiv.org/abs/2410.03527)  JWST/NIRISS reveals the water-rich "steam world" atmosphere of GJ 9827 d
-- [`2302.01479`](https://arxiv.org/abs/2302.01479)  Absence of extended atmospheres in low-mass star radius-gap planets GJ 9827 b, GJ 9827 d and TOI-1235 b
-- [`2208.01650`](https://arxiv.org/abs/2208.01650)  Planetary parameters, XUV environments and mass-loss rates for nearby gaseous planets with X-ray detected host-stars
+- [`1709.01527`](https://arxiv.org/abs/1709.01527)  Three Small Super-Earths Transiting the nearby star GJ 9827
+- [`1709.01957`](https://arxiv.org/abs/1709.01957)  A System of Three Super Earths Transiting the Late K-Dwarf GJ 9827 at Thirty Parsecs
+- [`1802.09557`](https://arxiv.org/abs/1802.09557)  Mass determination of the 1:3:5 near-resonant planets transiting GJ 9827 (K2-135)
+- [`1812.07302`](https://arxiv.org/abs/1812.07302)  Masses and radii for the three super-Earths orbiting GJ 9827, and implications for the composition of small exoplanets
+- [`2009.03398`](https://arxiv.org/abs/2009.03398)  Physical Parameters of the Multi-Planet Systems HD 106315 and GJ 9827
+- [`2101.06277`](https://arxiv.org/abs/2101.06277)  A multi-wavelength look at the GJ 9827 system -- No evidence of extended atmospheres in GJ 9827 b and d from HST and CARMENES data
+- [`2103.08785`](https://arxiv.org/abs/2103.08785)  Caught in the Act: Core-powered Mass-loss Predictions for Observing Atmospheric Escape
+- [`2105.01102`](https://arxiv.org/abs/2105.01102)  Mass-radius relationships for irradiated ocean planets
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     10     16    0  ·
 2026-10-23     10     16    0  ·
 2026-10-19     10     16   44  ●●●●●●●●●●●●
 ```

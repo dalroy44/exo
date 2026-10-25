@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-1468  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 20 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  20
-arXiv  ▁▁  4
+MAST   ▁▁▁  20
+arXiv  ▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,21 +33,21 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg002_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg001_mirimage` |
 | 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg004_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg003_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg004_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg001_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg005_mirimage` |
-| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg003_mirimage` |
 | 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg002_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg001_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg004_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg002_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg003_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg001_mirimage` |
 | 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730017001_03101_00001-seg005_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg003_mirimage` |
+| 2023-12-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730016001_03101_00001-seg005_mirimage` |
+| 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg002_mirimage` |
+| 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg001_mirimage` |
 | 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg003_mirimage` |
 | 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg005_mirimage` |
 | 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg004_mirimage` |
-| 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg002_mirimage` |
-| 2024-01-18 | ◉ public | 3730 | MIRI/IMAGE | `jw03730018001_03101_00001-seg001_mirimage` |
 | 2025-07-16 | ◉ public | 3557 | NIRSPEC/SLIT | `jw03557-o008_t005_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2025-08-30 | ◉ public | 3557 | MIRI/SLITLESS | `jw03557-o016_t005_miri_p750l-slitlessprism` |
 | 2025-09-05 | ◉ public | 3557 | MIRI/SLITLESS | `jw03557-o009_t005_miri_p750l-slitlessprism` |
@@ -67,15 +65,16 @@ Star: Teff 3376.0 K, radius 0.3714 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2412.08476`](https://arxiv.org/abs/2412.08476)  Potential Interior Structures and Habitability of Super-Earth Exoplanets LHS 1140 b, K2-18 b, TOI-1452 b and TOI-1468 c
-- [`2503.19772`](https://arxiv.org/abs/2503.19772)  Hot Rocks Survey II: The thermal emission of TOI-1468 b reveals a hot bare rock
-- [`2507.02052`](https://arxiv.org/abs/2507.02052)  Uniform Reanalysis of JWST MIRI 15μm Exoplanet Eclipse Observations using Frame-Normalized Principal Component Analysis
 - [`2609.17505`](https://arxiv.org/abs/2609.17505)  Stellar Ages of M Dwarf Hosts of Temperate Sub-Neptunes
+- [`2507.02052`](https://arxiv.org/abs/2507.02052)  Uniform Reanalysis of JWST MIRI 15μm Exoplanet Eclipse Observations using Frame-Normalized Principal Component Analysis
+- [`2503.19772`](https://arxiv.org/abs/2503.19772)  Hot Rocks Survey II: The thermal emission of TOI-1468 b reveals a hot bare rock
+- [`2412.08476`](https://arxiv.org/abs/2412.08476)  Potential Interior Structures and Habitability of Super-Earth Exoplanets LHS 1140 b, K2-18 b, TOI-1452 b and TOI-1468 c
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     20      4    0  ·
 2026-10-23     20      4    0  ·
 2026-10-19     20      4   36  ●●●●●●●●●●●●
 ```

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 3473  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 20 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 1 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 1 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  20
-arXiv  ▁▁  1
+MAST   ▁▁▁  20
+arXiv  ▁▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,26 +33,26 @@ MIRI     ████████████████████ 20
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
+| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg004_mirimage` |
+| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg002_mirimage` |
+| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg004_mirimage` |
+| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg001_mirimage` |
 | 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg005_mirimage` |
 | 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg003_mirimage` |
 | 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg001_mirimage` |
-| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg002_mirimage` |
-| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg004_mirimage` |
 | 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg002_mirimage` |
-| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg004_mirimage` |
-| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg001_mirimage` |
-| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg005_mirimage` |
 | 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730002001_03101_00001-seg003_mirimage` |
-| 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg005_mirimage` |
-| 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg002_mirimage` |
+| 2024-03-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730001001_03101_00001-seg005_mirimage` |
 | 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg001_mirimage` |
+| 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg005_mirimage` |
 | 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg003_mirimage` |
 | 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg004_mirimage` |
-| 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg002_mirimage` |
-| 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg005_mirimage` |
+| 2024-03-30 | ◉ public | 3730 | MIRI/IMAGE | `jw03730004001_03101_00001-seg002_mirimage` |
 | 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg003_mirimage` |
 | 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg004_mirimage` |
 | 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg001_mirimage` |
+| 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg002_mirimage` |
+| 2024-10-20 | ◉ public | 3730 | MIRI/IMAGE | `jw03730029001_03101_00001-seg005_mirimage` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -69,6 +71,7 @@ Star: Teff 3347.0 K, radius 0.364 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     20      1    0  ·
 2026-10-23     20      1    0  ·
 2026-10-19     20      1   33  ●●●●●●●●●●●●
 ```

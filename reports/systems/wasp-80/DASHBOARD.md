@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-80  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  48
-arXiv  ▁▁  14
+MAST   ▁▁▁  48
+arXiv  ▁▁▁  14
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,45 +33,45 @@ NIRISS   ██░░░░░░░░░░░░░░░░░░ 4
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2023-10-29 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185004001_04103_00001-seg002_nrca3` |
-| 2023-10-29 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185004001_04103_00001-seg005_nrca3` |
+| 2023-10-29 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185004001_04103_00001-seg001_nrca3` |
+| 2023-10-29 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185004001_04103_00001-seg003_nrca3` |
 | 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg003_nrca3` |
-| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg004_nrca3` |
-| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg005_nrca3` |
-| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg001_nrca3` |
 | 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg002_nrca3` |
-| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg006_nrca3` |
+| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg004_nrca3` |
 | 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg007_nrca3` |
+| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg006_nrca3` |
+| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg005_nrca3` |
 | 2023-10-31 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o002_t002_nircam_f322w2-grismr-subgrism256` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg005_nrca1` |
+| 2023-10-31 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185002001_04103_00001-seg001_nrca3` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg004_nrca1` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg003_nrca3` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg004_nrca3` |
 | 2024-06-14 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o005_t002_nircam_f444w-grismr-subgrism256` |
 | 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg005_nrca3` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg005_nrca1` |
 | 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg002_nrca1` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg003_nrca3` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg004_nrca1` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg002_nrca3` |
 | 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg003_nrca1` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg006_nrca1` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg001_nrca1` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg004_nrca3` |
-| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg001_nrca3` |
 | 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg006_nrca3` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg002_nrca3` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg005_nrca1` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg003_nrca3` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg006_nrca3` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg004_nrca1` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg002_nrca1` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg006_nrca1` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg001_nrca3` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg002_nrca3` |
+| 2024-06-14 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185005001_04103_00001-seg001_nrca1` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg001_nrca3` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg006_nrca1` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg001_nrca1` |
 | 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg004_nrca3` |
 | 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg003_nrca1` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o103_t002_nircam_f444w-grismr-subgrism256` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg001_nrca1` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg005_nrca1` |
 | 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg005_nrca3` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg006_nrca1` |
-| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg001_nrca3` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg003_nrca3` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg004_nrca1` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg006_nrca3` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg002_nrca3` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o103_t002_nircam_f444w-grismr-subgrism256` |
+| 2024-10-06 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185103001_03104_00001-seg002_nrca1` |
 | 2024-10-21 | ◉ public | 5924 | NIRISS/SOSS | `jw05924-o003_t003_niriss_clear-gr700xd-substrip256` |
-| 2024-10-21 | ◉ public | 5924 | NIRISS/SOSS | `jw05924003001_04103_00001-seg001_nis` |
 | 2024-10-21 | ◉ public | 5924 | NIRISS/SOSS | `jw05924003001_04101_00001-seg001_nis` |
+| 2024-10-21 | ◉ public | 5924 | NIRISS/SOSS | `jw05924003001_04103_00001-seg001_nis` |
 | 2024-10-27 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o007_t005_niriss_clear-gr700xd-substrip256` |
 
 _Showing the 40 latest of 48; full list in `state.json`._
@@ -99,6 +99,7 @@ Star: Teff 4143.0 K, radius 0.586 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     48     14    0  ·
 2026-10-23     48     14    0  ·
 2026-10-19     48     14   68  ●●●●●●●●●●●●
 ```

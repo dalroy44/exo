@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   14 HER  ·  JWST WATCH                      ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 2 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 2 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 2 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  2
-arXiv  ▁▁  2
+MAST   ▁▁▁  2
+arXiv  ▁▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -45,13 +47,14 @@ Star: Teff 5338.0 K, radius 0.93 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2506.13580`](https://arxiv.org/abs/2506.13580)  Updated Mutual Inclination Measurement for 14 Her b and c
 - [`2506.09201`](https://arxiv.org/abs/2506.09201)  JWST Coronagraphic Images of 14 Her c: a Cold Giant Planet in a Dynamically Hot, Multi-planet System
+- [`2506.13580`](https://arxiv.org/abs/2506.13580)  Updated Mutual Inclination Measurement for 14 Her b and c
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      2      2    0  ·
 2026-10-23      2      2    0  ·
 2026-10-19      2      2   16  ●●●●●●●●●●●●
 ```

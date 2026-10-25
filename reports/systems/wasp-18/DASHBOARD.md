@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-18  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  17
-arXiv  ▁▁  13
+MAST   ▁▁▁  17
+arXiv  ▁▁▁  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,21 +35,21 @@ NIRSPEC  ██░░░░░░░░░░░░░░░░░░ 2
 |---|---|---|---|---|
 | 2022-10-07 | ◉ public | 1366 | NIRISS/SOSS | `jw01366-o021_t003_niriss_clear-gr700xd-substrip96` |
 | 2022-10-07 | ◉ public | 1366 | NIRISS/SOSS | `jw01366021001_04102_00001-seg001_nis` |
-| 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00004-seg001_nrcalong` |
-| 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00003-seg001_nrcalong` |
 | 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00002-seg001_nrcalong` |
+| 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00004-seg001_nrcalong` |
 | 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00001-seg001_nrcalong` |
+| 2026-06-12 | ◉ public | 9243 | NIRCAM/TARGACQ | `jw09243001001_02102_00003-seg001_nrcalong` |
 | 2026-07-09 | ◉ public | 12739 | NIRSPEC/SLIT | `jw12739001001_02101_00002_nrs1` |
 | 2026-07-09 | ◉ public | 12739 | NIRSPEC/SLIT | `jw12739001001_02101_00001_nrs1` |
 | 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04102_00001-seg003_nis` |
-| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00003-seg001_nis` |
-| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04102_00001-seg002_nis` |
-| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04101_00001-seg001_nis` |
-| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00002-seg001_nis` |
 | 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04103_00001-seg001_nis` |
 | 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00004-seg001_nis` |
+| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04102_00001-seg002_nis` |
+| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00002-seg001_nis` |
 | 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00001-seg001_nis` |
 | 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04102_00001-seg001_nis` |
+| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_02101_00003-seg001_nis` |
+| 2026-07-30 | ◉ public | 12564 | NIRISS/SOSS | `jw12564001001_04101_00001-seg001_nis` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -74,6 +74,7 @@ Star: Teff 6432.0 K, radius 1.319 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     17     13    0  ·
 2026-10-23     17     13    0  ·
 2026-10-19     17     13   36  ●●●●●●●●●●●●
 ```

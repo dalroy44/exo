@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   2MASS J12073346-3932539  ·  JWST WATCH     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 118 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 1 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 1 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  118
-arXiv  ▁▁  1
+MAST   ▁▁▁  118
+arXiv  ▁▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,46 +34,46 @@ NIRSPEC  █████████████████░░░ 103
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00003_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181011001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00001_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o013_t002_nirspec_prism-clear` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o010_t002_nirspec_prism-clear` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o015_t002_nirspec_prism-clear` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181015001_02101_00002_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181015001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181010001_02101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181013001_02101_00002_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181016001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181011001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o013_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00003_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181017001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181017001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181017001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o021_t002_nirspec_prism-clear` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o009_t002_nirspec_prism-clear` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181016001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181016001_02101_00001_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181018001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181018001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181011001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00002_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181010001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181014001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181019001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00002_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181021001_03101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o017_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181013001_02101_00002_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o018_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o010_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181010001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o020_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o015_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181009001_02101_00001_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181013001_02101_00004_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181013001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181012001_02101_00002_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181-o014_t002_nirspec_prism-clear` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181015001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181018001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00002_nrs2` |
 | 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181013001_02101_00003_nrs2` |
-| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181017001_02101_00001_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181020001_02101_00004_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181016001_02101_00003_nrs2` |
+| 2025-06-30 | ◉ public | 3181 | NIRSPEC/IFU | `jw03181010001_02101_00004_nrs2` |
 
 _Showing the 40 latest of 118; full list in `state.json`._
 
@@ -91,6 +93,7 @@ Star: Teff 2825.0 K, radius 0.21887 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25    118      1    0  ·
 2026-10-23    118      1    0  ·
 2026-10-19    118      1  125  ●●●●●●●●●●●●
 ```

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-52  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  6
-arXiv  ▁▁  8
+MAST   ▁▁▁  6
+arXiv  ▁▁▁  8
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,9 +33,9 @@ NIRSPEC  █████████████████░░░ 5
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2023-11-27 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o501_t017_niriss_clear-gr700xd-substrip256` |
-| 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224-o004_t004_nirspec_clear-prism-s1600a1-sub512s` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg002_nrs2` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg003_nrs2` |
+| 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224-o004_t004_nirspec_clear-prism-s1600a1-sub512s` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg001_nrs2` |
 | 2024-10-31 | ◉ public | 3969 | NIRSPEC/SLIT | `jw03969-o003_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
@@ -62,6 +62,7 @@ Star: Teff 5000.0 K, radius 0.79 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      6      8    0  ·
 2026-10-23      6      8    0  ·
 2026-10-19      6      8   20  ●●●●●●●●●●●●
 ```

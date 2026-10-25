@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-561  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  3
-arXiv  ▁▁  10
+MAST   ▁▁▁  3
+arXiv  ▁▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,8 +33,8 @@ NIRSPEC  ███████░░░░░░░░░░░░░ 1
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2025-05-03 | ◉ public | 3860 | NIRSPEC/SLIT | `jw03860-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2026-04-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818-o011_t006_miri_p750l-slitlessprism` |
 | 2026-04-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818012001_02101_00001-seg001_mirimage` |
+| 2026-04-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818-o011_t006_miri_p750l-slitlessprism` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -62,6 +62,7 @@ Star: Teff 5342.0 K, radius 0.843 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      3     10    0  ·
 2026-10-23      3     10    0  ·
 2026-10-19      3     10   37  ●●●●●●●●●●●●
 ```

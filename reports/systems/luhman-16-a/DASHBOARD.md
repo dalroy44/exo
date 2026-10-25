@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LUHMAN 16 A  ·  JWST WATCH                 ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,17 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● FAIL | 0 | 0 | never |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 > ⚠ mast failed: ResolverError('Could not resolve "Luhman 16 A" to a sky position.') (showing previous data)
-
-> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  0
-arXiv  ▁▁  4
+MAST   ▁▁▁  0
+arXiv  ▁▁▁  4
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -35,15 +33,16 @@ Star: Teff None K, radius None R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2107.10995`](https://arxiv.org/abs/2107.10995)  Weather on Other Worlds. VI. Optical Spectrophotometry of Luhman 16B Reveals Large-amplitude Variations in the Alkali Lines
-- [`2110.05739`](https://arxiv.org/abs/2110.05739)  Modeling Polarization Signals from Cloudy Brown Dwarfs: Luhman 16 A and B in Three Dimensions
-- [`2403.02260`](https://arxiv.org/abs/2403.02260)  Latitude-dependent Atmospheric Waves and Long-period Modulations in Luhman 16 B from the Longest Lightcurve of an Extrasolar World
 - [`2503.21266`](https://arxiv.org/abs/2503.21266)  The ESO SupJup Survey VII: Clouds and line asymmetries in CRIRES$^+$ J-band spectra of the Luhman 16 binary
+- [`2403.02260`](https://arxiv.org/abs/2403.02260)  Latitude-dependent Atmospheric Waves and Long-period Modulations in Luhman 16 B from the Longest Lightcurve of an Extrasolar World
+- [`2110.05739`](https://arxiv.org/abs/2110.05739)  Modeling Polarization Signals from Cloudy Brown Dwarfs: Luhman 16 A and B in Three Dimensions
+- [`2107.10995`](https://arxiv.org/abs/2107.10995)  Weather on Other Worlds. VI. Optical Spectrophotometry of Luhman 16B Reveals Large-amplitude Variations in the Alkali Lines
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      0      4    0  ·
 2026-10-23      0      4    0  ·
 2026-10-19      0      4    7  ●●●●●●●
 ```

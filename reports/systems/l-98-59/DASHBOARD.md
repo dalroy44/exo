@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   L 98-59  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  31
-arXiv  ▁▁  17
+MAST   ▁▁▁  31
+arXiv  ▁▁▁  17
 ```
 
 ## ▌ JWST coverage by instrument
@@ -36,15 +36,15 @@ NIRSPEC  ███████████░░░░░░░░░ 17
 | 2023-07-09 | ◉ public | 2512 | NIRSPEC/SLIT | `jw02512-o016_t003_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2023-07-15 | ◉ public | 2512 | NIRSPEC/SLIT | `jw02512-o015_t003_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2023-12-29 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o001_t001_niriss_clear-gr700xd-substrip96` |
+| 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730008001_03101_00001-seg002_mirimage` |
 | 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730008001_03101_00001-seg003_mirimage` |
 | 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730-o026_t012_miri_f1500w-sub128` |
 | 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730008001_03101_00001-seg004_mirimage` |
 | 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730008001_03101_00001-seg001_mirimage` |
-| 2024-02-03 | ◉ public | 3730 | MIRI/IMAGE | `jw03730008001_03101_00001-seg002_mirimage` |
-| 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00003-seg001_nis` |
+| 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00001-seg001_nis` |
 | 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00002-seg001_nis` |
 | 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00004-seg001_nis` |
-| 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00001-seg001_nis` |
+| 2024-02-15 | ◉ public | 1201 | NIRISS/SOSS | `jw01201301001_02101_00003-seg001_nis` |
 | 2024-03-08 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o311_t019_niriss_clear-gr700xd-substrip96` |
 | 2024-03-13 | ◉ public | 4098 | NIRSPEC/SLIT | `jw04098-o002_t011_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-06-25 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224-o001_t009_nirspec_f290lp-g395h-s1600a1-sub2048` |
@@ -54,16 +54,16 @@ NIRSPEC  ███████████░░░░░░░░░ 17
 | 2025-02-20 | ◉ public | 3942 | NIRSPEC/SLIT | `jw03942-o004_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-03-03 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o302_t019_niriss_clear-gr700xd-substrip96` |
 | 2027-08-01 | ○ proprietary | 10498 | NIRSPEC/SLIT | `jw10498-o004_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498008001_xx102_00001_nirspec` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498006001_xx102_00001_nirspec` |
-| ? | ? unknown | 11481 | MIRI/CORON | `jw11481011001_xx102_00001_miri` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498003001_xx102_00001_nirspec` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498002001_xx102_00001_nirspec` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498001001_xx102_00001_nirspec` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498009001_xx102_00001_nirspec` |
 | ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498005001_xx102_00001_nirspec` |
 | ? | ? unknown | 11481 | MIRI/CORON | `jw11481012001_xx102_00001_miri` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498009001_xx102_00001_nirspec` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498008001_xx102_00001_nirspec` |
+| ? | ? unknown | 11481 | MIRI/CORON | `jw11481011001_xx102_00001_miri` |
 | ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498007001_xx102_00001_nirspec` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498001001_xx102_00001_nirspec` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498002001_xx102_00001_nirspec` |
-| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498003001_xx102_00001_nirspec` |
+| ? | ? unknown | 10498 | NIRSPEC/SLIT | `jw10498006001_xx102_00001_nirspec` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -92,6 +92,7 @@ Star: Teff 3415.0 K, radius 0.3155 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     31     17    0  ·
 2026-10-23     31     17    0  ·
 2026-10-19     31     17   78  ●●●●●●●●●●●●
 ```

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-12  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 7 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 3 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 3 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  7
-arXiv  ▁▁  3
+MAST   ▁▁▁  7
+arXiv  ▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,8 +37,8 @@ NIRSPEC  ███████████░░░░░░░░░ 4
 |---|---|---|---|---|
 | 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg002_nrs2` |
 | 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281-o002_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
-| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg003_nrs2` |
 | 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg001_nrs2` |
+| 2024-02-12 | ◉ public | 1281 | NIRSPEC/SLIT | `jw01281002001_04101_00001-seg003_nrs2` |
 | 2024-06-08 | ◉ public | 1281 | MIRI/SLITLESS | `jw01281-o001_t001_miri_p750l-slitlessprism` |
 | 2025-03-27 | ◉ public | 6219 | MIRI/SLIT | `jw06219-o001_t001_miri_p750l` |
 | 2025-04-08 | ◉ public | 1281 | NIRISS/SOSS | `jw01281-o003_t001_niriss_clear-gr700xd-substrip256` |
@@ -51,14 +53,15 @@ Star: Teff 4650.0 K, radius 0.701 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2507.18722`](https://arxiv.org/abs/2507.18722)  Detection of CO$_2$, CO, and H$_2$O in the atmosphere of the warm sub-Saturn HAT-P-12b
-- [`2210.13298`](https://arxiv.org/abs/2210.13298)  Radio-Loud Exoplanet-Exomoon Survey (RLEES): GMRT Search for Electron Cyclotron Maser Emission
 - [`1802.03859`](https://arxiv.org/abs/1802.03859)  The GAPS Programme with HARPS-N at TNG XVI: Measurement of the Rossiter-McLaughlin effect of the transiting planetary systems HAT-P-3, HAT-P-12, HAT-P-22, WASP-39 and WASP-60
+- [`2210.13298`](https://arxiv.org/abs/2210.13298)  Radio-Loud Exoplanet-Exomoon Survey (RLEES): GMRT Search for Electron Cyclotron Maser Emission
+- [`2507.18722`](https://arxiv.org/abs/2507.18722)  Detection of CO$_2$, CO, and H$_2$O in the atmosphere of the warm sub-Saturn HAT-P-12b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      7      3    0  ·
 2026-10-23      7      3    0  ·
 2026-10-19      7      3   16  ●●●●●●●●●●●●
 ```

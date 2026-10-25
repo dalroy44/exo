@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HD 80606  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  2
-arXiv  ▁▁  9
+MAST   ▁▁▁  2
+arXiv  ▁▁▁  9
 ```
 
 ## ▌ JWST coverage by instrument
@@ -58,6 +58,7 @@ Star: Teff 5565.0 K, radius 1.05 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      2      9    0  ·
 2026-10-23      2      9    0  ·
 2026-10-19      2      9   17  ●●●●●●●●●●●●
 ```

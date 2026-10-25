@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LTT 9779  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 3 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 12 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 13 | 1 | 2026-10-25 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  3
-arXiv  ▁▁  12
+MAST   ▁▁▁  3
+arXiv  ▁▁█  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -48,19 +46,20 @@ Star: Teff 5443.0 K, radius 0.949 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2304.05707`](https://arxiv.org/abs/2304.05707)  Converting the sub-Jovian desert of exoplanets to a savanna with TESS, PLATO and Ariel
-- [`2306.13645`](https://arxiv.org/abs/2306.13645)  Characterising a World Within the Hot Neptune Desert: Transit Observations of LTT 9779 b with HST WFC3
-- [`2310.13171`](https://arxiv.org/abs/2310.13171)  Survival in the Neptune desert: LTT 9779 b kept its atmosphere thanks to an unusually X-ray faint host star
-- [`2401.15548`](https://arxiv.org/abs/2401.15548)  Muted Features in the JWST NIRISS Transmission Spectrum of Hot-Neptune LTT 9779 b
-- [`2503.05581`](https://arxiv.org/abs/2503.05581)  Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS
-- [`2505.11960`](https://arxiv.org/abs/2505.11960)  HST/WFC3 Constraints on the Abundances of OH and FeH in the Atmosphere of the Ultra-Hot Neptune LTT-9779 b
-- [`2510.04863`](https://arxiv.org/abs/2510.04863)  Heat Reveals What Clouds Conceal: Global Carbon & Longitudinally Asymmetric Chemistry on LTT 9779 b
+- [`2610.24550`](https://arxiv.org/abs/2610.24550)  Granulation in Color: The Chromatic Stellar Flicker of LTT-9779 and WASP-121
+- [`2610.07202`](https://arxiv.org/abs/2610.07202)  Exploring the ultrahot Neptune LTT 9779 b with CRIRES+. Non-detection of helium transmission spectra and detection of H$_2$O on the dayside
+- [`2609.36206`](https://arxiv.org/abs/2609.36206)  Cool, Cloudy Nights on an Ultrahot Neptune: A Panchromatic NIRISS/NIRSpec Transmission Spectrum of LTT 9779 b
+- [`2609.26874`](https://arxiv.org/abs/2609.26874)  Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS
+- [`2606.30793`](https://arxiv.org/abs/2606.30793)  High-resolution detection of reflected light from the exo-Neptune LTT-9779 b
 - [`2511.08691`](https://arxiv.org/abs/2511.08691)  No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution
+- [`2510.04863`](https://arxiv.org/abs/2510.04863)  Heat Reveals What Clouds Conceal: Global Carbon & Longitudinally Asymmetric Chemistry on LTT 9779 b
+- [`2505.11960`](https://arxiv.org/abs/2505.11960)  HST/WFC3 Constraints on the Abundances of OH and FeH in the Atmosphere of the Ultra-Hot Neptune LTT-9779 b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      3     13    1  ●
 2026-10-23      3     12    0  ·
 2026-10-19      3     12   21  ●●●●●●●●●●●●
 ```

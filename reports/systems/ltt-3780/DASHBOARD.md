@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LTT 3780  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 14 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 5 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: TimeoutError('The read operation timed out') (showing previous data)
+| arxiv | ● ok | 5 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  14
-arXiv  ▁▁  5
+MAST   ▁▁▁  14
+arXiv  ▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,16 +33,16 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg002_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg001_mirimage` |
+| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg004_mirimage` |
+| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg002_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg003_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg005_mirimage` |
-| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg004_mirimage` |
+| 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg002_mirimage` |
+| 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg001_mirimage` |
 | 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg003_mirimage` |
 | 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg005_mirimage` |
-| 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg002_mirimage` |
 | 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg004_mirimage` |
-| 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg001_mirimage` |
 | 2025-04-21 | ◉ public | 3557 | NIRISS/SOSS | `jw03557-o004_t003_niriss_clear-gr700xd-substrip256` |
 | 2025-04-21 | ◉ public | 3557 | NIRISS/SOSS | `jw03557004001_04102_00001-seg001_nis` |
 | 2025-05-28 | ◉ public | 3557 | NIRSPEC/SLIT | `jw03557-o005_t003_nirspec_f290lp-g395h-s1600a1-sub2048` |
@@ -61,16 +59,17 @@ Star: Teff 3358.0 K, radius 0.38 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2003.01136`](https://arxiv.org/abs/2003.01136)  A pair of TESS planets spanning the radius valley around the nearby mid-M dwarf LTT 3780
-- [`2003.01140`](https://arxiv.org/abs/2003.01140)  The CARMENES search for exoplanets around M dwarfs. Two planets on the opposite sides of the radius gap transiting the nearby M dwarf LTT 3780
-- [`2507.04440`](https://arxiv.org/abs/2507.04440)  Exploring the habitability and interior composition of exoplanets lying within the extended habitable zone
-- [`2508.14210`](https://arxiv.org/abs/2508.14210)  Hot Rocks Survey IV: Emission from LTT 3780 b is consistent with a bare rock
 - [`2607.07182`](https://arxiv.org/abs/2607.07182)  A search for narrowband technosignatures from LTT 3780 with the Allen Telescope Array and the Karl G. Jansky Very Large Array
+- [`2508.14210`](https://arxiv.org/abs/2508.14210)  Hot Rocks Survey IV: Emission from LTT 3780 b is consistent with a bare rock
+- [`2507.04440`](https://arxiv.org/abs/2507.04440)  Exploring the habitability and interior composition of exoplanets lying within the extended habitable zone
+- [`2003.01140`](https://arxiv.org/abs/2003.01140)  The CARMENES search for exoplanets around M dwarfs. Two planets on the opposite sides of the radius gap transiting the nearby M dwarf LTT 3780
+- [`2003.01136`](https://arxiv.org/abs/2003.01136)  A pair of TESS planets spanning the radius valley around the nearby mid-M dwarf LTT 3780
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     14      5    0  ·
 2026-10-23     14      5    0  ·
 2026-10-19     14      5   31  ●●●●●●●●●●●●
 ```

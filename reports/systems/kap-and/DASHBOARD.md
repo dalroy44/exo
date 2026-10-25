@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   KAP AND  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  7
-arXiv  ▁▁  3
+MAST   ▁▁▁  7
+arXiv  ▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,8 +35,8 @@ NIRSPEC  ███████████░░░░░░░░░ 4
 | 2024-09-19 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1019_t003_miri_f1065c-mask1065` |
 | 2024-09-19 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1020_t003_miri_f1140c-mask1140` |
 | 2024-09-20 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1021_t003_miri_f1550c-mask1550` |
-| 2027-09-17 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o011_t006_nirspec_g395h-f290lp` |
 | 2027-09-17 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o011_t006_nirspec_g140h-f100lp` |
+| 2027-09-17 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o011_t006_nirspec_g395h-f290lp` |
 | 2027-09-18 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o012_t006_nirspec_g395h-f290lp` |
 | 2027-09-18 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o012_t006_nirspec_g140h-f100lp` |
 
@@ -58,6 +58,7 @@ Star: Teff 11327.0 K, radius 2.109 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      7      3    0  ·
 2026-10-23      7      3    0  ·
 2026-10-19      7      3   16  ●●●●●●●●●●●●
 ```

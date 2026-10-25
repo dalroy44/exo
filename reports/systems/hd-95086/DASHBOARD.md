@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HD 95086  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  10
-arXiv  ▁▁  5
+MAST   ▁▁▁  10
+arXiv  ▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,16 +33,16 @@ NIRISS   ██████░░░░░░░░░░░░░░ 3
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1009_t001_miri_f1140c-mask1140` |
 | 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1010_t001_miri_f2300c-masklyot` |
 | 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1008_t001_miri_f1065c-mask1065` |
+| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1009_t001_miri_f1140c-mask1140` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/AMI | `jw01200-c1001_t002_niriss_f380m-nrm-sub80` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/IMAGE | `jw01200-o002_t002_niriss_clearp-f380m-sub80` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/IMAGE | `jw01200-c1001_t002_niriss_clearp-f380m-sub80` |
 | 2027-06-13 | ○ proprietary | 6905 | NIRCAM/CORON | `jw06905-c1009_t002_nircam_f410m-maskbar-sub400x256alwb` |
 | 2027-06-13 | ○ proprietary | 6905 | NIRCAM/IMAGE | `jw06905-c1009_t002_nircam_f210m-maskbar-sub400x256alwb` |
-| 2027-06-13 | ○ proprietary | 6905 | NIRCAM/CORON | `jw06905-c1009_t002_nircam_f460m-maskbar-sub400x256alwb` |
 | 2027-06-13 | ○ proprietary | 6905 | NIRCAM/CORON | `jw06905-c1009_t002_nircam_f430m-maskbar-sub400x256alwb` |
+| 2027-06-13 | ○ proprietary | 6905 | NIRCAM/CORON | `jw06905-c1009_t002_nircam_f460m-maskbar-sub400x256alwb` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -64,6 +64,7 @@ Star: Teff 7595.0 K, radius 1.48667 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     10      5    0  ·
 2026-10-23     10      5    0  ·
 2026-10-19     10      5   21  ●●●●●●●●●●●●
 ```

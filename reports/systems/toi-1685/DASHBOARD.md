@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-1685  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 7 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 7 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: TimeoutError('The read operation timed out') (showing previous data)
+| arxiv | ● ok | 7 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  7
-arXiv  ▁▁  7
+MAST   ▁▁▁  7
+arXiv  ▁▁▁  7
 ```
 
 ## ▌ JWST coverage by instrument
@@ -52,18 +50,19 @@ Star: Teff 3470.0 K, radius 0.462 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2103.01016`](https://arxiv.org/abs/2103.01016)  An ultra-short-period transiting super-Earth orbiting the M3 dwarf TOI-1685
-- [`2405.14895`](https://arxiv.org/abs/2405.14895)  TOI-1685 b is a Hot Rocky Super-Earth: Updates to the Stellar and Planet Parameters of a Popular JWST Cycle 2 Target
-- [`2406.00111`](https://arxiv.org/abs/2406.00111)  Stellar Characterization and Chemical Abundances of Exoplanet Hosting M dwarfs from APOGEE Spectra: Future JWST Targets
-- [`2412.03411`](https://arxiv.org/abs/2412.03411)  A dark, bare rock for TOI-1685 b from a JWST NIRSpec G395H phase curve
-- [`2502.07887`](https://arxiv.org/abs/2502.07887)  Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b
-- [`2512.15338`](https://arxiv.org/abs/2512.15338)  JWST NIRSpec finds no clear signs of an atmosphere on TOI-1685 b
 - [`2609.24970`](https://arxiv.org/abs/2609.24970)  Elemental Abundances of Cool Stars: A Spectroscopic Framework Applied to Five Planet-Host Stars
+- [`2512.15338`](https://arxiv.org/abs/2512.15338)  JWST NIRSpec finds no clear signs of an atmosphere on TOI-1685 b
+- [`2502.07887`](https://arxiv.org/abs/2502.07887)  Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b
+- [`2412.03411`](https://arxiv.org/abs/2412.03411)  A dark, bare rock for TOI-1685 b from a JWST NIRSpec G395H phase curve
+- [`2406.00111`](https://arxiv.org/abs/2406.00111)  Stellar Characterization and Chemical Abundances of Exoplanet Hosting M dwarfs from APOGEE Spectra: Future JWST Targets
+- [`2405.14895`](https://arxiv.org/abs/2405.14895)  TOI-1685 b is a Hot Rocky Super-Earth: Updates to the Stellar and Planet Parameters of a Popular JWST Cycle 2 Target
+- [`2103.01016`](https://arxiv.org/abs/2103.01016)  An ultra-short-period transiting super-Earth orbiting the M3 dwarf TOI-1685
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      7      7    0  ·
 2026-10-23      7      7    0  ·
 2026-10-19      7      7   20  ●●●●●●●●●●●●
 ```

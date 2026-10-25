@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 367  ·  JWST WATCH                      ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 1 | 0 | 2026-10-19 |
 | archive | ● ok | 3 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 1 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 1 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  1
-arXiv  ▁▁  1
+MAST   ▁▁▁  1
+arXiv  ▁▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -51,6 +53,7 @@ Star: Teff 3535.0 K, radius 0.457 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      1      1    0  ·
 2026-10-23      1      1    0  ·
 2026-10-19      1      1   18  ●●●●●●●●●●●●
 ```

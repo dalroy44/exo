@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   NGTS-2  ·  JWST WATCH                      ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 4 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 0 | 0 | never |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 0 | 0 | never |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  4
-arXiv  ▁▁  0
+MAST   ▁▁▁  4
+arXiv  ▁▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -55,6 +53,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      4      0    0  ·
 2026-10-23      4      0    0  ·
 2026-10-19      4      0   10  ●●●●●●●●●●
 ```

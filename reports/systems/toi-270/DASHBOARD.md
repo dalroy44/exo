@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-270  ·  JWST WATCH                     ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  42
-arXiv  ▁▁  25
+MAST   ▁▁▁  42
+arXiv  ▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,45 +34,45 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 2
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg006_mirimage` |
+| 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg007_mirimage` |
 | 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg005_mirimage` |
 | 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg004_mirimage` |
-| 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg001_mirimage` |
-| 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg003_mirimage` |
 | 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg002_mirimage` |
-| 2024-02-07 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o015_t009_niriss_clear-gr700xd-substrip256` |
-| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg004_mirimage` |
-| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg001_mirimage` |
-| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg003_mirimage` |
-| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg005_mirimage` |
+| 2024-01-31 | ◉ public | 3730 | MIRI/IMAGE | `jw03730022001_03101_00001-seg001_mirimage` |
 | 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg002_mirimage` |
 | 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg007_mirimage` |
+| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg003_mirimage` |
+| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg004_mirimage` |
+| 2024-02-07 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o015_t009_niriss_clear-gr700xd-substrip256` |
+| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg001_mirimage` |
+| 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg005_mirimage` |
 | 2024-02-07 | ◉ public | 3730 | MIRI/IMAGE | `jw03730021001_03101_00001-seg006_mirimage` |
-| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg002_mirimage` |
-| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg005_mirimage` |
 | 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg006_mirimage` |
 | 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg007_mirimage` |
-| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg001_mirimage` |
+| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg002_mirimage` |
+| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg005_mirimage` |
 | 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg003_mirimage` |
 | 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg004_mirimage` |
+| 2024-02-13 | ◉ public | 3730 | MIRI/IMAGE | `jw03730020001_03101_00001-seg001_mirimage` |
 | 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg004_mirimage` |
 | 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg006_mirimage` |
+| 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg007_mirimage` |
+| 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg001_mirimage` |
 | 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg002_mirimage` |
 | 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg003_mirimage` |
 | 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg005_mirimage` |
-| 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg007_mirimage` |
-| 2024-02-17 | ◉ public | 3730 | MIRI/IMAGE | `jw03730019001_03101_00001-seg001_mirimage` |
 | 2024-08-30 | ◉ public | 4098 | NIRSPEC/SLIT | `jw04098-o016_t009_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2025-07-26 | ◉ public | 3557 | MIRI/TARGACQ | `jw03557015001_02101_00001-seg001_mirimage` |
 | 2025-07-26 | ◉ public | 3557 | MIRI/SLITLESS | `jw03557015001_03103_00001-seg001_mirimage` |
 | 2025-07-26 | ◉ public | 3557 | MIRI/SLITLESS | `jw03557015001_03102_00001-seg001_mirimage` |
 | 2025-07-26 | ◉ public | 3557 | MIRI/SLITLESS | `jw03557-o012_t007_miri_p750l-slitlessprism` |
+| 2025-07-26 | ◉ public | 3557 | MIRI/TARGACQ | `jw03557015001_02101_00001-seg001_mirimage` |
 | 2025-08-07 | ◉ public | 2759 | NIRISS/SOSS | `jw02759-o001_t001_niriss_clear-gr700xd-substrip256` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157007001_xx102_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157007001_xx103_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157009001_xx103_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157005001_xx103_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157005001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157009001_xx102_00001_miri` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157007001_xx103_00001_miri` |
 
 _Showing the 40 latest of 42; full list in `state.json`._
 
@@ -101,6 +101,7 @@ Star: Teff 3506.0 K, radius 0.38 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25     42     25    0  ·
 2026-10-23     42     25    0  ·
 2026-10-19     42     25   85  ●●●●●●●●●●●●
 ```

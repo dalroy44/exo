@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-1130  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 4 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 3 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 3 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  4
-arXiv  ▁▁  3
+MAST   ▁▁▁  4
+arXiv  ▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -50,14 +48,15 @@ Star: Teff 4360.0 K, radius 0.697 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2310.16888`](https://arxiv.org/abs/2310.16888)  The GAPS programme at TNG XLIX. TOI-5398, the youngest compact multi-planet system composed of an inner sub-Neptune and an outer warm Saturn
-- [`2512.04420`](https://arxiv.org/abs/2512.04420)  JWST Exoplanetary Worlds and Elemental Survey (JEWELS) I: High-Precision Chemical Abundances of 20 FGK Planet-Hosting Stars from JWST Cycle 2
 - [`2605.02036`](https://arxiv.org/abs/2605.02036)  JWST unveils a high mean molecular weight atmosphere for mini-Neptune TOI-1130b: Evidence for formation beyond the water ice line
+- [`2512.04420`](https://arxiv.org/abs/2512.04420)  JWST Exoplanetary Worlds and Elemental Survey (JEWELS) I: High-Precision Chemical Abundances of 20 FGK Planet-Hosting Stars from JWST Cycle 2
+- [`2310.16888`](https://arxiv.org/abs/2310.16888)  The GAPS programme at TNG XLIX. TOI-5398, the youngest compact multi-planet system composed of an inner sub-Neptune and an outer warm Saturn
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      4      3    0  ·
 2026-10-23      4      3    0  ·
 2026-10-19      4      3   19  ●●●●●●●●●●●●
 ```

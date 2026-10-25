@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TRAPPIST-1  ·  JWST WATCH                  ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 393 | 0 | 2026-10-19 |
 | archive | ● ok | 7 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 25 | 1 | 2026-10-23 |
+| arxiv | ● ok | 25 | 0 | 2026-10-23 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  393
-arXiv  ▁▁  25
+MAST   ▁▁▁  393
+arXiv  ▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -41,12 +41,12 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 123
 | 2025-11-17 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256011001_04101_00001-seg002_nrs2` |
 | 2025-11-17 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256011001_04101_00001-seg003_nrs2` |
 | 2025-11-17 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256011001_04101_00001-seg001_nrs2` |
+| 2025-11-23 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg006_mirimage` |
+| 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256-o012_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256012001_04101_00001-seg003_nrs2` |
 | 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256012001_04101_00001-seg004_nrs2` |
-| 2025-11-23 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg006_mirimage` |
 | 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256012001_04101_00001-seg001_nrs2` |
 | 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256012001_04101_00001-seg002_nrs2` |
-| 2025-11-23 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256-o012_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2025-11-24 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg002_mirimage` |
 | 2025-11-24 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg005_mirimage` |
 | 2025-11-24 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg003_mirimage` |
@@ -54,25 +54,25 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 123
 | 2025-11-24 | ◉ public | 5191 | MIRI/IMAGE | `jw05191003001_03101_00001-seg001_mirimage` |
 | 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg002_mirimage` |
 | 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg001_mirimage` |
-| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg005_mirimage` |
-| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg006_mirimage` |
-| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg007_mirimage` |
 | 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg003_mirimage` |
 | 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg004_mirimage` |
+| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg005_mirimage` |
+| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg007_mirimage` |
+| 2025-12-05 | ◉ public | 5191 | MIRI/IMAGE | `jw05191004001_03101_00001-seg006_mirimage` |
 | 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg004_nrs2` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg002_nrs2` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg003_nrs2` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492-o001_t001_nirspec_clear-prism-s1600a1-sub512` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg001_nrs2` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg001_nrs2` |
-| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg002_nrs2` |
 | 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg004_nrs2` |
 | 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg003_nrs2` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg002_nrs2` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg001_nrs2` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492-o001_t001_nirspec_clear-prism-s1600a1-sub512` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04101_00001-seg003_nrs2` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg002_nrs2` |
+| 2025-12-12 | ◉ public | 12492 | NIRSPEC/SLIT | `jw12492001001_04102_00001-seg001_nrs2` |
 | 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256013001_04101_00001-seg001_nrs2` |
-| 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256013001_04101_00001-seg003_nrs2` |
 | 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256013001_04101_00001-seg004_nrs2` |
 | 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256-o013_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256013001_04101_00001-seg002_nrs2` |
+| 2026-06-06 | ◉ public | 9256 | NIRSPEC/SLIT | `jw09256013001_04101_00001-seg003_nrs2` |
 
 _Showing the 40 latest of 393; full list in `state.json`._
 
@@ -105,6 +105,7 @@ Star: Teff 2566.0 K, radius 0.1192 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25    393     25    0  ·
 2026-10-23    393     25    1  ●
 2026-10-19    393     25  460  ●●●●●●●●●●●●
 ```

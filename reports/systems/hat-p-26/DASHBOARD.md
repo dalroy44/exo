@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-26  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 4 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 503: 'Service Unavailable'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  6
-arXiv  ▁▁  4
+MAST   ▁▁▁  6
+arXiv  ▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -50,15 +52,16 @@ Star: Teff 5079.0 K, radius 0.87 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2509.16082`](https://arxiv.org/abs/2509.16082)  JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy
-- [`2406.10032`](https://arxiv.org/abs/2406.10032)  GASTLI: An open-source coupled interior-atmosphere model to unveil gas giant composition
-- [`2303.03610`](https://arxiv.org/abs/2303.03610)  Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b
 - [`2205.10549`](https://arxiv.org/abs/2205.10549)  The GAPS Programme at TNG: XXXVI. Measurement of the Rossiter-McLaughlin effect and revising the physical and orbital parameters of the HAT-P-15, HAT-P-17, HAT-P-21, HAT-P-26, HAT-P-29 eccentric planetary systems
+- [`2303.03610`](https://arxiv.org/abs/2303.03610)  Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b
+- [`2406.10032`](https://arxiv.org/abs/2406.10032)  GASTLI: An open-source coupled interior-atmosphere model to unveil gas giant composition
+- [`2509.16082`](https://arxiv.org/abs/2509.16082)  JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      6      4    0  ·
 2026-10-23      6      4    0  ·
 2026-10-19      6      4   16  ●●●●●●●●●●●●
 ```

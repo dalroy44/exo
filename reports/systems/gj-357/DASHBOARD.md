@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 357  ·  JWST WATCH                      ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 4 | 0 | 2026-10-19 |
 | archive | ● ok | 3 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 5 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 5 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  4
-arXiv  ▁▁  5
+MAST   ▁▁▁  4
+arXiv  ▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,8 +36,8 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 1
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2023-12-04 | ◉ public | 2512 | NIRSPEC/SLIT | `jw02512-o007_t006_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg002_mirimage` |
 | 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg001_mirimage` |
+| 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg002_mirimage` |
 | 2024-12-20 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o201_t018_niriss_clear-gr700xd-substrip96` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -50,16 +52,17 @@ Star: Teff 3505.0 K, radius 0.337 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2609.30552`](https://arxiv.org/abs/2609.30552)  Hot Rocks Survey VI: An anomalously hot dayside for the rocky planet GJ 357 b
-- [`2507.07165`](https://arxiv.org/abs/2507.07165)  JWST COMPASS: A NIRSpec G395H Transmission Spectrum of the Super-Earth GJ 357 b
-- [`2505.24462`](https://arxiv.org/abs/2505.24462)  JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention
-- [`2007.10262`](https://arxiv.org/abs/2007.10262)  GJ 357 b: A Super-Earth Orbiting an Extremely Inactive Host Star
 - [`1904.12818`](https://arxiv.org/abs/1904.12818)  Planetary system around the nearby M dwarf GJ 357 including a transiting, hot, Earth-sized planet optimal for atmospheric characterization
+- [`2007.10262`](https://arxiv.org/abs/2007.10262)  GJ 357 b: A Super-Earth Orbiting an Extremely Inactive Host Star
+- [`2505.24462`](https://arxiv.org/abs/2505.24462)  JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention
+- [`2507.07165`](https://arxiv.org/abs/2507.07165)  JWST COMPASS: A NIRSpec G395H Transmission Spectrum of the Super-Earth GJ 357 b
+- [`2609.30552`](https://arxiv.org/abs/2609.30552)  Hot Rocks Survey VI: An anomalously hot dayside for the rocky planet GJ 357 b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      4      5    0  ·
 2026-10-23      4      5    0  ·
 2026-10-19      4      5   27  ●●●●●●●●●●●●
 ```

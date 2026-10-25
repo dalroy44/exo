@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-18  ·  JWST WATCH                    ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 10 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 10 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  6
-arXiv  ▁▁  10
+MAST   ▁▁▁  6
+arXiv  ▁▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -50,19 +52,20 @@ Star: Teff 4870.0 K, radius 0.717 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2610.19328`](https://arxiv.org/abs/2610.19328)  ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets
-- [`2603.04488`](https://arxiv.org/abs/2603.04488)  NASA's Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-Infrared Exoplanet Transmission Spectra
-- [`2511.07746`](https://arxiv.org/abs/2511.07746)  "Popcorn Planets" are Not Actively Inflated by Eccentricity Tides
-- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
-- [`2502.00553`](https://arxiv.org/abs/2502.00553)  The Influence of Stellar Chromospheres and Coronae on Exoplanet Transmission Spectroscopy
-- [`2406.00187`](https://arxiv.org/abs/2406.00187)  Are WASP-107-like Systems Consistent with High-eccentricity Migration?
-- [`2310.14950`](https://arxiv.org/abs/2310.14950)  Near-Infrared Transmission Spectroscopy of HAT-P-18$\,$b with NIRISS: Disentangling Planetary and Stellar Features in the Era of JWST
+- [`2111.10350`](https://arxiv.org/abs/2111.10350)  Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III
+- [`2112.07667`](https://arxiv.org/abs/2112.07667)  The Sensitivity of Eclipse Mapping to Planetary Rotation
 - [`2209.03677`](https://arxiv.org/abs/2209.03677)  Constraining planetary mass-loss rates by simulating Parker wind profiles with Cloudy
+- [`2310.14950`](https://arxiv.org/abs/2310.14950)  Near-Infrared Transmission Spectroscopy of HAT-P-18$\,$b with NIRISS: Disentangling Planetary and Stellar Features in the Era of JWST
+- [`2406.00187`](https://arxiv.org/abs/2406.00187)  Are WASP-107-like Systems Consistent with High-eccentricity Migration?
+- [`2502.00553`](https://arxiv.org/abs/2502.00553)  The Influence of Stellar Chromospheres and Coronae on Exoplanet Transmission Spectroscopy
+- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
+- [`2511.07746`](https://arxiv.org/abs/2511.07746)  "Popcorn Planets" are Not Actively Inflated by Eccentricity Tides
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      6     10    0  ·
 2026-10-23      6     10    0  ·
 2026-10-19      6     10   22  ●●●●●●●●●●●●
 ```

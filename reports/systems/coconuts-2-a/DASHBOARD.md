@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   COCONUTS-2 A  ·  JWST WATCH                ║
-║   checked 2026-10-23   ·   2 run-days logged ║
+║   checked 2026-10-25   ·   3 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,17 @@
 |---|---|---:|---:|---|
 | mast | ● FAIL | 0 | 0 | never |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 3 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 3 | 0 | 2026-10-19 |
 
 > ⚠ mast failed: ResolverError('Could not resolve "COCONUTS-2 A" to a sky position.') (showing previous data)
+
+> ⚠ arxiv failed: <HTTPError 503: 'Service Unavailable'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁  0
-arXiv  ▁▁  3
+MAST   ▁▁▁  0
+arXiv  ▁▁▁  3
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -33,14 +35,15 @@ Star: Teff 3552.0 K, radius 0.366 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2604.07176`](https://arxiv.org/abs/2604.07176)  Panchromatic View of the Frigid Jovian Exoplanet COCONUTS-2 b
-- [`2511.20923`](https://arxiv.org/abs/2511.20923)  The Diversity of Cold Worlds: Age and Characterization of the Exoplanet COCONUTS-2b
 - [`2107.02805`](https://arxiv.org/abs/2107.02805)  The Second Discovery from the COol Companions ON Ultrawide orbiTS (COCONUTS) Program: A Cold Wide-Orbit Exoplanet around a Young Field M Dwarf at 10.9 pc
+- [`2511.20923`](https://arxiv.org/abs/2511.20923)  The Diversity of Cold Worlds: Age and Characterization of the Exoplanet COCONUTS-2b
+- [`2604.07176`](https://arxiv.org/abs/2604.07176)  Panchromatic View of the Frigid Jovian Exoplanet COCONUTS-2 b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-25      0      3    0  ·
 2026-10-23      0      3    0  ·
 2026-10-19      0      3    9  ●●●●●●●●●
 ```
