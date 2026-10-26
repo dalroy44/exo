@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   V1298 TAU  ·  JWST WATCH                   ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 20 | 0 | 2026-10-19 |
 | archive | ● ok | 4 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 20 | 0 | 2026-10-19 |
+| arxiv | ● ok | 21 | 1 | 2026-10-26 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  20
-arXiv  ▁▁▁  20
+MAST   ▁▁▁▁  20
+arXiv  ▁▁▁█  21
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,22 +35,22 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 5
 | 2024-01-18 | ◉ public | 2149 | NIRSPEC/SLIT | `jw02149001001_02101_00001-seg001_nrs1` |
 | 2024-02-12 | ◉ public | 2149 | NIRSPEC/SLIT | `jw02149-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2025-02-24 | ◉ public | 5959 | NIRSPEC/SLIT | `jw05959-o016_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04101_00001-seg001_nis` |
 | 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04103_00001-seg001_nis` |
+| 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04101_00001-seg001_nis` |
 | 2025-09-08 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o002_t001_niriss_clear-gr700xd-substrip96` |
 | 2025-09-11 | ◉ public | 5959 | NIRISS/SOSS | `jw05959017001_04101_00001-seg001_nis` |
 | 2025-09-11 | ◉ public | 5959 | NIRISS/SOSS | `jw05959017001_04103_00001-seg001_nis` |
 | 2025-09-12 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o017_t001_niriss_clear-gr700xd-substrip96` |
-| 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04103_00001-seg001_nis` |
 | 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04101_00001-seg001_nis` |
 | 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o004_t001_niriss_clear-gr700xd-substrip96` |
+| 2025-10-06 | ◉ public | 5959 | NIRISS/SOSS | `jw05959004001_04103_00001-seg001_nis` |
 | 2026-02-10 | ◉ public | 5959 | NIRSPEC/SLIT | `jw05959-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-09-26 | ◉ public | 5882 | NIRSPEC/SLIT | `jw05882-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831001001_04101_00001-seg001_nis` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831-o001_t001_niriss_clear-gr700xd-substrip96` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831001001_04103_00001-seg001_nis` |
-| ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx103_00001_niriss` |
 | ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx102_00001_niriss` |
+| ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx103_00001_niriss` |
 | ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx104_00001_niriss` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -66,6 +66,7 @@ Star: Teff 4970.0 K, radius 1.32 R☉
 
 ## ▌ Latest papers (arXiv)
 
+- [`2610.32815`](https://arxiv.org/abs/2610.32815)  The GAPS Programme at TNG LXXXI. The puzzle of the HeI absorption signal in the atmosphere of V1298 Tau b with GIARPS@TNG
 - [`2609.32044`](https://arxiv.org/abs/2609.32044)  Investigating potential causes for high inferred intrinsic temperatures of warm transiting Neptune and Sub-Neptune planets
 - [`2608.27576`](https://arxiv.org/abs/2608.27576)  Stellar Flares Rather than High $T_{int}$ As Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298~Tau\,b
 - [`2607.01559`](https://arxiv.org/abs/2607.01559)  CHEOPS observations of V1298 Tau: updated planetary densities and implications on the early evolution of the young system
@@ -73,12 +74,12 @@ Star: Teff 4970.0 K, radius 1.32 R☉
 - [`2606.03740`](https://arxiv.org/abs/2606.03740)  KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c
 - [`2606.00974`](https://arxiv.org/abs/2606.00974)  Photochemical CS$_2$ Gas Detected on a 20-Myr-old Exoplanet
 - [`2602.22830`](https://arxiv.org/abs/2602.22830)  Probing the Atmospheres of Young Long-Period Sub-Neptune Progenitors with ELT/ANDES
-- [`2507.08837`](https://arxiv.org/abs/2507.08837)  A metal-poor atmosphere with a hot interior for a young sub-Neptune progenitor: JWST/NIRSpec transmission spectrum of V1298 Tau b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     20     21    1  ●
 2026-10-25     20     20    0  ·
 2026-10-23     20     20    0  ·
 2026-10-19     20     20   64  ●●●●●●●●●●●●

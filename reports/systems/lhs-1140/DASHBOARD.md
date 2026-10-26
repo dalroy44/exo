@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LHS 1140  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  82
-arXiv  ▁▁▁  25
+MAST   ▁▁▁▁  82
+arXiv  ▁▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -100,6 +100,7 @@ Star: Teff 3096.0 K, radius 0.2159 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     82     25    0  ·
 2026-10-25     82     25    0  ·
 2026-10-23     82     25    0  ·
 2026-10-19     82     25  119  ●●●●●●●●●●●●

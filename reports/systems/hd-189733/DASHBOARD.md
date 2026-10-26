@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HD 189733  ·  JWST WATCH                   ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  173
-arXiv  ▁▁▁  25
+MAST   ▁▁▁▁  173
+arXiv  ▁▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,42 +32,42 @@ NIRCAM   █████████░░░░░░░░░░░ 74
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-04-25 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg007_mirifulong` |
-| 2024-04-25 | ◉ public | 1633 | MIRI/TARGACQ | `jw01633001001_02101_00001-seg001_mirimage` |
-| 2024-04-25 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg007_mirifushort` |
-| 2024-04-26 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg013_mirifushort` |
+| 2024-04-25 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg011_mirifulong` |
+| 2024-04-25 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg003_mirifulong` |
+| 2024-04-25 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg005_mirifulong` |
 | 2024-04-26 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg001_mirifushort` |
 | 2024-04-26 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg008_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg010_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg002_mirifulong` |
+| 2024-04-26 | ◉ public | 1633 | MIRI/IFU | `jw01633001001_04102_00001-seg013_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg004_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg009_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg013_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg013_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg006_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg014_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg015_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg012_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg007_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg010_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg002_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg004_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg006_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg011_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg005_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg012_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg004_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg003_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg001_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg003_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg005_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg014_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg013_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg011_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg010_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/TARGACQ | `jw01633002001_02101_00001-seg001_mirimage` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg002_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg008_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg006_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg007_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg002_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg003_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg005_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg015_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg015_mirifushort` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg005_mirifulong` |
+| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg014_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg008_mirifulong` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg009_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg015_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg011_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg007_mirifushort` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg014_mirifushort` |
 | 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg012_mirifulong` |
-| 2024-06-02 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg007_mirifulong` |
 | 2024-06-03 | ◉ public | 1633 | MIRI/IFU | `jw01633002001_04102_00001-seg001_mirifulong` |
 | 2024-07-01 | ◉ public | 2021 | MIRI/SLITLESS | `jw02021-o011_t001_miri_p750l-slitlessprism` |
 | 2027-10-04 | ○ proprietary | 11301 | MIRI/SLITLESS | `jw11301001001_04102_00001-seg001_mirimage` |
@@ -98,6 +98,7 @@ Star: Teff 5052.0 K, radius 0.75 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26    173     25    0  ·
 2026-10-25    173     25    0  ·
 2026-10-23    173     25    0  ·
 2026-10-19    173     25  204  ●●●●●●●●●●●●

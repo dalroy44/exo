@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LHS 3844  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  14
-arXiv  ▁▁▁  8
+MAST   ▁▁▁▁  14
+arXiv  ▁▁▁▁  8
 ```
 
 ## ▌ JWST coverage by instrument
@@ -41,8 +41,8 @@ NIRSPEC  ███░░░░░░░░░░░░░░░░░ 2
 | 2026-08-16 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o003_t001_miri_p750l-slitlessprism` |
 | 2026-09-30 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o002_t001_miri_p750l-slitlessprism` |
 | 2026-10-01 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o004_t001_miri_p750l-slitlessprism` |
-| 2026-10-02 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o007_t001_miri_p750l-slitlessprism` |
 | 2026-10-02 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o005_t001_miri_p750l-slitlessprism` |
+| 2026-10-02 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o007_t001_miri_p750l-slitlessprism` |
 | 2026-10-03 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o008_t001_miri_p750l-slitlessprism` |
 | 2026-10-04 | ◉ public | 7953 | NIRSPEC/SLIT | `jw07953-o009_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-10-17 | ◉ public | 7953 | MIRI/SLITLESS | `jw07953-o001_t001_miri_p750l-slitlessprism` |
@@ -70,6 +70,7 @@ Star: Teff 3080.0 K, radius 0.189 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     14      8    0  ·
 2026-10-25     14      8    0  ·
 2026-10-23     14      8    0  ·
 2026-10-19     14      8   28  ●●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HD 95086  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  10
-arXiv  ▁▁▁  5
+MAST   ▁▁▁▁  10
+arXiv  ▁▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,9 +33,9 @@ NIRISS   ██████░░░░░░░░░░░░░░ 3
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1010_t001_miri_f2300c-masklyot` |
-| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1008_t001_miri_f1065c-mask1065` |
 | 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1009_t001_miri_f1140c-mask1140` |
+| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1008_t001_miri_f1065c-mask1065` |
+| 2024-03-16 | ◉ public | 1277 | MIRI/CORON | `jw01277-c1010_t001_miri_f2300c-masklyot` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/AMI | `jw01200-c1001_t002_niriss_f380m-nrm-sub80` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/IMAGE | `jw01200-o002_t002_niriss_clearp-f380m-sub80` |
 | 2024-08-03 | ◉ public | 1200 | NIRISS/IMAGE | `jw01200-c1001_t002_niriss_clearp-f380m-sub80` |
@@ -64,6 +64,7 @@ Star: Teff 7595.0 K, radius 1.48667 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     10      5    0  ·
 2026-10-25     10      5    0  ·
 2026-10-23     10      5    0  ·
 2026-10-19     10      5   21  ●●●●●●●●●●●●

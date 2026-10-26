@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   PSR J2322-2650  ·  JWST WATCH              ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  13
-arXiv  ▁▁▁  0
+MAST   ▁▁▁▁  13
+arXiv  ▁▁▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -40,10 +40,10 @@ NIRSPEC  ████████████████████ 13
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx103_00002_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx105_00004_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694002001_xx102_00001_nirspec` |
+| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694003001_xx102_00001_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx104_00003_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx102_00001_nirspec` |
 | ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694001001_xx106_00005_nirspec` |
-| ? | ? unknown | 11694 | NIRSPEC/SLIT | `jw11694003001_xx102_00001_nirspec` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -61,6 +61,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     13      0    0  ·
 2026-10-25     13      0    0  ·
 2026-10-23     13      0    0  ·
 2026-10-19     13      0   16  ●●●●●●●●●●●●

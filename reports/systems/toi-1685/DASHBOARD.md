@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-1685  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  7
-arXiv  ▁▁▁  7
+MAST   ▁▁▁▁  7
+arXiv  ▁▁▁▁  7
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,8 +32,8 @@ NIRSPEC  ██████████████░░░░░░ 5
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2025-01-16 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o004_t003_niriss_clear-gr700xd-substrip256` |
 | 2025-01-16 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o003_t003_niriss_clear-gr700xd-substrip256` |
+| 2025-01-16 | ◉ public | 4098 | NIRISS/SOSS | `jw04098-o004_t003_niriss_clear-gr700xd-substrip256` |
 | 2025-02-16 | ◉ public | 3263 | NIRSPEC/SLIT | `jw03263-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2025-02-25 | ◉ public | 4195 | NIRSPEC/SLIT | `jw04195-o003_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2025-02-28 | ◉ public | 4195 | NIRSPEC/SLIT | `jw04195-o001_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
@@ -62,6 +62,7 @@ Star: Teff 3470.0 K, radius 0.462 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      7      7    0  ·
 2026-10-25      7      7    0  ·
 2026-10-23      7      7    0  ·
 2026-10-19      7      7   20  ●●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 486  ·  JWST WATCH                      ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 13 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: TimeoutError('The read operation timed out') (showing previous data)
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  13
-arXiv  ▁▁▁  4
+MAST   ▁▁▁▁  13
+arXiv  ▁▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -59,15 +57,16 @@ Star: Teff 3317.0 K, radius 0.3243 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2306.09002`](https://arxiv.org/abs/2306.09002)  ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks
-- [`2310.02452`](https://arxiv.org/abs/2310.02452)  Extended habitability of exoplanets due to subglacial water
-- [`2406.09225`](https://arxiv.org/abs/2406.09225)  Probing atmospheric escape through metastable He I triplet lines in 15 exoplanets observed with SPIRou
 - [`2407.00165`](https://arxiv.org/abs/2407.00165)  High-energy spectra of LTT 1445A and GJ 486 reveal flares and activity
+- [`2406.09225`](https://arxiv.org/abs/2406.09225)  Probing atmospheric escape through metastable He I triplet lines in 15 exoplanets observed with SPIRou
+- [`2310.02452`](https://arxiv.org/abs/2310.02452)  Extended habitability of exoplanets due to subglacial water
+- [`2306.09002`](https://arxiv.org/abs/2306.09002)  ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     13      4    0  ·
 2026-10-25     13      4    0  ·
 2026-10-23     13      4    0  ·
 2026-10-19     13      4   23  ●●●●●●●●●●●●

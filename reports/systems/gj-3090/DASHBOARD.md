@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 3090  ·  JWST WATCH                     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
+| arxiv | ● ok | 4 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  6
-arXiv  ▁▁▁  4
+MAST   ▁▁▁▁  6
+arXiv  ▁▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -53,15 +51,16 @@ Star: Teff 3707.0 K, radius 0.516 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2207.14121`](https://arxiv.org/abs/2207.14121)  GJ 3090 b: one of the most favourable mini-Neptune for atmospheric characterisation
-- [`2503.16608`](https://arxiv.org/abs/2503.16608)  Limits on the atmospheric metallicity and aerosols of the sub-Neptune GJ 3090 b from high-resolution CRIRES+ spectroscopy
-- [`2508.12865`](https://arxiv.org/abs/2508.12865)  An empirical determination of the Cosmic Shoreline
 - [`2601.09330`](https://arxiv.org/abs/2601.09330)  NIRPS tightens the mass estimate of GJ 3090 b and detects a planet near the stellar rotation period
+- [`2508.12865`](https://arxiv.org/abs/2508.12865)  An empirical determination of the Cosmic Shoreline
+- [`2503.16608`](https://arxiv.org/abs/2503.16608)  Limits on the atmospheric metallicity and aerosols of the sub-Neptune GJ 3090 b from high-resolution CRIRES+ spectroscopy
+- [`2207.14121`](https://arxiv.org/abs/2207.14121)  GJ 3090 b: one of the most favourable mini-Neptune for atmospheric characterisation
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      6      4    0  ·
 2026-10-25      6      4    0  ·
 2026-10-23      6      4    0  ·
 2026-10-19      6      4   22  ●●●●●●●●●●●●

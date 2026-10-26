@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-15  ·  JWST WATCH                     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  1
-arXiv  ▁▁▁  0
+MAST   ▁▁▁▁  1
+arXiv  ▁▁▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -49,6 +49,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      1      0    0  ·
 2026-10-25      1      0    0  ·
 2026-10-23      1      0    0  ·
 2026-10-19      1      0    7  ●●●●●●●

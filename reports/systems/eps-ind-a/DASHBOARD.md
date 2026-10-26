@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   EPS IND A  ·  JWST WATCH                   ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,17 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● FAIL | 0 | 0 | never |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 5 | 0 | 2026-10-19 |
+| arxiv | ● ok | 5 | 0 | 2026-10-19 |
 
 > ⚠ mast failed: ResolverError('Could not resolve "eps Ind A" to a sky position.') (showing previous data)
-
-> ⚠ arxiv failed: <HTTPError 503: 'Service Unavailable'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  0
-arXiv  ▁▁▁  5
+MAST   ▁▁▁▁  0
+arXiv  ▁▁▁▁  5
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -35,16 +33,17 @@ Star: Teff 4700.0 K, radius 0.713 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`1008.2200`](https://arxiv.org/abs/1008.2200)  Discovery of a Highly Unequal-Mass Binary T Dwarf with Keck Laser Guide Star Adaptive Optics: A Coevality Test of Substellar Theoretical Models and Effective Temperatures
-- [`1807.09880`](https://arxiv.org/abs/1807.09880)  Dynamical Masses of Eps Ind B and C: Two Massive Brown Dwarfs at the Edge of the Stellar-Substellar Boundary
-- [`2503.01599`](https://arxiv.org/abs/2503.01599)  A temperate super-Jupiter imaged with JWST in the mid-infrared
-- [`2603.08780`](https://arxiv.org/abs/2603.08780)  A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest super-Jupiter
 - [`2604.23448`](https://arxiv.org/abs/2604.23448)  Direct Imaging Constraints on Binary Planets and Exomoons around Epsilon Indi A b
+- [`2603.08780`](https://arxiv.org/abs/2603.08780)  A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest super-Jupiter
+- [`2503.01599`](https://arxiv.org/abs/2503.01599)  A temperate super-Jupiter imaged with JWST in the mid-infrared
+- [`1807.09880`](https://arxiv.org/abs/1807.09880)  Dynamical Masses of Eps Ind B and C: Two Massive Brown Dwarfs at the Edge of the Stellar-Substellar Boundary
+- [`1008.2200`](https://arxiv.org/abs/1008.2200)  Discovery of a Highly Unequal-Mass Binary T Dwarf with Keck Laser Guide Star Adaptive Optics: A Coevality Test of Substellar Theoretical Models and Effective Temperatures
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      0      5    0  ·
 2026-10-25      0      5    0  ·
 2026-10-23      0      5    0  ·
 2026-10-19      0      5   11  ●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   AF LEP  ·  JWST WATCH                      ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 14 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 13 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 13 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  14
-arXiv  ▁▁▁  13
+MAST   ▁▁▁▁  14
+arXiv  ▁▁▁▁  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,9 +35,9 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 | 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f200w-maskrnd-sub320a335r` |
 | 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f356w-maskrnd-sub320a335r` |
+| 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f356w-maskrnd-sub320a335r` |
 | 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f200w-maskrnd-sub320a335r` |
-| 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2024-01-15 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1008_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2024-01-15 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1008_t001_nircam_f356w-maskrnd-sub320a335r` |
 | 2024-01-15 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1008_t001_nircam_f200w-maskrnd-sub320a335r` |
@@ -59,19 +57,20 @@ Star: Teff 6140.0 K, radius 1.25 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2302.06332`](https://arxiv.org/abs/2302.06332)  Direct imaging discovery of a super-Jovian around the young Sun-like star AF Leporis
-- [`2309.02488`](https://arxiv.org/abs/2309.02488)  ELemental abundances of Planets and brown dwarfs Imaged around Stars (ELPIS): I. Potential Metal Enrichment of the Exoplanet AF Lep b and a Novel Retrieval Approach for Cloudy Self-luminous Atmospheres
-- [`2310.00088`](https://arxiv.org/abs/2310.00088)  Early Accretion of Large Amounts of Solids for Directly-Imaged Exoplanets
-- [`2401.05491`](https://arxiv.org/abs/2401.05491)  Atmospheric properties of AF Lep b with forward modeling
-- [`2406.01809`](https://arxiv.org/abs/2406.01809)  Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011
-- [`2406.09528`](https://arxiv.org/abs/2406.09528)  JWST/NIRCam 4-5 $μ$m Imaging of the Giant Planet AF Lep b
-- [`2409.03485`](https://arxiv.org/abs/2409.03485)  ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations
+- [`2608.15912`](https://arxiv.org/abs/2608.15912)  A High-Resolution Spectroscopic Survey of Directly Imaged Companion Hosts: III. Characterization of the Cold Imaged Planet Hosts AF Lep A and $ε$ Indi A
+- [`2608.10068`](https://arxiv.org/abs/2608.10068)  A Sulfur-Rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion
+- [`2605.01012`](https://arxiv.org/abs/2605.01012)  Chemistry and Isotope Ratios of Substellar Atmospheres in the $β$ Pictoris Young Moving Group and Vicinity
+- [`2502.19961`](https://arxiv.org/abs/2502.19961)  High-contrast spectroscopy with the new VLT/ERIS instrument: Molecular maps and radial velocity of the gas giant AF Lep b
+- [`2502.19558`](https://arxiv.org/abs/2502.19558)  Characterization of AF Lep b at high spectral resolution with VLT/HiRISE
 - [`2411.05917`](https://arxiv.org/abs/2411.05917)  VLTI/GRAVITY Observations of AF Lep b: Preference for Circular Orbits, Cloudy Atmospheres, and a Moderately Enhanced Metallicity
+- [`2409.03485`](https://arxiv.org/abs/2409.03485)  ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations
+- [`2406.09528`](https://arxiv.org/abs/2406.09528)  JWST/NIRCam 4-5 $μ$m Imaging of the Giant Planet AF Lep b
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     14     13    0  ·
 2026-10-25     14     13    0  ·
 2026-10-23     14     13    0  ·
 2026-10-19     14     13   33  ●●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-421  ·  JWST WATCH                     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  10
-arXiv  ▁▁▁  7
+MAST   ▁▁▁▁  10
+arXiv  ▁▁▁▁  7
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,16 +32,16 @@ NIRSPEC  ██████████░░░░░░░░░░ 5
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935002001_04102_00001-seg002_nrs2` |
 | 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935002001_04102_00001-seg001_nrs2` |
-| 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935-o002_t003_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935002001_04102_00001-seg003_nrs2` |
+| 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935002001_04102_00001-seg002_nrs2` |
+| 2024-09-10 | ◉ public | 1935 | NIRSPEC/SLIT | `jw01935-o002_t003_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-11-06 | ◉ public | 1935 | NIRISS/SOSS | `jw01935001001_04102_00001-seg001_nis` |
 | 2024-11-08 | ◉ public | 1935 | NIRISS/SOSS | `jw01935-o001_t003_niriss_clear-gr700xd-substrip96` |
-| ? | ? unknown | 11672 | NIRISS/IMAGE | `jw11672001001_xx103_00001_niriss` |
 | ? | ? unknown | 11672 | NIRSPEC/SLIT | `jw11672002001_xx102_00001_nirspec` |
-| ? | ? unknown | 11672 | NIRISS/IMAGE | `jw11672001001_xx104_00001_niriss` |
 | ? | ? unknown | 11672 | NIRISS/IMAGE | `jw11672001001_xx102_00001_niriss` |
+| ? | ? unknown | 11672 | NIRISS/IMAGE | `jw11672001001_xx104_00001_niriss` |
+| ? | ? unknown | 11672 | NIRISS/IMAGE | `jw11672001001_xx103_00001_niriss` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -66,6 +66,7 @@ Star: Teff 5291.0 K, radius 0.866 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     10      7    0  ·
 2026-10-25     10      7    0  ·
 2026-10-23     10      7    0  ·
 2026-10-19     10      7   29  ●●●●●●●●●●●●

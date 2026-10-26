@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-30  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  5
-arXiv  ▁▁▁  3
+MAST   ▁▁▁▁  5
+arXiv  ▁▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,9 +33,9 @@ NIRSPEC  ████████░░░░░░░░░░░░ 2
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2025-03-11 | ◉ public | 3838 | NIRSPEC/SLIT | `jw03838-o005_t005_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2025-03-31 | ◉ public | 5924 | NIRISS/SOSS | `jw05924006001_04101_00001-seg001_nis` |
 | 2025-03-31 | ◉ public | 5924 | NIRISS/SOSS | `jw05924006001_04103_00001-seg001_nis` |
 | 2025-03-31 | ◉ public | 5924 | NIRISS/SOSS | `jw05924-o006_t006_niriss_clear-gr700xd-substrip256` |
+| 2025-03-31 | ◉ public | 5924 | NIRISS/SOSS | `jw05924006001_04101_00001-seg001_nis` |
 | ? | ? unknown | 10786 | NIRSPEC/SLIT | `jw10786005001_xx101_00001_nirspec` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -56,6 +56,7 @@ Star: Teff 6304.0 K, radius 1.31 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      5      3    0  ·
 2026-10-25      5      3    0  ·
 2026-10-23      5      3    0  ·
 2026-10-19      5      3   14  ●●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TYC 8998-760-1  ·  JWST WATCH              ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  25
-arXiv  ▁▁▁  2
+MAST   ▁▁▁▁  25
+arXiv  ▁▁▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,27 +34,27 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 8
 |---|---|---|---|---|
 | 2024-04-25 | ◉ public | 2044 | MIRI/SLIT | `jw02044-o005_t002_miri_p750l` |
 | 2024-04-26 | ◉ public | 2044 | MIRI/SLIT | `jw02044-o006_t003_miri_p750l` |
-| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00002_nrs2` |
 | 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044-o001_t004_nirspec_prism-clear` |
 | 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044-o001_t004_nirspec_g395h-f290lp` |
-| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00001_nrs2` |
-| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00003_nrs2` |
+| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00002_nrs2` |
 | 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00004_nrs2` |
+| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00003_nrs2` |
+| 2024-06-19 | ◉ public | 2044 | NIRSPEC/IFU | `jw02044001001_02103_00001_nrs2` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch4-medium` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch2-short` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IMAGE | `jw07538-o005_t008_miri_f770w` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch3-medium` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IMAGE | `jw07538-o005_t008_miri_f1000w` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch4-short` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IMAGE | `jw07538-o005_t008_miri_f770w` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch2-medium` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch2-short` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch1-medium` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch3-medium` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch3-short` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch1-short` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch1-medium` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch2-long` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch4-long` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch1-long` |
-| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch3-long` |
 | 2027-06-05 | ○ proprietary | 7538 | MIRI/IMAGE | `jw07538-o005_t008_miri_f560w` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch2-long` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch1-long` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch4-long` |
+| 2027-06-05 | ○ proprietary | 7538 | MIRI/IFU | `jw07538-o005_t008_miri_ch3-long` |
 | 2027-06-12 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o009_t005_nirspec_g140h-f100lp` |
 | 2027-06-12 | ○ proprietary | 8063 | NIRSPEC/IFU | `jw08063-o010_t005_nirspec_g140h-f100lp` |
 
@@ -76,6 +76,7 @@ Star: Teff 4573.0 K, radius 1.02 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     25      2    0  ·
 2026-10-25     25      2    0  ·
 2026-10-23     25      2    0  ·
 2026-10-19     25      2   39  ●●●●●●●●●●●●

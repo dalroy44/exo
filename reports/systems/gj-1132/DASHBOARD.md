@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 1132  ·  JWST WATCH                     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 10 | 0 | 2026-10-19 |
 | archive | ● ok | 2 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 14 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
+| arxiv | ● ok | 14 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  10
-arXiv  ▁▁▁  14
+MAST   ▁▁▁▁  10
+arXiv  ▁▁▁▁  14
 ```
 
 ## ▌ JWST coverage by instrument
@@ -36,12 +34,12 @@ NIRSPEC  ████████████████░░░░ 8
 |---|---|---|---|---|
 | 2023-02-26 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o022_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2023-03-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o021_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o023_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981023001_04102_00001-seg001_nrs2` |
 | 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981023001_04102_00001-seg002_nrs2` |
-| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o024_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
-| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg001_nrs2` |
+| 2024-02-09 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o023_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg002_nrs2` |
+| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981024001_04102_00001-seg001_nrs2` |
+| 2024-06-05 | ◉ public | 1981 | NIRSPEC/SLIT | `jw01981-o024_t002_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2024-07-02 | ◉ public | 1274 | MIRI/SLITLESS | `jw01274-o012_t008_miri_p750l-slitlessprism` |
 | 2024-07-02 | ◉ public | 1274 | MIRI/SLITLESS | `jw01274-o013_t008_miri_p750l-slitlessprism` |
 
@@ -56,19 +54,20 @@ Star: Teff 3229.0 K, radius 0.2211 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`1607.03906`](https://arxiv.org/abs/1607.03906)  Predictions of the atmospheric composition of GJ 1132b
-- [`1905.02560`](https://arxiv.org/abs/1905.02560)  Detectability of atmospheric features of Earth-like planets in the habitable zone around M dwarfs
-- [`1906.04274`](https://arxiv.org/abs/1906.04274)  Lyman-alpha in the GJ 1132 System: Stellar Emission and Planetary Atmospheric Evolution
-- [`2103.05657`](https://arxiv.org/abs/2103.05657)  Detection of an Atmosphere on a Rocky Exoplanet
-- [`2104.01873`](https://arxiv.org/abs/2104.01873)  ARES V: No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b
-- [`2105.10487`](https://arxiv.org/abs/2105.10487)  The Featureless HST/WFC3 Transmission Spectrum of the Rocky Exoplanet GJ 1132b: No Evidence For A Cloud-Free Primordial Atmosphere and Constraints on Starspot Contamination
-- [`2107.13097`](https://arxiv.org/abs/2107.13097)  Detectable Abundance of Cyanoacetylene (HC$_3$N) Predicted on Reduced Nitrogen-Rich Super-Earth Atmospheres
+- [`2608.24803`](https://arxiv.org/abs/2608.24803)  Atmospheric Retrieval of Combined JWST, HST, and Ground-Based Observations Reveals a Featureless Transmission Spectrum for GJ 1132 b
+- [`2606.20249`](https://arxiv.org/abs/2606.20249)  Geophysical and atmospheric implications of $f$O$_{2}$-dependent melting on rocky exoplanets
+- [`2605.03939`](https://arxiv.org/abs/2605.03939)  The Range of Cumulative XUV Flux on GJ 1132 b
+- [`2508.10579`](https://arxiv.org/abs/2508.10579)  Additional JWST/NIRSpec Transits of the Rocky M Dwarf Exoplanet GJ 1132 b Reveal a Featureless Spectrum
+- [`2502.19932`](https://arxiv.org/abs/2502.19932)  Exploring the atmosphere of GJ 1132 b with CRIRES+
+- [`2310.10711`](https://arxiv.org/abs/2310.10711)  Double Trouble: Two Transits of the Super-Earth GJ 1132 b Observed with JWST NIRSpec G395H
 - [`2112.05059`](https://arxiv.org/abs/2112.05059)  HyDRo: Atmospheric Retrieval of Rocky Exoplanets in Thermal Emission
+- [`2107.13097`](https://arxiv.org/abs/2107.13097)  Detectable Abundance of Cyanoacetylene (HC$_3$N) Predicted on Reduced Nitrogen-Rich Super-Earth Atmospheres
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     10     14    0  ·
 2026-10-25     10     14    0  ·
 2026-10-23     10     14    0  ·
 2026-10-19     10     14   36  ●●●●●●●●●●●●

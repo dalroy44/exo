@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LP 791-18  ·  JWST WATCH                   ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  32
-arXiv  ▁▁▁  6
+MAST   ▁▁▁▁  32
+arXiv  ▁▁▁▁  6
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,38 +32,38 @@ NIRSPEC  ██░░░░░░░░░░░░░░░░░░ 3
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-06-18 | ◉ public | 1201 | NIRSPEC/SLIT | `jw01201401001_04101_00001-seg001_nrs2` |
 | 2024-06-18 | ◉ public | 1201 | NIRSPEC/SLIT | `jw01201401001_04101_00001-seg002_nrs2` |
 | 2024-06-18 | ◉ public | 1201 | NIRSPEC/SLIT | `jw01201-o401_t021_nirspec_clear-prism-s1600a1-sub512` |
+| 2024-06-18 | ◉ public | 1201 | NIRSPEC/SLIT | `jw01201401001_04101_00001-seg001_nrs2` |
 | 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg001_mirimage` |
 | 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg005_mirimage` |
+| 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg004_mirimage` |
 | 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg002_mirimage` |
 | 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg003_mirimage` |
-| 2026-01-28 | ◉ public | 6457 | MIRI/IMAGE | `jw06457004001_03101_00001-seg004_mirimage` |
 | 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg001_mirimage` |
-| 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg002_mirimage` |
-| 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg004_mirimage` |
 | 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg005_mirimage` |
+| 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg004_mirimage` |
+| 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg002_mirimage` |
 | 2026-05-21 | ◉ public | 6457 | MIRI/IMAGE | `jw06457002001_03101_00001-seg003_mirimage` |
 | 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg001_mirimage` |
+| 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg005_mirimage` |
 | 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg004_mirimage` |
 | 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg002_mirimage` |
 | 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg003_mirimage` |
-| 2026-06-01 | ◉ public | 6457 | MIRI/IMAGE | `jw06457001001_03101_00001-seg005_mirimage` |
 | 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg002_mirimage` |
 | 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg005_mirimage` |
+| 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg004_mirimage` |
 | 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg001_mirimage` |
 | 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg003_mirimage` |
-| 2026-06-13 | ◉ public | 6457 | MIRI/IMAGE | `jw06457005001_03101_00001-seg004_mirimage` |
 | 2026-06-18 | ◉ public | 6457 | MIRI/IMAGE | `jw06457003001_03101_00001-seg005_mirimage` |
 | 2026-06-18 | ◉ public | 6457 | MIRI/IMAGE | `jw06457003001_03101_00001-seg001_mirimage` |
 | 2026-06-18 | ◉ public | 6457 | MIRI/IMAGE | `jw06457003001_03101_00001-seg004_mirimage` |
 | 2026-06-18 | ◉ public | 6457 | MIRI/IMAGE | `jw06457003001_03101_00001-seg003_mirimage` |
 | 2026-06-18 | ◉ public | 6457 | MIRI/IMAGE | `jw06457003001_03101_00001-seg002_mirimage` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157003001_xx103_00001_miri` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157001001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157003001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157001001_xx103_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157001001_xx102_00001_miri` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -88,6 +88,7 @@ Star: Teff 2960.0 K, radius 0.182 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     32      6    0  ·
 2026-10-25     32      6    0  ·
 2026-10-23     32      6    0  ·
 2026-10-19     32      6   56  ●●●●●●●●●●●●

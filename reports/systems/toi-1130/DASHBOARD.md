@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   TOI-1130  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  4
-arXiv  ▁▁▁  3
+MAST   ▁▁▁▁  4
+arXiv  ▁▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -56,6 +56,7 @@ Star: Teff 4360.0 K, radius 0.697 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      4      3    0  ·
 2026-10-25      4      3    0  ·
 2026-10-23      4      3    0  ·
 2026-10-19      4      3   19  ●●●●●●●●●●●●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 1214  ·  JWST WATCH                     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,15 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 4 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● FAIL | 25 | 0 | 2026-10-19 |
-
-> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
+| arxiv | ● ok | 25 | 0 | 2026-10-19 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  4
-arXiv  ▁▁▁  25
+MAST   ▁▁▁▁  4
+arXiv  ▁▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -49,19 +47,20 @@ Star: Teff 3101.0 K, radius 0.2162 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2004.04160`](https://arxiv.org/abs/2004.04160)  Molecular Cross Sections for High Resolution Spectroscopy of Super Earths, Warm Neptunes and Hot Jupiters
-- [`2110.00403`](https://arxiv.org/abs/2110.00403)  Cross-sections for heavy atmospheres: H$_2$O continuum
-- [`2201.11120`](https://arxiv.org/abs/2201.11120)  A tentative detection of He I in the atmosphere of GJ 1214b
-- [`2207.14121`](https://arxiv.org/abs/2207.14121)  GJ 3090 b: one of the most favourable mini-Neptune for atmospheric characterisation
-- [`2302.09576`](https://arxiv.org/abs/2302.09576)  The Effect of Metallicity on the Non-Equilibrium Abundance of Hydrogen Dominated Exoplanet Atmosphere
-- [`2304.03839`](https://arxiv.org/abs/2304.03839)  Characterisation of the upper atmospheres of HAT-P-32 b, WASP-69 b, GJ 1214 b, and WASP-76 b through their He I triplet absorption
-- [`2304.07792`](https://arxiv.org/abs/2304.07792)  Observing atmospheric escape in sub-Jovian worlds with JWST
-- [`2305.05697`](https://arxiv.org/abs/2305.05697)  The Hazy and Metal-Rich Atmosphere of GJ 1214 b Constrained by Near and Mid-Infrared Transmission Spectroscopy
+- [`2609.35721`](https://arxiv.org/abs/2609.35721)  Correcting stellar contamination in transmission spectroscopy with contemporaneous monitoring: Application to GJ 1214 b
+- [`2608.19100`](https://arxiv.org/abs/2608.19100)  Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes
+- [`2605.27353`](https://arxiv.org/abs/2605.27353)  Impact of Clouds on the Atmosphere-Mantle Interface of Sub-Neptunes
+- [`2604.15292`](https://arxiv.org/abs/2604.15292)  Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy
+- [`2602.14343`](https://arxiv.org/abs/2602.14343)  Atmospheric constraints on GJ 1214 b from CRIRES+ and prospects for characterisation with ANDES
+- [`2601.00059`](https://arxiv.org/abs/2601.00059)  Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain
+- [`2509.06708`](https://arxiv.org/abs/2509.06708)  Fractal Aggregate Aerosols in the Virga Cloud Code I: Model Description and Application to a Benchmark Cloudy Exoplanet
+- [`2508.15117`](https://arxiv.org/abs/2508.15117)  Carbon-rich Sub-Neptune Interiors Are Compatible with JWST Observations
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      4     25    0  ·
 2026-10-25      4     25    0  ·
 2026-10-23      4     25    0  ·
 2026-10-19      4     25   35  ●●●●●●●●●●●●

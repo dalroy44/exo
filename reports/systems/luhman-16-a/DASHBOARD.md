@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LUHMAN 16 A  ·  JWST WATCH                 ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -19,8 +19,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  0
-arXiv  ▁▁▁  4
+MAST   ▁▁▁▁  0
+arXiv  ▁▁▁▁  4
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -42,6 +42,7 @@ Star: Teff None K, radius None R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      0      4    0  ·
 2026-10-25      0      4    0  ·
 2026-10-23      0      4    0  ·
 2026-10-19      0      4    7  ●●●●●●●

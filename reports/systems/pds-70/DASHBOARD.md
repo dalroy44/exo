@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   PDS 70  ·  JWST WATCH                      ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  68
-arXiv  ▁▁▁  25
+MAST   ▁▁▁▁  68
+arXiv  ▁▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,31 +34,30 @@ NIRSPEC  ███░░░░░░░░░░░░░░░░░ 9
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-02-25 | ◉ public | 1242 | NIRISS/IMAGE | `jw01242-c1002_t001_niriss_clearp-f430m-sub80` |
 | 2024-02-25 | ◉ public | 1242 | NIRISS/IMAGE | `jw01242-c1002_t001_niriss_clearp-f480m-sub80` |
 | 2024-02-25 | ◉ public | 1242 | NIRISS/IMAGE | `jw01242-c1002_t001_niriss_clearp-f380m-sub80` |
+| 2024-02-25 | ◉ public | 1242 | NIRISS/IMAGE | `jw01242-c1003_t001_niriss_clearp-f277w-sub80` |
 | 2024-03-08 | ◉ public | 1282 | NIRCAM/IMAGE | `jw01282-o071_t059_nircam_clear-f187n-sub64p` |
 | 2024-03-08 | ◉ public | 1282 | NIRCAM/IMAGE | `jw01282-o071_t059_nircam_clear-f480m-sub64p` |
 | 2024-03-08 | ◉ public | 1282 | NIRCAM/IMAGE | `jw01282-o070_t059_nircam_clear-f187n-sub64p` |
 | 2024-03-08 | ◉ public | 1282 | NIRCAM/IMAGE | `jw01282-o070_t059_nircam_clear-f480m-sub64p` |
-| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00003_nrs1` |
-| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00004_nrs1` |
-| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00002_nrs1` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00001_nrs1` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00001_nrs2` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282-o067_t059_nirspec_g395h-f290lp` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00004_nrs2` |
+| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00003_nrs1` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00002_nrs2` |
 | 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00003_nrs2` |
+| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00004_nrs1` |
+| 2024-07-15 | ◉ public | 1282 | NIRSPEC/IFU | `jw01282067001_03101_00002_nrs1` |
+| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_f405n-f444w-sub160p` |
+| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f187n-sub160p` |
 | 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o018_t005_nircam_clear-f187n-sub160p` |
+| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f410m-sub160p` |
+| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f200w-sub160p` |
 | 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o018_t005_nircam_f405n-f444w-sub160p` |
 | 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o018_t005_nircam_clear-f410m-sub160p` |
 | 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o018_t005_nircam_clear-f200w-sub160p` |
-| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_f405n-f444w-sub160p` |
-| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f187n-sub160p` |
-| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f410m-sub160p` |
-| 2024-07-22 | ◉ public | 1179 | NIRCAM/IMAGE | `jw01179-o019_t005_nircam_clear-f200w-sub160p` |
-| ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx101_00001_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx108_00004_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864002001_xx102_00002_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx102_00002_miri` |
@@ -68,6 +67,7 @@ NIRSPEC  ███░░░░░░░░░░░░░░░░░ 9
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864002001_xx103_00003_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx107_00003_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx103_00003_miri` |
+| ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx101_00001_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864002001_xx106_00002_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864002001_xx108_00004_miri` |
 | ? | ? unknown | 11864 | MIRI/IMAGE | `jw11864003001_xx104_00004_miri` |
@@ -101,6 +101,7 @@ Star: Teff 4109.0 K, radius 1.26 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     68     25    0  ·
 2026-10-25     68     25    0  ·
 2026-10-23     68     25    0  ·
 2026-10-19     68     25  105  ●●●●●●●●●●●●

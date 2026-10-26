@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   VHS J125601.92-125723.9  ·  JWST WATCH     ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  87
-arXiv  ▁▁▁  4
+MAST   ▁▁▁▁  87
+arXiv  ▁▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,21 +32,6 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 24
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03103_00001-seg001_mirifulong` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375014001_03101_00001-seg001_nrs2` |
-| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03103_00001-seg001_mirifushort` |
-| 2024-07-06 | ◉ public | 3375 | MIRI/TARGACQ | `jw03375012001_02101_00001-seg001_mirimage` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o011_t001_nirspec_clear-prism-s1600a1-sub2048` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o014_t001_nirspec_clear-prism-s1600a1-sub2048` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375020001_03101_00001-seg001_nrs2` |
-| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375015001_03104_00001-seg001_mirifushort` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o010_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375006001_03104_00001-seg001_mirifushort` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375008001_03101_00001-seg001_nrs2` |
-| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03102_00001-seg001_mirifulong` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o008_t001_nirspec_clear-prism-s1600a1-sub2048` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375017001_03101_00001-seg001_nrs2` |
-| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o004_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375011001_03101_00001-seg001_nrs2` |
 | 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o007_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375012001_03102_00001-seg001_mirifulong` |
@@ -58,6 +43,21 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 24
 | 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375006001_03103_00001-seg001_mirifushort` |
 | 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o016_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03104_00001-seg001_mirifulong` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03103_00001-seg001_mirifushort` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o005_t001_nirspec_clear-prism-s1600a1-sub2048` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o014_t001_nirspec_clear-prism-s1600a1-sub2048` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375020001_03101_00001-seg001_nrs2` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375015001_03104_00001-seg001_mirifushort` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o010_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375006001_03104_00001-seg001_mirifushort` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375008001_03101_00001-seg001_nrs2` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o019_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/TARGACQ | `jw03375006001_02101_00001-seg001_mirimage` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375015001_03104_00001-seg001_mirifulong` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375012001_03104_00001-seg001_mirifushort` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/IFU | `jw03375009001_03102_00001-seg001_mirifushort` |
+| 2024-07-06 | ◉ public | 3375 | MIRI/TARGACQ | `jw03375012001_02101_00001-seg001_mirimage` |
+| 2024-07-06 | ◉ public | 3375 | NIRSPEC/SLIT | `jw03375-o011_t001_nirspec_clear-prism-s1600a1-sub2048` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375018001_03103_00001-seg001_mirifushort` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03103_00001-seg001_mirifushort` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375018001_03102_00001-seg001_mirifushort` |
@@ -66,12 +66,12 @@ NIRSPEC  ██████░░░░░░░░░░░░░░ 24
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375018001_03104_00001-seg001_mirifulong` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03104_00001-seg001_mirifulong` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/TARGACQ | `jw03375018001_02101_00001-seg001_mirimage` |
-| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03102_00001-seg001_mirifushort` |
-| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03103_00001-seg001_mirifulong` |
-| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03102_00001-seg001_mirifulong` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375018001_03103_00001-seg001_mirifulong` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03104_00001-seg001_mirifushort` |
 | 2024-07-09 | ◉ public | 3375 | MIRI/TARGACQ | `jw03375021001_02101_00001-seg001_mirimage` |
+| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03102_00001-seg001_mirifushort` |
+| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03103_00001-seg001_mirifulong` |
+| 2024-07-09 | ◉ public | 3375 | MIRI/IFU | `jw03375021001_03102_00001-seg001_mirifulong` |
 
 _Showing the 40 latest of 87; full list in `state.json`._
 
@@ -94,6 +94,7 @@ Star: Teff 2620.0 K, radius None R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26     87      4    0  ·
 2026-10-25     87      4    0  ·
 2026-10-23     87      4    0  ·
 2026-10-19     87      4   96  ●●●●●●●●●●●●

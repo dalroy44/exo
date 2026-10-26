@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LTT 9779  ·  JWST WATCH                    ║
-║   checked 2026-10-25   ·   3 run-days logged ║
+║   checked 2026-10-26   ·   4 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 3 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 13 | 1 | 2026-10-25 |
+| arxiv | ● ok | 13 | 0 | 2026-10-25 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁  3
-arXiv  ▁▁█  13
+MAST   ▁▁▁▁  3
+arXiv  ▁▁██  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -59,6 +59,7 @@ Star: Teff 5443.0 K, radius 0.949 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-10-26      3     13    0  ·
 2026-10-25      3     13    1  ●
 2026-10-23      3     12    0  ·
 2026-10-19      3     12   21  ●●●●●●●●●●●●
