@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   JWST EXOPLANET WATCH  ·  ALL SYSTEMS       ║
-║   checked 2026-10-26                         ║
+║   checked 2026-11-02                         ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -9,14 +9,14 @@
 
 | systems | planets | JWST observations | papers | systems with news |
 |---:|---:|---:|---:|---:|
-| 88 | 145 | 2653 | 787 | 1 |
+| 88 | 145 | 2650 | 787 | 0 |
 
 ## ▌ Trend (per run-day)
 
 ```
-JWST obs  ▁▁██  2653
-papers    ▁▁▅█  787
-news      █▁▁▁  1
+JWST obs  ▁▁██▅  2650
+papers    ▁▁▅██  787
+news      █▁▁▁▁  0
 ```
 
 ## ▌ Most JWST data
@@ -43,7 +43,6 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 
 | system | planets | JWST obs | papers | new this run | last change |
 |---|---:|---:|---:|---:|---|
-| [V1298 Tau](systems/v1298-tau/DASHBOARD.md) | 4 | 20 | 21 | 1 | 2026-10-26 |
 | [14 Her](systems/14-her/DASHBOARD.md) | 2 | 2 | 2 | · | 2026-10-19 |
 | [2MASS J01033563-5515561 A](systems/2mass-j01033563-5515561-a/DASHBOARD.md) | 1 | 0 | 1 | · ⚠ | 2026-10-19 |
 | [2MASS J12073346-3932539](systems/2mass-j12073346-3932539/DASHBOARD.md) | 1 | 118 | 1 | · | 2026-10-19 |
@@ -74,7 +73,7 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 | [HD 149026](systems/hd-149026/DASHBOARD.md) | 1 | 29 | 5 | · | 2026-10-19 |
 | [HD 15337](systems/hd-15337/DASHBOARD.md) | 2 | 3 | 3 | · | 2026-10-19 |
 | [HD 189733](systems/hd-189733/DASHBOARD.md) | 1 | 173 | 25 | · | 2026-10-19 |
-| [HD 209458](systems/hd-209458/DASHBOARD.md) | 1 | 39 | 25 | · | 2026-10-19 |
+| [HD 209458](systems/hd-209458/DASHBOARD.md) | 1 | 36 | 25 | · | 2026-10-19 |
 | [HD 80606](systems/hd-80606/DASHBOARD.md) | 1 | 2 | 9 | · | 2026-10-19 |
 | [HD 95086](systems/hd-95086/DASHBOARD.md) | 1 | 10 | 5 | · | 2026-10-19 |
 | [HIP 65426](systems/hip-65426/DASHBOARD.md) | 1 | 15 | 12 | · | 2026-10-19 |
@@ -114,6 +113,7 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 | [TRAPPIST-1](systems/trappist-1/DASHBOARD.md) | 7 | 393 | 25 | · | 2026-10-23 |
 | [TrES-4](systems/tres-4/DASHBOARD.md) | 1 | 1 | 7 | · | 2026-10-19 |
 | [TYC 8998-760-1](systems/tyc-8998-760-1/DASHBOARD.md) | 2 | 25 | 2 | · | 2026-10-19 |
+| [V1298 Tau](systems/v1298-tau/DASHBOARD.md) | 4 | 20 | 21 | · | 2026-10-26 |
 | [VHS J125601.92-125723.9](systems/vhs-j125601-92-125723-9/DASHBOARD.md) | 1 | 87 | 4 | · | 2026-10-19 |
 | [WASP-107](systems/wasp-107/DASHBOARD.md) | 2 | 31 | 23 | · | 2026-10-19 |
 | [WASP-121](systems/wasp-121/DASHBOARD.md) | 1 | 4 | 25 | · | 2026-10-23 |
@@ -136,6 +136,7 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 
 ```
 date         systems   obs  papers  news
+2026-11-02       88  2650     787     0
 2026-10-26       88  2653     787     1
 2026-10-25       88  2653     786     2
 2026-10-23       88  2645     785     2

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-18  ·  JWST WATCH                    ║
-║   checked 2026-10-26   ·   4 run-days logged ║
+║   checked 2026-11-02   ·   5 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁  6
-arXiv  ▁▁▁▁  10
+MAST   ▁▁▁▁▁  6
+arXiv  ▁▁▁▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -63,6 +63,7 @@ Star: Teff 4870.0 K, radius 0.717 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-02      6     10    0  ·
 2026-10-26      6     10    0  ·
 2026-10-25      6     10    0  ·
 2026-10-23      6     10    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HR 2562  ·  JWST WATCH                     ║
-║   checked 2026-10-26   ·   4 run-days logged ║
+║   checked 2026-11-02   ·   5 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁  11
-arXiv  ▁▁▁▁  4
+MAST   ▁▁▁▁▁  11
+arXiv  ▁▁▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -37,11 +37,11 @@ NIRSPEC  ███████░░░░░░░░░░░░░ 4
 | 2024-03-12 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1024_t007_miri_f1065c-mask1065` |
 | 2024-03-12 | ◉ public | 1241 | MIRI/CORON | `jw01241-c1026_t007_miri_f1550c-mask1550` |
 | 2026-10-13 | ◉ public | 6905 | NIRCAM/IMAGE | `jw06905-c1011_t004_nircam_f210m-maskbar-sub400x256alwb` |
-| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f430m-maskbar-sub400x256alwb` |
-| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f460m-maskbar-sub400x256alwb` |
 | 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f410m-maskbar-sub400x256alwb` |
-| 2026-10-17 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o013_t007_nirspec_g140h-f100lp` |
+| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f460m-maskbar-sub400x256alwb` |
+| 2026-10-13 | ◉ public | 6905 | NIRCAM/CORON | `jw06905-c1011_t004_nircam_f430m-maskbar-sub400x256alwb` |
 | 2026-10-17 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o013_t007_nirspec_g395h-f290lp` |
+| 2026-10-17 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o013_t007_nirspec_g140h-f100lp` |
 | 2026-10-18 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o014_t007_nirspec_g395h-f290lp` |
 | 2026-10-18 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o014_t007_nirspec_g140h-f100lp` |
 
@@ -64,6 +64,7 @@ Star: Teff 6597.0 K, radius 1.334 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-02     11      4    0  ·
 2026-10-26     11      4    0  ·
 2026-10-25     11      4    0  ·
 2026-10-23     11      4    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LTT 1445 A  ·  JWST WATCH                  ║
-║   checked 2026-10-26   ·   4 run-days logged ║
+║   checked 2026-11-02   ·   5 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁  48
-arXiv  ▁▁▁▁  10
+MAST   ▁▁▁▁▁  48
+arXiv  ▁▁▁▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -61,11 +61,11 @@ NIRSPEC  ██░░░░░░░░░░░░░░░░░░ 6
 | 2026-09-04 | ◉ public | 12758 | MIRI/IMAGE | `jw12758001001_03101_00001-seg001_mirimage` |
 | 2026-09-04 | ◉ public | 12758 | MIRI/IMAGE | `jw12758001001_03101_00001-seg002_mirimage` |
 | 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00003-seg001_mirimage` |
+| 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00002-seg001_mirimage` |
 | 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00003-seg002_mirimage` |
 | 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00002-seg002_mirimage` |
 | 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00001-seg002_mirimage` |
 | 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00001-seg001_mirimage` |
-| 2026-09-20 | ◉ public | 9234 | MIRI/IMAGE | `jw09234002001_03101_00002-seg001_mirimage` |
 | ? | ? unknown | 7251 | NIRCAM/IMAGE | `jw07251001001_xx102_00001_nircam` |
 | ? | ? unknown | 7251 | NIRCAM/IMAGE | `jw07251006001_xx102_00001_nircam` |
 | ? | ? unknown | 7251 | NIRCAM/IMAGE | `jw07251005001_xx102_00001_nircam` |
@@ -101,6 +101,7 @@ Star: Teff 3562.0 K, radius 0.271 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-02     48     10    0  ·
 2026-10-26     48     10    0  ·
 2026-10-25     48     10    0  ·
 2026-10-23     48     10    0  ·
