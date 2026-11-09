@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-39  ·  JWST WATCH                     ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  24
-arXiv  ▁▁▁▁▁  25
+MAST   ▁▁▁▁▁▁  24
+arXiv  ▁▁▁▁▁▁  25
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,9 +34,9 @@ NIRSPEC  ███████████░░░░░░░░░ 13
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o004_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2022-07-14 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742047001_02101_00001_nrs2` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg004_nrs2` |
+| 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366-o004_t001_nirspec_clear-prism-s1600a1-sub512` |
 | 2022-07-14 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742047001_02101_00001_nrs1` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg003_nrs2` |
 | 2022-07-14 | ◉ public | 1366 | NIRSPEC/SLIT | `jw01366004001_04101_00001-seg001_nrs2` |
@@ -82,6 +82,7 @@ Star: Teff 5485.0 K, radius 0.939 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     24     25    0  ·
 2026-11-02     24     25    0  ·
 2026-10-26     24     25    0  ·
 2026-10-25     24     25    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 341  ·  JWST WATCH                      ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  81
-arXiv  ▁▁▁▁▁  1
+MAST   ▁▁▁▁▁▁  81
+arXiv  ▁▁▁▁▁▁  1
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,46 +31,46 @@ NIRCAM   ████████████████████ 81
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg004_nrca1` |
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/GRISM | `jw01981-o031_t003_nircam_f444w-grismr-subgrism128` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg001_nrca1` |
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg007_nrca3` |
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg011_nrca3` |
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg012_nrca1` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg007_nrca1` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg011_nrca1` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg005_nrca1` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg006_nrca3` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg008_nrca1` |
 | 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg003_nrca1` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg011_nrca3` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg004_nrca1` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/GRISM | `jw01981-o031_t003_nircam_f444w-grismr-subgrism128` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg013_nrca1` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg012_nrca1` |
-| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg005_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg005_nrca3` |
+| 2023-03-11 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981031001_04103_00001-seg006_nrca1` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg009_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg007_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg010_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg003_nrca3` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg008_nrca3` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg010_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg011_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg013_nrca1` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg012_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg004_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg008_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg010_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg011_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg001_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg008_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg005_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/GRISM | `jw01981-o033_t003_nircam_f444w-grismr-subgrism128` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg001_nrca1` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg013_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg001_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg002_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg006_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg012_nrca3` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg002_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg003_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg005_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg007_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg010_nrca1` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg007_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg009_nrca3` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg006_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg003_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg005_nrca1` |
-| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg008_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg003_nrca3` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg011_nrca1` |
 | 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg004_nrca3` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg004_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg012_nrca3` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg002_nrca1` |
+| 2023-04-17 | ◉ public | 1981 | NIRCAM/IMAGE | `jw01981033001_04103_00001-seg006_nrca3` |
 
 _Showing the 40 latest of 81; full list in `state.json`._
 
@@ -90,6 +90,7 @@ Star: Teff 3770.0 K, radius 0.5066 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     81      1    0  ·
 2026-11-02     81      1    0  ·
 2026-10-26     81      1    0  ·
 2026-10-25     81      1    0  ·

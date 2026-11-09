@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   V1298 TAU  ·  JWST WATCH                   ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  20
-arXiv  ▁▁▁██  21
+MAST   ▁▁▁▁▁▁  20
+arXiv  ▁▁▁███  21
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,8 +35,8 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 5
 | 2024-01-18 | ◉ public | 2149 | NIRSPEC/SLIT | `jw02149001001_02101_00001-seg001_nrs1` |
 | 2024-02-12 | ◉ public | 2149 | NIRSPEC/SLIT | `jw02149-o002_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2025-02-24 | ◉ public | 5959 | NIRSPEC/SLIT | `jw05959-o016_t001_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04103_00001-seg001_nis` |
 | 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04101_00001-seg001_nis` |
+| 2025-09-07 | ◉ public | 5959 | NIRISS/SOSS | `jw05959002001_04103_00001-seg001_nis` |
 | 2025-09-08 | ◉ public | 5959 | NIRISS/SOSS | `jw05959-o002_t001_niriss_clear-gr700xd-substrip96` |
 | 2025-09-11 | ◉ public | 5959 | NIRISS/SOSS | `jw05959017001_04101_00001-seg001_nis` |
 | 2025-09-11 | ◉ public | 5959 | NIRISS/SOSS | `jw05959017001_04103_00001-seg001_nis` |
@@ -79,6 +79,7 @@ Star: Teff 4970.0 K, radius 1.32 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     20     21    0  ·
 2026-11-02     20     21    0  ·
 2026-10-26     20     21    1  ●
 2026-10-25     20     20    0  ·

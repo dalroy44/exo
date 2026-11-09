@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 357  ·  JWST WATCH                      ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  4
-arXiv  ▁▁▁▁▁  5
+MAST   ▁▁▁▁▁▁  4
+arXiv  ▁▁▁▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,8 +34,8 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 1
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2023-12-04 | ◉ public | 2512 | NIRSPEC/SLIT | `jw02512-o007_t006_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg001_mirimage` |
 | 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg002_mirimage` |
+| 2024-05-11 | ◉ public | 3730 | MIRI/IMAGE | `jw03730027001_03101_00001-seg001_mirimage` |
 | 2024-12-20 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o201_t018_niriss_clear-gr700xd-substrip96` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -60,6 +60,7 @@ Star: Teff 3505.0 K, radius 0.337 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09      4      5    0  ·
 2026-11-02      4      5    0  ·
 2026-10-26      4      5    0  ·
 2026-10-25      4      5    0  ·

@@ -67,5 +67,17 @@
    "archive": [],
    "arxiv": []
   }
+ },
+ {
+  "date": "2026-11-09",
+  "mast_n": 6,
+  "arxiv_n": 5,
+  "new": {
+   "mast": [],
+   "archive": [],
+   "arxiv": [
+    "2601.21685"
+   ]
+  }
  }
 ]

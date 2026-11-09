@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   AF LEP  ·  JWST WATCH                      ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  14
-arXiv  ▁▁▁▁▁  13
+MAST   ▁▁▁▁▁▁  14
+arXiv  ▁▁▁▁▁▁  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,8 +33,8 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f444w-maskrnd-sub320a335r` |
-| 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f356w-maskrnd-sub320a335r` |
 | 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f200w-maskrnd-sub320a335r` |
+| 2023-10-12 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1006_t001_nircam_f356w-maskrnd-sub320a335r` |
 | 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f200w-maskrnd-sub320a335r` |
 | 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2023-11-02 | ◉ public | 4558 | NIRCAM/CORON | `jw04558-c1007_t001_nircam_f356w-maskrnd-sub320a335r` |
@@ -70,6 +70,7 @@ Star: Teff 6140.0 K, radius 1.25 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     14     13    0  ·
 2026-11-02     14     13    0  ·
 2026-10-26     14     13    0  ·
 2026-10-25     14     13    0  ·

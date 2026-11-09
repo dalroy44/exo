@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   GJ 9827  ·  JWST WATCH                     ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  10
-arXiv  ▁▁▁▁▁  16
+MAST   ▁▁▁▁▁▁  10
+arXiv  ▁▁▁▁▁▁  16
 ```
 
 ## ▌ JWST coverage by instrument
@@ -39,10 +39,10 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 2
 | 2024-11-29 | ◉ public | 4098 | NIRSPEC/SLIT | `jw04098-o091_t005_nirspec_f290lp-g395h-s1600a1-sub2048` |
 | 2026-06-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818002001_02101_00001-seg001_mirimage` |
 | 2026-06-14 | ◉ public | 4818 | MIRI/SLITLESS | `jw04818-o001_t001_miri_p750l-slitlessprism` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157011001_xx103_00001_miri` |
+| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx102_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx103_00001_miri` |
 | ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157011001_xx102_00001_miri` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157013001_xx102_00001_miri` |
-| ? | ? unknown | 12157 | MIRI/SLITLESS | `jw12157011001_xx103_00001_miri` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
 
@@ -69,6 +69,7 @@ Star: Teff 4236.0 K, radius 0.58 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     10     16    0  ·
 2026-11-02     10     16    0  ·
 2026-10-26     10     16    0  ·
 2026-10-25     10     16    0  ·

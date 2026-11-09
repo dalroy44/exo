@@ -8,7 +8,6 @@
   "HD 209458 b.st_teff": 6091.0
  },
  "arxiv": {
-  "2102.05763": "Impact of photochemical hazes and gases on exoplanet atmospheric thermal structure",
   "2104.08832": "Evidence of energy-, recombination-, and photon-limited escape regimes in giant planet H/He atmospheres",
   "2108.12057": "SPORK That Spectrum: Increasing Detection Significances from High-Resolution Exoplanet Spectroscopy with Novel Smoothing Algorithms",
   "2109.00561": "JexoSim 2.0: End-to-End JWST Simulator for Exoplanet Spectroscopy -- Implementation and Case Studies",
@@ -31,6 +30,7 @@
   "2508.09448": "The watery atmosphere of HD~209458~b revealed by joint $K$- and $L$-band high-resolution spectroscopy",
   "2508.10386": "Atmospheric Characterisation with the Twinkle Space Telescope Following Advances from JWST Observations",
   "2510.08319": "SOAPv4: A new step toward modeling stellar signatures in exoplanet research",
+  "2601.21685": "Gaussian perturbation interpretability for regression techniques to understand retrieval black-boxes",
   "2603.04488": "NASA's Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-Infrared Exoplanet Transmission Spectra",
   "2609.16834": "The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W"
  },
@@ -70,6 +70,16 @@
   "jw01274003001_04103_00001-seg009_nrca3": "1274 NIRCAM/IMAGE release 60255.15653935",
   "jw01274003001_04103_00001-seg010_nrca1": "1274 NIRCAM/IMAGE release 60255.11583335",
   "jw01274003001_04103_00001-seg010_nrca3": "1274 NIRCAM/IMAGE release 60255.11574076",
-  "jw02667-o051_t001_miri_p750l-slitlessprism": "2667 MIRI/SLITLESS release 60506.27377313"
+  "jw02667-o051_t001_miri_p750l-slitlessprism": "2667 MIRI/SLITLESS release 60506.27377313",
+  "jw09709013001_02101_00001-seg001_nis": "9709 NIRISS/SOSS release 61338.72238413",
+  "jw09709013001_02101_00002-seg001_nis": "9709 NIRISS/SOSS release 61338.72227997",
+  "jw09709013001_02101_00003-seg001_nis": "9709 NIRISS/SOSS release 61338.72238413",
+  "jw09709013001_02101_00004-seg001_nis": "9709 NIRISS/SOSS release 61338.72238413",
+  "jw09709013001_04101_00001-seg001_nis": "9709 NIRISS/SOSS release 61338.72479161",
+  "jw09709013001_04102_00001-seg001_nis": "9709 NIRISS/SOSS release 61341.18365737",
+  "jw09709013001_04102_00001-seg002_nis": "9709 NIRISS/SOSS release 61341.18481479",
+  "jw09709013001_04102_00001-seg003_nis": "9709 NIRISS/SOSS release 61341.18390042",
+  "jw09709013001_04102_00001-seg004_nis": "9709 NIRISS/SOSS release 61341.18480321",
+  "jw09709013001_04103_00001-seg001_nis": "9709 NIRISS/SOSS release 61338.71543973"
  }
 }

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   NGTS-2  ·  JWST WATCH                      ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  4
-arXiv  ▁▁▁▁▁  0
+MAST   ▁▁▁▁▁▁  4
+arXiv  ▁▁▁▁▁▁  0
 ```
 
 ## ▌ JWST coverage by instrument
@@ -53,6 +53,7 @@ _none found_
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09      4      0    0  ·
 2026-11-02      4      0    0  ·
 2026-10-26      4      0    0  ·
 2026-10-25      4      0    0  ·

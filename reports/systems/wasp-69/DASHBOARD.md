@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-69  ·  JWST WATCH                     ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 37 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 14 | 0 | 2026-10-19 |
+| arxiv | ● ok | 15 | 1 | 2026-11-09 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  37
-arXiv  ▁▁▁▁▁  14
+MAST   ▁▁▁▁▁▁  37
+arXiv  ▁▁▁▁▁█  15
 ```
 
 ## ▌ JWST coverage by instrument
@@ -39,31 +39,31 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg005_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg013_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg001_nrca3` |
-| 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg007_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o006_t003_nircam_f322w2-grismr-subgrism256` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg002_nrca3` |
+| 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg006_nrca3` |
+| 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg007_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg012_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg010_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg009_nrca3` |
-| 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg006_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg003_nrca3` |
 | 2023-10-26 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185006001_04103_00001-seg011_nrca3` |
 | 2024-05-04 | ◉ public | 1177 | MIRI/SLITLESS | `jw01177-o003_t002_miri_p750l-slitlessprism` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg005_nrca3` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg006_nrca3` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg002_nrca1` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg002_nrca3` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg008_nrca1` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg005_nrca1` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg004_nrca1` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg007_nrca1` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg004_nrca3` |
-| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg001_nrca3` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg003_nrca1` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg003_nrca3` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg005_nrca3` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg006_nrca3` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg006_nrca1` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg007_nrca3` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg008_nrca3` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg005_nrca1` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg004_nrca1` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg002_nrca1` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg002_nrca3` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg008_nrca1` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg007_nrca1` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg004_nrca3` |
+| 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg001_nrca3` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o007_t003_nircam_f444w-grismr-subgrism256` |
 | 2024-06-12 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185007001_04103_00001-seg001_nrca1` |
 | 2025-05-05 | ◉ public | 5924 | NIRISS/SOSS | `jw05924002001_04103_00001-seg001_nis` |
@@ -82,6 +82,7 @@ Star: Teff 4792.0 K, radius 0.801 R☉
 
 ## ▌ Latest papers (arXiv)
 
+- [`2611.08676`](https://arxiv.org/abs/2611.08676)  Expanding the Volatile Abundance Inventory for High-Priority K-Dwarf JWST Exoplanet Systems
 - [`2608.19756`](https://arxiv.org/abs/2608.19756)  Asymmetric Aerosol Distribution on the Terminators of the Warm Saturn WASP-69 b Revealed by JWST NIRISS/SOSS
 - [`2608.11881`](https://arxiv.org/abs/2608.11881)  Chemical Tracers for 3D Atmospheric Asymmetries on WASP-69 b
 - [`2606.16787`](https://arxiv.org/abs/2606.16787)  Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres
@@ -89,12 +90,12 @@ Star: Teff 4792.0 K, radius 0.801 R☉
 - [`2412.04330`](https://arxiv.org/abs/2412.04330)  The GAPS programme at TNG LXVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets
 - [`2406.15543`](https://arxiv.org/abs/2406.15543)  Multiple Clues for Dayside Aerosols and Temperature Gradients in WASP-69 b from a Panchromatic JWST Emission Spectrum
 - [`2406.09225`](https://arxiv.org/abs/2406.09225)  Probing atmospheric escape through metastable He I triplet lines in 15 exoplanets observed with SPIRou
-- [`2405.20361`](https://arxiv.org/abs/2405.20361)  HST SHEL: Enabling Comparative Exoplanetology with HST/STIS
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     37     15    1  ●
 2026-11-02     37     14    0  ·
 2026-10-26     37     14    0  ·
 2026-10-25     37     14    0  ·

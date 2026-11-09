@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-43  ·  JWST WATCH                     ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 2 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 15 | 0 | 2026-10-19 |
+| arxiv | ● ok | 16 | 1 | 2026-11-09 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  2
-arXiv  ▁▁▁▁▁  15
+MAST   ▁▁▁▁▁▁  2
+arXiv  ▁▁▁▁▁█  16
 ```
 
 ## ▌ JWST coverage by instrument
@@ -45,6 +45,7 @@ Star: Teff 4400.0 K, radius 0.6 R☉
 
 ## ▌ Latest papers (arXiv)
 
+- [`2611.08676`](https://arxiv.org/abs/2611.08676)  Expanding the Volatile Abundance Inventory for High-Priority K-Dwarf JWST Exoplanet Systems
 - [`2607.08486`](https://arxiv.org/abs/2607.08486)  Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models
 - [`2604.05907`](https://arxiv.org/abs/2604.05907)  The Transit Timing and Transmission Spectrum of Hot Jupiter WASP-43 b from a decade of Multi-band Transit Follow-up Observations
 - [`2409.00249`](https://arxiv.org/abs/2409.00249)  The dark days are overcast: Iron-bearing clouds on HD 209458 b and WASP-43 b can explain low dayside albedos
@@ -52,12 +53,12 @@ Star: Teff 4400.0 K, radius 0.6 R☉
 - [`2301.06350`](https://arxiv.org/abs/2301.06350)  A First Look at the JWST MIRI/LRS Phase Curve of WASP-43b
 - [`2204.03327`](https://arxiv.org/abs/2204.03327)  Constraints on TESS albedos for five hot Jupiters
 - [`2110.04761`](https://arxiv.org/abs/2110.04761)  Is the orbit of the exoplanet WASP-43b really decaying? TESS and MuSCAT2 observations confirm no detection
-- [`2110.02247`](https://arxiv.org/abs/2110.02247)  Retrieving Exoplanet Atmospheres using Planetary Infrared Excess: Prospects for the Nightside of WASP-43 b and other Hot Jupiters
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09      2     16    1  ●
 2026-11-02      2     15    0  ·
 2026-10-26      2     15    0  ·
 2026-10-25      2     15    0  ·

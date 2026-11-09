@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WD 0806-661  ·  JWST WATCH                 ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  5
-arXiv  ▁▁▁▁▁  2
+MAST   ▁▁▁▁▁▁  5
+arXiv  ▁▁▁▁▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,9 +32,9 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
+| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f200w` |
 | 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f444w` |
 | 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f150w2` |
-| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f200w` |
 | 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f356w` |
 | 2024-07-18 | ◉ public | 1276 | NIRSPEC/IMAGE | `jw01276001001_03101_00001_nrs1` |
 
@@ -55,6 +55,7 @@ Star: Teff 10393.0 K, radius None R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09      5      2    0  ·
 2026-11-02      5      2    0  ·
 2026-10-26      5      2    0  ·
 2026-10-25      5      2    0  ·

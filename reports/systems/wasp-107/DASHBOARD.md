@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-107  ·  JWST WATCH                    ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  31
-arXiv  ▁▁▁▁▁  23
+MAST   ▁▁▁▁▁▁  31
+arXiv  ▁▁▁▁▁▁  23
 ```
 
 ## ▌ JWST coverage by instrument
@@ -45,8 +45,6 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 6
 | 2024-01-20 | ◉ public | 1280 | MIRI/SLITLESS | `jw01280-o001_t001_miri_p750l-slitlessprism` |
 | 2024-06-13 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o008_t006_niriss_clear-gr700xd-substrip256` |
 | 2024-06-24 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224-o003_t003_nirspec_f290lp-g395h-s1600a1-sub2048` |
-| 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg004_nrca1` |
-| 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg002_nrca3` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg003_nrca3` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/GRISM | `jw01185-o009_t004_nircam_f444w-grismr-subgrism256` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg006_nrca3` |
@@ -55,6 +53,8 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 6
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg003_nrca1` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg002_nrca1` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg001_nrca1` |
+| 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg004_nrca1` |
+| 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg002_nrca3` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg007_nrca1` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg004_nrca3` |
 | 2024-07-05 | ◉ public | 1185 | NIRCAM/IMAGE | `jw01185009001_04103_00001-seg001_nrca3` |
@@ -90,6 +90,7 @@ Star: Teff 4425.0 K, radius 0.657 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     31     23    0  ·
 2026-11-02     31     23    0  ·
 2026-10-26     31     23    0  ·
 2026-10-25     31     23    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   EPS IND A  ·  JWST WATCH                   ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -19,8 +19,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  0
-arXiv  ▁▁▁▁▁  5
+MAST   ▁▁▁▁▁▁  0
+arXiv  ▁▁▁▁▁▁  5
 ```
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -43,6 +43,7 @@ Star: Teff 4700.0 K, radius 0.713 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09      0      5    0  ·
 2026-11-02      0      5    0  ·
 2026-10-26      0      5    0  ·
 2026-10-25      0      5    0  ·

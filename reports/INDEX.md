@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   JWST EXOPLANET WATCH  ·  ALL SYSTEMS       ║
-║   checked 2026-11-02                         ║
+║   checked 2026-11-09                         ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -9,14 +9,14 @@
 
 | systems | planets | JWST observations | papers | systems with news |
 |---:|---:|---:|---:|---:|
-| 88 | 145 | 2650 | 787 | 0 |
+| 88 | 145 | 2660 | 792 | 8 |
 
 ## ▌ Trend (per run-day)
 
 ```
-JWST obs  ▁▁██▅  2650
-papers    ▁▁▅██  787
-news      █▁▁▁▁  0
+JWST obs  ▁▁▅▅▃█  2660
+papers    ▁▁▂▃▃█  792
+news      █▁▁▁▁▂  8
 ```
 
 ## ▌ Most JWST data
@@ -36,13 +36,21 @@ PDS 70           ███░░░░░░░░░░░░░░░░░ 68
 HR 8799          ███░░░░░░░░░░░░░░░░░ 60
 LTT 1445 A       ██░░░░░░░░░░░░░░░░░░ 48
 WASP-80          ██░░░░░░░░░░░░░░░░░░ 48
-GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
+HD 209458        ██░░░░░░░░░░░░░░░░░░ 46
 ```
 
 ## ▌ All systems
 
 | system | planets | JWST obs | papers | new this run | last change |
 |---|---:|---:|---:|---:|---|
+| [HD 209458](systems/hd-209458/DASHBOARD.md) | 1 | 46 | 25 | 11 | 2026-11-09 |
+| [GJ 3470](systems/gj-3470/DASHBOARD.md) | 1 | 80 | 23 | 1 | 2026-11-09 |
+| [HAT-P-26](systems/hat-p-26/DASHBOARD.md) | 1 | 6 | 5 | 1 | 2026-11-09 |
+| [HIP 65426](systems/hip-65426/DASHBOARD.md) | 1 | 15 | 13 | 1 | 2026-11-09 |
+| [WASP-121](systems/wasp-121/DASHBOARD.md) | 1 | 4 | 25 | 1 | 2026-11-09 |
+| [WASP-43](systems/wasp-43/DASHBOARD.md) | 1 | 2 | 16 | 1 | 2026-11-09 |
+| [WASP-69](systems/wasp-69/DASHBOARD.md) | 1 | 37 | 15 | 1 | 2026-11-09 |
+| [WASP-80](systems/wasp-80/DASHBOARD.md) | 1 | 48 | 15 | 1 | 2026-11-09 |
 | [14 Her](systems/14-her/DASHBOARD.md) | 2 | 2 | 2 | · | 2026-10-19 |
 | [2MASS J01033563-5515561 A](systems/2mass-j01033563-5515561-a/DASHBOARD.md) | 1 | 0 | 1 | · ⚠ | 2026-10-19 |
 | [2MASS J12073346-3932539](systems/2mass-j12073346-3932539/DASHBOARD.md) | 1 | 118 | 1 | · | 2026-10-19 |
@@ -55,7 +63,6 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 | [GJ 1214](systems/gj-1214/DASHBOARD.md) | 1 | 4 | 25 | · | 2026-10-19 |
 | [GJ 3090](systems/gj-3090/DASHBOARD.md) | 2 | 6 | 4 | · | 2026-10-19 |
 | [GJ 341](systems/gj-341/DASHBOARD.md) | 1 | 81 | 1 | · | 2026-10-19 |
-| [GJ 3470](systems/gj-3470/DASHBOARD.md) | 1 | 80 | 22 | · | 2026-10-25 |
 | [GJ 3473](systems/gj-3473/DASHBOARD.md) | 2 | 20 | 1 | · | 2026-10-19 |
 | [GJ 357](systems/gj-357/DASHBOARD.md) | 3 | 4 | 5 | · | 2026-10-19 |
 | [GJ 367](systems/gj-367/DASHBOARD.md) | 3 | 1 | 1 | · | 2026-10-19 |
@@ -67,16 +74,13 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 | [HAT-P-12](systems/hat-p-12/DASHBOARD.md) | 1 | 7 | 3 | · | 2026-10-19 |
 | [HAT-P-14](systems/hat-p-14/DASHBOARD.md) | 1 | 20 | 5 | · | 2026-10-19 |
 | [HAT-P-18](systems/hat-p-18/DASHBOARD.md) | 1 | 6 | 10 | · | 2026-10-19 |
-| [HAT-P-26](systems/hat-p-26/DASHBOARD.md) | 1 | 6 | 4 | · | 2026-10-19 |
 | [HAT-P-30](systems/hat-p-30/DASHBOARD.md) | 1 | 5 | 3 | · | 2026-10-19 |
 | [HATS-6](systems/hats-6/DASHBOARD.md) | 1 | 10 | 2 | · | 2026-10-19 |
 | [HD 149026](systems/hd-149026/DASHBOARD.md) | 1 | 29 | 5 | · | 2026-10-19 |
 | [HD 15337](systems/hd-15337/DASHBOARD.md) | 2 | 3 | 3 | · | 2026-10-19 |
 | [HD 189733](systems/hd-189733/DASHBOARD.md) | 1 | 173 | 25 | · | 2026-10-19 |
-| [HD 209458](systems/hd-209458/DASHBOARD.md) | 1 | 36 | 25 | · | 2026-10-19 |
 | [HD 80606](systems/hd-80606/DASHBOARD.md) | 1 | 2 | 9 | · | 2026-10-19 |
 | [HD 95086](systems/hd-95086/DASHBOARD.md) | 1 | 10 | 5 | · | 2026-10-19 |
-| [HIP 65426](systems/hip-65426/DASHBOARD.md) | 1 | 15 | 12 | · | 2026-10-19 |
 | [HIP 67522](systems/hip-67522/DASHBOARD.md) | 2 | 1 | 7 | · | 2026-10-19 |
 | [HR 2562](systems/hr-2562/DASHBOARD.md) | 1 | 11 | 4 | · | 2026-10-19 |
 | [HR 8799](systems/hr-8799/DASHBOARD.md) | 4 | 60 | 25 | · | 2026-10-19 |
@@ -116,18 +120,14 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 | [V1298 Tau](systems/v1298-tau/DASHBOARD.md) | 4 | 20 | 21 | · | 2026-10-26 |
 | [VHS J125601.92-125723.9](systems/vhs-j125601-92-125723-9/DASHBOARD.md) | 1 | 87 | 4 | · | 2026-10-19 |
 | [WASP-107](systems/wasp-107/DASHBOARD.md) | 2 | 31 | 23 | · | 2026-10-19 |
-| [WASP-121](systems/wasp-121/DASHBOARD.md) | 1 | 4 | 25 | · | 2026-10-23 |
 | [WASP-127](systems/wasp-127/DASHBOARD.md) | 1 | 5 | 10 | · | 2026-10-19 |
 | [WASP-15](systems/wasp-15/DASHBOARD.md) | 1 | 1 | 0 | · | 2026-10-19 |
 | [WASP-166](systems/wasp-166/DASHBOARD.md) | 1 | 9 | 2 | · | 2026-10-19 |
 | [WASP-17](systems/wasp-17/DASHBOARD.md) | 1 | 13 | 10 | · | 2026-10-19 |
-| [WASP-18](systems/wasp-18/DASHBOARD.md) | 1 | 17 | 13 | · | 2026-10-19 |
+| [WASP-18](systems/wasp-18/DASHBOARD.md) | 1 | 17 | 12 | · | 2026-10-19 |
 | [WASP-39](systems/wasp-39/DASHBOARD.md) | 1 | 24 | 25 | · | 2026-10-19 |
-| [WASP-43](systems/wasp-43/DASHBOARD.md) | 1 | 2 | 15 | · | 2026-10-19 |
 | [WASP-52](systems/wasp-52/DASHBOARD.md) | 1 | 6 | 8 | · | 2026-10-19 |
-| [WASP-69](systems/wasp-69/DASHBOARD.md) | 1 | 37 | 14 | · | 2026-10-19 |
 | [WASP-77 A](systems/wasp-77-a/DASHBOARD.md) | 1 | 3 | 4 | · | 2026-10-19 |
-| [WASP-80](systems/wasp-80/DASHBOARD.md) | 1 | 48 | 14 | · | 2026-10-19 |
 | [WASP-94 A](systems/wasp-94-a/DASHBOARD.md) | 1 | 5 | 3 | · | 2026-10-19 |
 | [WASP-96](systems/wasp-96/DASHBOARD.md) | 1 | 3 | 6 | · | 2026-10-19 |
 | [WD 0806-661](systems/wd-0806-661/DASHBOARD.md) | 1 | 5 | 2 | · | 2026-10-19 |
@@ -136,6 +136,7 @@ GJ 504           ██░░░░░░░░░░░░░░░░░░ 42
 
 ```
 date         systems   obs  papers  news
+2026-11-09       88  2660     792     8
 2026-11-02       88  2650     787     0
 2026-10-26       88  2653     787     1
 2026-10-25       88  2653     786     2

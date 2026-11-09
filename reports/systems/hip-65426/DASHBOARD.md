@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HIP 65426  ·  JWST WATCH                   ║
-║   checked 2026-11-02   ·   5 run-days logged ║
+║   checked 2026-11-09   ·   6 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,13 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 15 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 12 | 0 | 2026-10-19 |
+| arxiv | ● ok | 13 | 1 | 2026-11-09 |
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁  15
-arXiv  ▁▁▁▁▁  12
+MAST   ▁▁▁▁▁▁  15
+arXiv  ▁▁▁▁▁█  13
 ```
 
 ## ▌ JWST coverage by instrument
@@ -36,14 +36,14 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 4
 |---|---|---|---|---|
 | 2022-07-18 | ◉ public | 1386 | MIRI/CORON | `jw01386-c1021_t001_miri_f1140c-mask1140` |
 | 2022-07-18 | ◉ public | 1386 | MIRI/CORON | `jw01386-c1022_t001_miri_f1550c-mask1550` |
-| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f444w-maskrnd-sub320a335r` |
+| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f300m-maskrnd-sub320a335r` |
+| 2022-07-30 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-o011_t001_niriss_clearp-f380m-sub80` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f250m-maskrnd-sub320a335r` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f410m-maskrnd-sub320a335r` |
 | 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f356w-maskrnd-sub320a335r` |
-| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f300m-maskrnd-sub320a335r` |
-| 2022-07-30 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-o011_t001_niriss_clearp-f380m-sub80` |
-| 2024-06-17 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-c1023_t001_niriss_clearp-f380m-sub80` |
+| 2022-07-30 | ◉ public | 1386 | NIRCAM/CORON | `jw01386-c1020_t001_nircam_f444w-maskrnd-sub320a335r` |
 | 2024-06-17 | ◉ public | 1386 | NIRISS/AMI | `jw01386-c1023_t001_niriss_f380m-nrm-sub80` |
+| 2024-06-17 | ◉ public | 1386 | NIRISS/IMAGE | `jw01386-c1023_t001_niriss_clearp-f380m-sub80` |
 | 2024-06-17 | ◉ public | 1386 | NIRISS/AMI | `jw01386-c1024_t001_niriss_f380m-nrm-sub80` |
 | 2026-07-24 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o006_t003_nirspec_g395h-f290lp` |
 | 2026-07-24 | ◉ public | 8063 | NIRSPEC/IFU | `jw08063-o005_t003_nirspec_g395h-f290lp` |
@@ -60,6 +60,7 @@ Star: Teff 8840.0 K, radius 1.77 R☉
 
 ## ▌ Latest papers (arXiv)
 
+- [`2611.07034`](https://arxiv.org/abs/2611.07034)  The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems IX: A Multi-Wavelength Framework for Source Characterization in JWST Coronagraphic Imaging of the HIP 65426 System
 - [`2409.03485`](https://arxiv.org/abs/2409.03485)  ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations
 - [`2312.05310`](https://arxiv.org/abs/2312.05310)  HIP 65426 is a High-Frequency Delta Scuti Pulsator in Plausible Spin-Orbit Alignment with its Directly Imaged Exoplanet
 - [`2310.11508`](https://arxiv.org/abs/2310.11508)  The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems III: Aperture Masking Interferometric Observations of the star HIP 65426 at 3.8 um
@@ -67,12 +68,12 @@ Star: Teff 8840.0 K, radius 1.77 R☉
 - [`2310.00148`](https://arxiv.org/abs/2310.00148)  First VLTI/GRAVITY Observations of HIP 65426 b: Evidence for a Low or Moderate Orbital Eccentricity
 - [`2310.00089`](https://arxiv.org/abs/2310.00089)  Spectral Retrieval with JWST Photometric data: a Case Study for HIP 65426 b
 - [`2310.00088`](https://arxiv.org/abs/2310.00088)  Early Accretion of Large Amounts of Solids for Directly-Imaged Exoplanets
-- [`2208.14990`](https://arxiv.org/abs/2208.14990)  The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-09     15     13    1  ●
 2026-11-02     15     12    0  ·
 2026-10-26     15     12    0  ·
 2026-10-25     15     12    0  ·

@@ -8,6 +8,7 @@
   "WASP-121 b.st_teff": 6628.0
  },
  "arxiv": {
+  "2006.11308": "Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) IV. A spectral inventory of atoms and molecules in the high-resolution transmission spectrum of WASP-121 b",
   "2210.12847": "The Mantis Network IV: A titanium cold-trap on the ultra-hot Jupiter WASP-121 b",
   "2303.09376": "Detection of a high-velocity sodium feature on the ultra-hot Jupiter WASP-121 b",
   "2305.08610": "Effect of Centrifugal Force on Transmission Spectroscopy of Exoplanet Atmospheres",
@@ -24,7 +25,6 @@
   "2508.10827": "Accelerating exoplanet climate modelling: A machine learning approach to complement 3D GCM grid simulations",
   "2509.09760": "Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve",
   "2510.09809": "A complex structure of escaping helium spanning more than half the orbit of the ultra-hot Jupiter WASP-121\\,b",
-  "2510.19776": "Exoplanetary radio emission predictions and detectability in the SKA era",
   "2511.14175": "The KPF SURFS-UP Survey I: Transmission Spectroscopy of WASP-76 b",
   "2605.01589": "The Days Drag On on WASP-121 b: Interpreting its NIRISS Spectroscopic Phase Curve with General Circulation Models",
   "2606.16787": "Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres",
