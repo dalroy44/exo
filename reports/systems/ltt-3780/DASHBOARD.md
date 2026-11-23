@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   LTT 3780  ·  JWST WATCH                    ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  14
-arXiv  ▁▁▁▁▁▁  5
+MAST   ▁▁▁▁▁▁▁  14
+arXiv  ▁▁▁▁▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -34,9 +34,9 @@ NIRSPEC  █░░░░░░░░░░░░░░░░░░░ 1
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg005_mirimage` |
+| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg002_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg001_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg004_mirimage` |
-| 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg002_mirimage` |
 | 2024-05-04 | ◉ public | 3730 | MIRI/IMAGE | `jw03730015001_03101_00001-seg003_mirimage` |
 | 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg003_mirimage` |
 | 2024-05-05 | ◉ public | 3730 | MIRI/IMAGE | `jw03730014001_03101_00001-seg005_mirimage` |
@@ -69,6 +69,7 @@ Star: Teff 3358.0 K, radius 0.38 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23     14      5    0  ·
 2026-11-09     14      5    0  ·
 2026-11-02     14      5    0  ·
 2026-10-26     14      5    0  ·

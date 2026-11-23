@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-77 A  ·  JWST WATCH                   ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 3 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 4 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 4 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  3
-arXiv  ▁▁▁▁▁▁  4
+MAST   ▁▁▁▁▁▁▁  3
+arXiv  ▁▁▁▁▁▁▁  4
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,8 +33,8 @@ NIRSPEC  ████████████████████ 3
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2022-08-25 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742067001_02101_00001_nrs2` |
 | 2022-08-25 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742067001_02101_00001_nrs1` |
+| 2022-08-25 | ◉ public | 2742 | NIRSPEC/SLIT | `jw02742067001_02101_00001_nrs2` |
 | 2023-08-25 | ◉ public | 1274 | NIRSPEC/SLIT | `jw01274-o010_t004_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -45,15 +47,16 @@ Star: Teff 5617.0 K, radius 0.91 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2406.12240`](https://arxiv.org/abs/2406.12240)  A Comparative Simulation Study of Hot and Ultra-hot Jupiter Atmospheres using Different Ground-based High-resolution Spectrographs with Cross-correlation Spectroscopy
-- [`2405.19615`](https://arxiv.org/abs/2405.19615)  Enhancing Exoplanet Ephemerides by Leveraging Professional and Citizen Science Data: A Test Case with WASP-77A b
-- [`2201.08508`](https://arxiv.org/abs/2201.08508)  Evidence that the Hot Jupiter WASP-77 A b Formed Beyond Its Parent Protoplanetary Disk's H2O Ice Line
 - [`1502.00576`](https://arxiv.org/abs/1502.00576)  High-energy irradiation and mass loss rates of hot Jupiters in the solar neighborhood
+- [`2201.08508`](https://arxiv.org/abs/2201.08508)  Evidence that the Hot Jupiter WASP-77 A b Formed Beyond Its Parent Protoplanetary Disk's H2O Ice Line
+- [`2405.19615`](https://arxiv.org/abs/2405.19615)  Enhancing Exoplanet Ephemerides by Leveraging Professional and Citizen Science Data: A Test Case with WASP-77A b
+- [`2406.12240`](https://arxiv.org/abs/2406.12240)  A Comparative Simulation Study of Hot and Ultra-hot Jupiter Atmospheres using Different Ground-based High-resolution Spectrographs with Cross-correlation Spectroscopy
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      3      4    0  ·
 2026-11-09      3      4    0  ·
 2026-11-02      3      4    0  ·
 2026-10-26      3      4    0  ·

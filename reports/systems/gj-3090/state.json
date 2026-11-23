@@ -25,6 +25,8 @@
   "jw04098-o014_t007_nirspec_f290lp-g395h-s1600a1-sub2048": "4098 NIRSPEC/SLIT release 60211.09436342",
   "jw04098-o111_t007_niriss_clear-gr700xd-substrip256": "4098 NIRISS/SOSS release 60495.95380774",
   "jw12157015001_xx102_00001_miri": "12157 MIRI/SLITLESS release nan",
-  "jw12157015001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan"
+  "jw12157015001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157018001_xx102_00001_miri": "12157 MIRI/SLITLESS release nan",
+  "jw12157018001_xx103_00001_miri": "12157 MIRI/SLITLESS release nan"
  }
 }

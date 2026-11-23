@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-96  ·  JWST WATCH                     ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 3 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 6 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 6 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  3
-arXiv  ▁▁▁▁▁▁  6
+MAST   ▁▁▁▁▁▁▁  3
+arXiv  ▁▁▁▁▁▁▁  6
 ```
 
 ## ▌ JWST coverage by instrument
@@ -46,17 +48,18 @@ Star: Teff 5540.0 K, radius 1.05 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2511.16771`](https://arxiv.org/abs/2511.16771)  A Comprehensive Analysis of the Panchromatic Transmission Spectrum of the Hot-Saturn WASP-96 b: Nondetection of Haze, Possible Sodium Limb Asymmetry, Stellar Characterization, and Formation History
-- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
-- [`2503.21702`](https://arxiv.org/abs/2503.21702)  Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes
-- [`2306.04676`](https://arxiv.org/abs/2306.04676)  Exoplanet Spectroscopy with JWST NIRISS: Diagnostics and Case Studies
-- [`2305.16887`](https://arxiv.org/abs/2305.16887)  Awesome SOSS: Atmospheric Characterisation of WASP-96 b using the JWST Early Release Observations
 - [`2009.10438`](https://arxiv.org/abs/2009.10438)  On The Compatibility of Ground-based and Space-based Data: WASP-96 b, An Example
+- [`2305.16887`](https://arxiv.org/abs/2305.16887)  Awesome SOSS: Atmospheric Characterisation of WASP-96 b using the JWST Early Release Observations
+- [`2306.04676`](https://arxiv.org/abs/2306.04676)  Exoplanet Spectroscopy with JWST NIRISS: Diagnostics and Case Studies
+- [`2503.21702`](https://arxiv.org/abs/2503.21702)  Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes
+- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
+- [`2511.16771`](https://arxiv.org/abs/2511.16771)  A Comprehensive Analysis of the Panchromatic Transmission Spectrum of the Hot-Saturn WASP-96 b: Nondetection of Haze, Possible Sodium Limb Asymmetry, Stellar Characterization, and Formation History
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      3      6    0  ·
 2026-11-09      3      6    0  ·
 2026-11-02      3      6    0  ·
 2026-10-26      3      6    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-94 A  ·  JWST WATCH                   ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 5 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 3 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 3 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 503: 'Service Unavailable'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  5
-arXiv  ▁▁▁▁▁▁  3
+MAST   ▁▁▁▁▁▁▁  5
+arXiv  ▁▁▁▁▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -48,14 +50,15 @@ Star: Teff 6170.0 K, radius 1.48 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2507.15854`](https://arxiv.org/abs/2507.15854)  Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres
-- [`2404.06550`](https://arxiv.org/abs/2404.06550)  Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS
 - [`2109.04590`](https://arxiv.org/abs/2109.04590)  The peculiar chemical pattern of the WASP-160 binary system: signatures of planetary formation and evolution?
+- [`2404.06550`](https://arxiv.org/abs/2404.06550)  Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS
+- [`2507.15854`](https://arxiv.org/abs/2507.15854)  Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      5      3    0  ·
 2026-11-09      5      3    0  ·
 2026-11-02      5      3    0  ·
 2026-10-26      5      3    0  ·

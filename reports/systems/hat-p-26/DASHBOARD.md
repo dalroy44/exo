@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-26  ·  JWST WATCH                    ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 5 | 1 | 2026-11-09 |
+| arxiv | ● FAIL | 5 | 0 | 2026-11-09 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  6
-arXiv  ▁▁▁▁▁█  5
+MAST   ▁▁▁▁▁▁▁  6
+arXiv  ▁▁▁▁▁██  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -50,16 +52,17 @@ Star: Teff 5079.0 K, radius 0.87 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2601.21685`](https://arxiv.org/abs/2601.21685)  Gaussian perturbation interpretability for regression techniques to understand retrieval black-boxes
-- [`2509.16082`](https://arxiv.org/abs/2509.16082)  JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy
-- [`2406.10032`](https://arxiv.org/abs/2406.10032)  GASTLI: An open-source coupled interior-atmosphere model to unveil gas giant composition
-- [`2303.03610`](https://arxiv.org/abs/2303.03610)  Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b
 - [`2205.10549`](https://arxiv.org/abs/2205.10549)  The GAPS Programme at TNG: XXXVI. Measurement of the Rossiter-McLaughlin effect and revising the physical and orbital parameters of the HAT-P-15, HAT-P-17, HAT-P-21, HAT-P-26, HAT-P-29 eccentric planetary systems
+- [`2303.03610`](https://arxiv.org/abs/2303.03610)  Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b
+- [`2406.10032`](https://arxiv.org/abs/2406.10032)  GASTLI: An open-source coupled interior-atmosphere model to unveil gas giant composition
+- [`2509.16082`](https://arxiv.org/abs/2509.16082)  JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy
+- [`2601.21685`](https://arxiv.org/abs/2601.21685)  Gaussian perturbation interpretability for regression techniques to understand retrieval black-boxes
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      6      5    0  ·
 2026-11-09      6      5    1  ●
 2026-11-02      6      4    0  ·
 2026-10-26      6      4    0  ·

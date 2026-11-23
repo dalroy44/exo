@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-30  ·  JWST WATCH                    ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 5 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 3 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 3 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  5
-arXiv  ▁▁▁▁▁▁  3
+MAST   ▁▁▁▁▁▁▁  5
+arXiv  ▁▁▁▁▁▁▁  3
 ```
 
 ## ▌ JWST coverage by instrument
@@ -48,14 +50,15 @@ Star: Teff 6304.0 K, radius 1.31 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2203.02866`](https://arxiv.org/abs/2203.02866)  WASP-35 and HAT-P-30/WASP-51: re-analysis using TESS and ground-based transit photometry
-- [`2111.10350`](https://arxiv.org/abs/2111.10350)  Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III
 - [`2105.09668`](https://arxiv.org/abs/2105.09668)  Multi-band transit follow up observations of five hot-Jupiters with critical noise treatments: Improved physical properties
+- [`2111.10350`](https://arxiv.org/abs/2111.10350)  Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III
+- [`2203.02866`](https://arxiv.org/abs/2203.02866)  WASP-35 and HAT-P-30/WASP-51: re-analysis using TESS and ground-based transit photometry
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      5      3    0  ·
 2026-11-09      5      3    0  ·
 2026-11-02      5      3    0  ·
 2026-10-26      5      3    0  ·

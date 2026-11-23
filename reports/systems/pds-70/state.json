@@ -14,9 +14,6 @@
   "PDS 70 c.st_teff": 4109.0
  },
  "arxiv": {
-  "1905.06370": "Evidence for a circumplanetary disk around protoplanet PDS 70 b",
-  "2009.01841": "Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES+",
-  "2009.04483": "MIRACLES: atmospheric characterization of directly imaged planets and substellar companions at 4-5 $\u03bc$m. II. Constraints on the mass and radius of the enshrouded planet PDS 70 b",
   "2101.04033": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
   "2101.04187": "Constraining the Nature of the PDS 70 Protoplanets with VLTI/GRAVITY",
   "2101.08369": "The chemical inventory of the planet-hosting disk PDS 70",
@@ -38,7 +35,10 @@
   "2504.11127": "Keplerian motion of a compact source orbiting the inner disc of PDS 70: a third protoplanet in resonance with b and c?",
   "2603.22085": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
   "2607.20649": "A Quiet Host in an Active Planet-Forming Disk: Optical Spectroscopy of WISPIT 2",
-  "2608.23208": "Potential sublimating exocomets around the young star PDS 70"
+  "2608.23208": "Potential sublimating exocomets around the young star PDS 70",
+  "2611.12504": "ALMA detection of continuum emission from GQ Lup B",
+  "2611.14632": "Observational constraints on CO sequestration and disk mass in the planet-hosting PDS 70 disk",
+  "2611.16077": "Desorption of water from cosmic silicates"
  },
  "mast": {
   "jw01179-o018_t005_nircam_clear-f187n-sub160p": "1179 NIRCAM/IMAGE release 60513.72755783",

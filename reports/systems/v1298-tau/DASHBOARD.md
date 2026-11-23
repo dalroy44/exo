@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   V1298 TAU  ·  JWST WATCH                   ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -17,8 +17,8 @@
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  20
-arXiv  ▁▁▁███  21
+MAST   ▁▁▁▁▁▁▁  20
+arXiv  ▁▁▁████  21
 ```
 
 ## ▌ JWST coverage by instrument
@@ -49,8 +49,8 @@ NIRSPEC  █████░░░░░░░░░░░░░░░ 5
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831001001_04101_00001-seg001_nis` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831-o001_t001_niriss_clear-gr700xd-substrip96` |
 | 2027-09-08 | ○ proprietary | 11831 | NIRISS/SOSS | `jw11831001001_04103_00001-seg001_nis` |
-| ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx102_00001_niriss` |
 | ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx103_00001_niriss` |
+| ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx102_00001_niriss` |
 | ? | ? unknown | 11831 | NIRISS/IMAGE | `jw11831002001_xx104_00001_niriss` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -79,6 +79,7 @@ Star: Teff 4970.0 K, radius 1.32 R☉
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23     20     21    0  ·
 2026-11-09     20     21    0  ·
 2026-11-02     20     21    0  ·
 2026-10-26     20     21    1  ●

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HAT-P-18  ·  JWST WATCH                    ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 10 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 10 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  6
-arXiv  ▁▁▁▁▁▁  10
+MAST   ▁▁▁▁▁▁▁  6
+arXiv  ▁▁▁▁▁▁▁  10
 ```
 
 ## ▌ JWST coverage by instrument
@@ -35,9 +37,9 @@ NIRSPEC  ██████████░░░░░░░░░░ 3
 |---|---|---|---|---|
 | 2022-07-13 | ◉ public | 2734 | NIRISS/SOSS | `jw02734001001_04102_00001-seg001_nis` |
 | 2025-04-10 | ◉ public | 2734 | NIRISS/SOSS | `jw02734-o001_t001_niriss_clear-gr700xd-substrip256` |
-| 2026-04-30 | ◉ public | 5844 | NIRSPEC/SLIT | `jw05844001001_04101_00001-seg001_nrs2` |
 | 2026-04-30 | ◉ public | 5844 | NIRSPEC/SLIT | `jw05844-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048` |
 | 2026-04-30 | ◉ public | 5844 | NIRSPEC/SLIT | `jw05844001001_04101_00001-seg002_nrs2` |
+| 2026-04-30 | ◉ public | 5844 | NIRSPEC/SLIT | `jw05844001001_04101_00001-seg001_nrs2` |
 | 2026-07-05 | ◉ public | 5844 | MIRI/SLITLESS | `jw05844-o002_t001_miri_p750l-slitlessprism` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -50,19 +52,20 @@ Star: Teff 4870.0 K, radius 0.717 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2610.19328`](https://arxiv.org/abs/2610.19328)  ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets
-- [`2603.04488`](https://arxiv.org/abs/2603.04488)  NASA's Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-Infrared Exoplanet Transmission Spectra
-- [`2511.07746`](https://arxiv.org/abs/2511.07746)  "Popcorn Planets" are Not Actively Inflated by Eccentricity Tides
-- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
-- [`2502.00553`](https://arxiv.org/abs/2502.00553)  The Influence of Stellar Chromospheres and Coronae on Exoplanet Transmission Spectroscopy
-- [`2406.00187`](https://arxiv.org/abs/2406.00187)  Are WASP-107-like Systems Consistent with High-eccentricity Migration?
-- [`2310.14950`](https://arxiv.org/abs/2310.14950)  Near-Infrared Transmission Spectroscopy of HAT-P-18$\,$b with NIRISS: Disentangling Planetary and Stellar Features in the Era of JWST
+- [`2111.10350`](https://arxiv.org/abs/2111.10350)  Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets III
+- [`2112.07667`](https://arxiv.org/abs/2112.07667)  The Sensitivity of Eclipse Mapping to Planetary Rotation
 - [`2209.03677`](https://arxiv.org/abs/2209.03677)  Constraining planetary mass-loss rates by simulating Parker wind profiles with Cloudy
+- [`2310.14950`](https://arxiv.org/abs/2310.14950)  Near-Infrared Transmission Spectroscopy of HAT-P-18$\,$b with NIRISS: Disentangling Planetary and Stellar Features in the Era of JWST
+- [`2406.00187`](https://arxiv.org/abs/2406.00187)  Are WASP-107-like Systems Consistent with High-eccentricity Migration?
+- [`2502.00553`](https://arxiv.org/abs/2502.00553)  The Influence of Stellar Chromospheres and Coronae on Exoplanet Transmission Spectroscopy
+- [`2505.18715`](https://arxiv.org/abs/2505.18715)  Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters
+- [`2511.07746`](https://arxiv.org/abs/2511.07746)  "Popcorn Planets" are Not Actively Inflated by Eccentricity Tides
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      6     10    0  ·
 2026-11-09      6     10    0  ·
 2026-11-02      6     10    0  ·
 2026-10-26      6     10    0  ·

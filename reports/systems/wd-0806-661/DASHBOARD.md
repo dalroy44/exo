@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WD 0806-661  ·  JWST WATCH                 ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 5 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 2 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 2 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  5
-arXiv  ▁▁▁▁▁▁  2
+MAST   ▁▁▁▁▁▁▁  5
+arXiv  ▁▁▁▁▁▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,10 +34,10 @@ NIRSPEC  ████░░░░░░░░░░░░░░░░ 1
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f200w` |
-| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f444w` |
 | 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f150w2` |
 | 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f356w` |
+| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f200w` |
+| 2024-07-15 | ◉ public | 1276 | NIRCAM/IMAGE | `jw01276-o002_t002_nircam_clear-f444w` |
 | 2024-07-18 | ◉ public | 1276 | NIRSPEC/IMAGE | `jw01276001001_03101_00001_nrs1` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -48,13 +50,14 @@ Star: Teff 10393.0 K, radius None R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2606.04294`](https://arxiv.org/abs/2606.04294)  The Y Dwarf Companion to the White Dwarf WD 0806-66: Resolving the Discrepancy Between Atmospheric and Evolutionary Models
 - [`2503.04531`](https://arxiv.org/abs/2503.04531)  MIRI-LRS spectrum of a cold exoplanet around a white dwarf: water, ammonia, and methane measurements
+- [`2606.04294`](https://arxiv.org/abs/2606.04294)  The Y Dwarf Companion to the White Dwarf WD 0806-66: Resolving the Discrepancy Between Atmospheric and Evolutionary Models
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      5      2    0  ·
 2026-11-09      5      2    0  ·
 2026-11-02      5      2    0  ·
 2026-10-26      5      2    0  ·

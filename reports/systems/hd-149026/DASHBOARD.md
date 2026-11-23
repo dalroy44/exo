@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HD 149026  ·  JWST WATCH                   ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 29 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 5 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 5 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  29
-arXiv  ▁▁▁▁▁▁  5
+MAST   ▁▁▁▁▁▁▁  29
+arXiv  ▁▁▁▁▁▁▁  5
 ```
 
 ## ▌ JWST coverage by instrument
@@ -31,33 +33,33 @@ NIRCAM   ████████████████████ 29
 
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg002_nrca1` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg009_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg002_nrca1` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg005_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg008_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg004_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg004_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg005_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg002_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg006_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/GRISM | `jw01274-o004_t003_nircam_f322w2-grismr-subgrism64` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/GRISM | `jw01274-o005_t003_nircam_f444w-grismr-subgrism64` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg001_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg005_nrca1` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg007_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg010_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg008_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg008_nrca1` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg011_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg001_nrca1` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg002_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg004_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg005_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg004_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg006_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/GRISM | `jw01274-o004_t003_nircam_f322w2-grismr-subgrism64` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/GRISM | `jw01274-o005_t003_nircam_f444w-grismr-subgrism64` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg006_nrca1` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg003_nrca1` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg003_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg008_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg011_nrca3` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg001_nrca1` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg007_nrca1` |
+| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg002_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg006_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg003_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg001_nrca3` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg007_nrca1` |
-| 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg002_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274004001_04103_00001-seg007_nrca3` |
 | 2023-03-10 | ◉ public | 1274 | NIRCAM/IMAGE | `jw01274005001_04103_00001-seg004_nrca1` |
 
@@ -71,16 +73,17 @@ Star: Teff 6179.0 K, radius 1.41 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2509.25785`](https://arxiv.org/abs/2509.25785)  Revisiting the Atmosphere of HD 149026b: The Role of Stellar Abundances and Choice of Opacities in Exoplanet Atmosphere Modeling
-- [`2407.01266`](https://arxiv.org/abs/2407.01266)  Evidence of Water Vapor in the Atmosphere of a Metal-Rich Hot Saturn with High-Resolution Transmission Spectroscopy
-- [`2308.13622`](https://arxiv.org/abs/2308.13622)  Detection of atmospheric species and dynamics in the bloated hot Jupiter WASP-172~b with ESPRESSO
-- [`2208.01650`](https://arxiv.org/abs/2208.01650)  Planetary parameters, XUV environments and mass-loss rates for nearby gaseous planets with X-ray detected host-stars
 - [`1805.04067`](https://arxiv.org/abs/1805.04067)  Reassessing Exoplanet Light Curves with a Thermal Model
+- [`2208.01650`](https://arxiv.org/abs/2208.01650)  Planetary parameters, XUV environments and mass-loss rates for nearby gaseous planets with X-ray detected host-stars
+- [`2308.13622`](https://arxiv.org/abs/2308.13622)  Detection of atmospheric species and dynamics in the bloated hot Jupiter WASP-172~b with ESPRESSO
+- [`2407.01266`](https://arxiv.org/abs/2407.01266)  Evidence of Water Vapor in the Atmosphere of a Metal-Rich Hot Saturn with High-Resolution Transmission Spectroscopy
+- [`2509.25785`](https://arxiv.org/abs/2509.25785)  Revisiting the Atmosphere of HD 149026b: The Role of Stellar Abundances and Choice of Opacities in Exoplanet Atmosphere Modeling
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23     29      5    0  ·
 2026-11-09     29      5    0  ·
 2026-11-02     29      5    0  ·
 2026-10-26     29      5    0  ·

@@ -8,7 +8,6 @@
   "WASP-39 b.st_teff": 5485.0
  },
  "arxiv": {
-  "2309.09605": "Metallicity and Spectral Evolution of WASP-39 b: The Limited Role of Hydrodynamic Escape",
   "2403.04825": "VIRA: An Exoplanet Atmospheric Retrieval Framework for JWST Transmission Spectroscopy",
   "2405.06737": "Exoplanet Transit Spectroscopy with JWST NIRSpec: Diagnostics and Homogeneous Case Study of WASP-39 b",
   "2405.20361": "HST SHEL: Enabling Comparative Exoplanetology with HST/STIS",
@@ -32,7 +31,8 @@
   "2603.12479": "Bridging the Gap: Using Brown Dwarfs to Examine Silicate Clouds in Giant Exoplanet Atmospheres",
   "2606.16787": "Metal Oxide Clusters in Gas Giant Exoplanet Atmospheres",
   "2607.18409": "Precise Determination of the Metallicity and C/O of WASP-39~b From a Single JWST Instrument Mode with Phase-Resolved Cross-Correlation Retrievals",
-  "2607.19579": "Atmospheric retrieval evidence for water isotopologue HDO on exoplanet WASP-39b"
+  "2607.19579": "Atmospheric retrieval evidence for water isotopologue HDO on exoplanet WASP-39b",
+  "2611.23818": "NEXONN: Advancing the NEXOTRANS Exoplanet Atmospheric Retrieval Framework with Transformer-Based Neural Posterior Estimation for JWST Transmission Spectroscopy of WASP-39b"
  },
  "mast": {
   "jw01366-o001_t001_niriss_clear-gr700xd-substrip256": "1366 NIRISS/SOSS release 59787.58458325",

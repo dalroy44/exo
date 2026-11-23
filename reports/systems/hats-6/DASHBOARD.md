@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   HATS-6  ·  JWST WATCH                      ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 10 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 2 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 2 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Unknown Error'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  10
-arXiv  ▁▁▁▁▁▁  2
+MAST   ▁▁▁▁▁▁▁  10
+arXiv  ▁▁▁▁▁▁▁  2
 ```
 
 ## ▌ JWST coverage by instrument
@@ -32,14 +34,14 @@ NIRSPEC  ████████████████████ 10
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171-o006_t003_nirspec_clear-prism-s1600a1-sub512` |
-| 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg004_nrs2` |
-| 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg001_nrs2` |
 | 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg002_nrs2` |
+| 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg001_nrs2` |
+| 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg004_nrs2` |
 | 2024-01-17 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171006001_04101_00001-seg003_nrs2` |
 | 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171007001_04101_00001-seg002_nrs2` |
-| 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171007001_04101_00001-seg001_nrs2` |
-| 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171-o007_t003_nirspec_clear-prism-s1600a1-sub512` |
 | 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171007001_04101_00001-seg003_nrs2` |
+| 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171-o007_t003_nirspec_clear-prism-s1600a1-sub512` |
+| 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171007001_04101_00001-seg001_nrs2` |
 | 2024-01-22 | ◉ public | 3171 | NIRSPEC/SLIT | `jw03171007001_04101_00001-seg004_nrs2` |
 
 ## ▌ Planets (NASA Exoplanet Archive)
@@ -52,13 +54,14 @@ Star: Teff 3724.0 K, radius 0.57 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2610.19328`](https://arxiv.org/abs/2610.19328)  ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets
 - [`2608.16990`](https://arxiv.org/abs/2608.16990)  GEMS JWST: Hold on to your HATS(-6 b), a sub-solar metallicity giant planet with water, methane and ammonia in its atmosphere
+- [`2610.19328`](https://arxiv.org/abs/2610.19328)  ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23     10      2    0  ·
 2026-11-09     10      2    0  ·
 2026-11-02     10      2    0  ·
 2026-10-26     10      2    0  ·

@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║   WASP-52  ·  JWST WATCH                     ║
-║   checked 2026-11-09   ·   6 run-days logged ║
+║   checked 2026-11-23   ·   7 run-days logged ║
 ╚══════════════════════════════════════════════╝
 ```
 [← all systems](../../INDEX.md)
@@ -12,13 +12,15 @@
 |---|---|---:|---:|---|
 | mast | ● ok | 6 | 0 | 2026-10-19 |
 | archive | ● ok | 1 planets | 0 | 2026-10-19 |
-| arxiv | ● ok | 8 | 0 | 2026-10-19 |
+| arxiv | ● FAIL | 8 | 0 | 2026-10-19 |
+
+> ⚠ arxiv failed: <HTTPError 429: 'Too Many Requests'> (showing previous data)
 
 ## ▌ Trend (per run-day, oldest → newest)
 
 ```
-MAST   ▁▁▁▁▁▁  6
-arXiv  ▁▁▁▁▁▁  8
+MAST   ▁▁▁▁▁▁▁  6
+arXiv  ▁▁▁▁▁▁▁  8
 ```
 
 ## ▌ JWST coverage by instrument
@@ -33,9 +35,9 @@ NIRSPEC  █████████████████░░░ 5
 | release | status | program | instrument | obs id |
 |---|---|---|---|---|
 | 2023-11-27 | ◉ public | 1201 | NIRISS/SOSS | `jw01201-o501_t017_niriss_clear-gr700xd-substrip256` |
-| 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg002_nrs2` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg001_nrs2` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg003_nrs2` |
+| 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224004001_04101_00001-seg002_nrs2` |
 | 2024-06-11 | ◉ public | 1224 | NIRSPEC/SLIT | `jw01224-o004_t004_nirspec_clear-prism-s1600a1-sub512s` |
 | 2024-10-31 | ◉ public | 3969 | NIRSPEC/SLIT | `jw03969-o003_t002_nirspec_f290lp-g395h-s1600a1-sub2048` |
 
@@ -49,19 +51,20 @@ Star: Teff 5000.0 K, radius 0.79 R☉
 
 ## ▌ Latest papers (arXiv)
 
-- [`2508.20572`](https://arxiv.org/abs/2508.20572)  Probing the extent of WASP-52 b's atmosphere. High-resolution observations and 3D modeling insights
-- [`2412.17072`](https://arxiv.org/abs/2412.17072)  Transmission spectroscopy of WASP-52 b with JWST NIRISS: Water and helium atmospheric absorption, alongside prominent star-spot crossings
-- [`2209.03677`](https://arxiv.org/abs/2209.03677)  Constraining planetary mass-loss rates by simulating Parker wind profiles with Cloudy
-- [`2207.05136`](https://arxiv.org/abs/2207.05136)  APPLESOSS: A Producer of ProfiLEs for SOSS. Application to the NIRISS SOSS Mode
-- [`2007.00573`](https://arxiv.org/abs/2007.00573)  Correcting for chromatic stellar activity effects in transits with multiband photometric monitoring: Application to WASP-52
-- [`1911.05179`](https://arxiv.org/abs/1911.05179)  WASP-52b. The effect of starspot correction on atmospheric retrievals
-- [`1811.00935`](https://arxiv.org/abs/1811.00935)  The HST PanCET Program: Hints of Na I & Evidence of a Cloudy Atmosphere for the Inflated Hot Jupiter WASP-52b
 - [`1808.09514`](https://arxiv.org/abs/1808.09514)  Starspot occultations in infrared transit spectroscopy: the case of WASP-52b
+- [`1811.00935`](https://arxiv.org/abs/1811.00935)  The HST PanCET Program: Hints of Na I & Evidence of a Cloudy Atmosphere for the Inflated Hot Jupiter WASP-52b
+- [`1911.05179`](https://arxiv.org/abs/1911.05179)  WASP-52b. The effect of starspot correction on atmospheric retrievals
+- [`2007.00573`](https://arxiv.org/abs/2007.00573)  Correcting for chromatic stellar activity effects in transits with multiband photometric monitoring: Application to WASP-52
+- [`2207.05136`](https://arxiv.org/abs/2207.05136)  APPLESOSS: A Producer of ProfiLEs for SOSS. Application to the NIRISS SOSS Mode
+- [`2209.03677`](https://arxiv.org/abs/2209.03677)  Constraining planetary mass-loss rates by simulating Parker wind profiles with Cloudy
+- [`2412.17072`](https://arxiv.org/abs/2412.17072)  Transmission spectroscopy of WASP-52 b with JWST NIRISS: Water and helium atmospheric absorption, alongside prominent star-spot crossings
+- [`2508.20572`](https://arxiv.org/abs/2508.20572)  Probing the extent of WASP-52 b's atmosphere. High-resolution observations and 3D modeling insights
 
 ## ▌ History
 
 ```
 date         MAST  arXiv  new  changes
+2026-11-23      6      8    0  ·
 2026-11-09      6      8    0  ·
 2026-11-02      6      8    0  ·
 2026-10-26      6      8    0  ·
